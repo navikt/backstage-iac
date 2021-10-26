@@ -28,7 +28,6 @@ metadata:
 spec:
   profile:
     displayName: Jan Olav Eide
-    email: ""
     picture: https://avatars.githubusercontent.com/u/80393418?u=aea7c57c96af12fc4ca63488a5fc19059a8de5fa&amp;v=4
   memberOf: ["aap", "teamforeldrepenger"]
 ---
@@ -171,7 +170,6 @@ metadata:
 spec:
   profile:
     displayName: Paul Bencze
-    email: ""
     picture: https://avatars.githubusercontent.com/u/2833482?u=57a9e33dde828229f0b819dc60b1804a26a8ccc4&amp;v=4
   memberOf: ["ailabben", "cosmosdb-datakatalog", "developers", "dig-dakan", "doccano", "fist", "knada", "opendata", "teamdi", "teampam", "webanalytics"]
 ---
@@ -193,7 +191,6 @@ metadata:
 spec:
   profile:
     displayName: poke53280
-    email: ""
     picture: https://avatars.githubusercontent.com/u/28196378?v=4
   memberOf: ["ailabben", "teamsykefravr"]
 ---
@@ -248,7 +245,6 @@ metadata:
 spec:
   profile:
     displayName: cathrinepl
-    email: ""
     picture: https://avatars.githubusercontent.com/u/42588213?u=a31ecb256b66fa647bbc9b7cf42a78bc6ac6d6fc&amp;v=4
   memberOf: ["ailabben"]
 ---
@@ -479,7 +475,6 @@ metadata:
 spec:
   profile:
     displayName: Odd Andreas Sørsæther
-    email: ""
     picture: https://avatars.githubusercontent.com/u/3494925?u=f1a4a1fb2cfcb40b88d5a4a983358eb045f85175&amp;v=4
   memberOf: ["arbeidsforhold", "registre"]
 ---
@@ -490,7 +485,6 @@ metadata:
 spec:
   profile:
     displayName: Ivo Ivanov
-    email: ""
     picture: https://avatars.githubusercontent.com/u/11502345?u=51385e1cc6e5fe68c1b12c51a04feaf15790c0d1&amp;v=4
   memberOf: ["arbeidsforhold"]
 ---
@@ -501,7 +495,6 @@ metadata:
 spec:
   profile:
     displayName: Henrik Kolberg
-    email: ""
     picture: https://avatars.githubusercontent.com/u/31314009?v=4
   memberOf: ["arbeidsforhold", "registre"]
 ---
@@ -710,7 +703,6 @@ metadata:
 spec:
   profile:
     displayName: mattiaslundmark
-    email: ""
     picture: https://avatars.githubusercontent.com/u/5471799?u=078fd4a9f2fdb0e7a1f8ca6ce055bf7297f69f72&amp;v=4
   memberOf: ["arbeidsgiver", "permittering-og-nedbemanning"]
 ---
@@ -721,7 +713,6 @@ metadata:
 spec:
   profile:
     displayName: John Arne Føreland
-    email: ""
     picture: https://avatars.githubusercontent.com/u/6638390?u=fc1838d6332f9d1af54d75b1b4a871667a94a718&amp;v=4
   memberOf: ["arbeidsgiver", "crm", "team-dialog", "team_dialog"]
 ---
@@ -732,7 +723,6 @@ metadata:
 spec:
   profile:
     displayName: Mickel 
-    email: ""
     picture: https://avatars.githubusercontent.com/u/8565717?u=86d26222d0d525851a6c3f4b956efe54ab746a53&amp;v=4
   memberOf: ["arbeidsgiver", "team-ai"]
 ---
@@ -754,7 +744,6 @@ metadata:
 spec:
   profile:
     displayName: Stine Uddal
-    email: ""
     picture: https://avatars.githubusercontent.com/u/10920774?u=beb0b34e43daf0878d3b52454addd20cebd0a3d9&amp;v=4
   memberOf: ["arbeidsgiver", "crm", "team-dialog", "team_dialog"]
 ---
@@ -864,7 +853,6 @@ metadata:
 spec:
   profile:
     displayName: bjornhagglund
-    email: ""
     picture: https://avatars.githubusercontent.com/u/33373680?v=4
   memberOf: ["arbeidsgiver", "team-dialog", "teamcrm", "teamnks"]
 ---
@@ -897,7 +885,6 @@ metadata:
 spec:
   profile:
     displayName: nimajimale
-    email: ""
     picture: https://avatars.githubusercontent.com/u/42611223?u=869934a2e6044bb193049d882d1addf3cb50ad46&amp;v=4
   memberOf: ["arbeidsgiver", "team-ai"]
 ---
@@ -1381,7 +1368,6 @@ metadata:
 spec:
   profile:
     displayName: Ugur Alpay Cenar
-    email: ""
     picture: https://avatars.githubusercontent.com/u/4265105?u=7053c970b5fe84e07b694ab3b3293cdc58e8dda3&amp;v=4
   memberOf: ["bidrag"]
 ---
@@ -1414,7 +1400,6 @@ metadata:
 spec:
   profile:
     displayName: Morten Hermansen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/43464385?v=4
   memberOf: ["bidrag"]
 ---
@@ -1546,7 +1531,6 @@ metadata:
 spec:
   profile:
     displayName: magnushamrin
-    email: ""
     picture: https://avatars.githubusercontent.com/u/10032385?v=4
   memberOf: ["crm", "team_dialog"]
 ---
@@ -1568,7 +1552,6 @@ metadata:
 spec:
   profile:
     displayName: frodehoen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/26440005?v=4
   memberOf: ["crm", "crm-admin", "team-nks", "team-dialog", "teamcrm", "team_dialog"]
 ---
@@ -1579,7 +1562,6 @@ metadata:
 spec:
   profile:
     displayName: piszosta
-    email: ""
     picture: https://avatars.githubusercontent.com/u/42918948?u=b8ac535fc77e9b2275ea9e213beef8f6fa245f03&amp;v=4
   memberOf: ["crm", "team_dialog"]
 ---
@@ -1590,7 +1572,6 @@ metadata:
 spec:
   profile:
     displayName: Morten Mikalsen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/43532815?v=4
   memberOf: ["crm", "team-nks"]
 ---
@@ -1601,7 +1582,6 @@ metadata:
 spec:
   profile:
     displayName: Tor Håkon Sigurdsen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/55088511?u=6b70978976d33679ccd878b8e97ab4ad440432f0&amp;v=4
   memberOf: ["crm", "team-nks"]
 ---
@@ -1612,7 +1592,6 @@ metadata:
 spec:
   profile:
     displayName: Gisle Stenseng
-    email: ""
     picture: https://avatars.githubusercontent.com/u/56300718?u=e8b35cf6abeec733050019693d540660e75c9806&amp;v=4
   memberOf: ["crm", "team_dialog"]
 ---
@@ -1623,7 +1602,6 @@ metadata:
 spec:
   profile:
     displayName: celinetomren
-    email: ""
     picture: https://avatars.githubusercontent.com/u/56354677?v=4
   memberOf: ["crm", "team-nks"]
 ---
@@ -1634,7 +1612,6 @@ metadata:
 spec:
   profile:
     displayName: Andre Colle
-    email: ""
     picture: https://avatars.githubusercontent.com/u/56640917?u=10df2a62300724111a7fb26507d7270a47f2195a&amp;v=4
   memberOf: ["crm", "team_dialog"]
 ---
@@ -1656,7 +1633,6 @@ metadata:
 spec:
   profile:
     displayName: larspetterjohnsen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/63037386?u=1594187498af7883cbc721475ffffe1da66d18d5&amp;v=4
   memberOf: ["crm", "team-nks"]
 ---
@@ -1799,7 +1775,6 @@ metadata:
 spec:
   profile:
     displayName: Andreas Nordahl
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1894119?u=5292ef347e7d0e11671a1c50fbb606fda3c091bb&amp;v=4
   memberOf: ["designsystem", "nav-developers", "nav-frontend-admins"]
 ---
@@ -1909,7 +1884,6 @@ metadata:
 spec:
   profile:
     displayName: Dervis Mansuroglu
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1171789?u=3f376fd031c41bdce6404dad8ba222f5f39527d2&amp;v=4
   memberOf: ["detsombetyrnoe", "developers", "forenklet-oppfolging", "fp-faggruppe", "nav-developers", "utvikling-ledelse"]
 ---
@@ -1920,7 +1894,6 @@ metadata:
 spec:
   profile:
     displayName: Knut Mork
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1734575?u=a1471924f2293fbebe37aef661b84d6ce0080463&amp;v=4
   memberOf: ["detsombetyrnoe", "nav-developers"]
 ---
@@ -2052,7 +2025,6 @@ metadata:
 spec:
   profile:
     displayName: Nicklas Utgaard
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1413417?v=4
   memberOf: ["developers", "nav-developers", "nav-frontend-admins", "oppfolging", "oppfolging-person", "personoversikt", "pus", "team-innsending"]
 ---
@@ -2712,7 +2684,6 @@ metadata:
 spec:
   profile:
     displayName: eivinne
-    email: ""
     picture: https://avatars.githubusercontent.com/u/43741762?v=4
   memberOf: ["dittnav", "min-side", "personbruker"]
 ---
@@ -2943,7 +2914,6 @@ metadata:
 spec:
   profile:
     displayName: Ole Jørgen Rishoff
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1122765?v=4
   memberOf: ["duplodevs", "k9saksbehandling", "nav-developers", "sykdom-i-familien"]
 ---
@@ -3218,7 +3188,6 @@ metadata:
 spec:
   profile:
     displayName: l105669
-    email: ""
     picture: https://avatars.githubusercontent.com/u/43843393?v=4
   memberOf: ["dvh-analytisk-plattform", "teammarvel"]
 ---
@@ -3284,7 +3253,6 @@ metadata:
 spec:
   profile:
     displayName: espenhoh
-    email: ""
     picture: https://avatars.githubusercontent.com/u/7356070?v=4
   memberOf: ["dvh-arbeid", "teknologiredaksjonen"]
 ---
@@ -3339,7 +3307,6 @@ metadata:
 spec:
   profile:
     displayName: yongbinkwon
-    email: ""
     picture: https://avatars.githubusercontent.com/u/26415628?v=4
   memberOf: ["easymoneysnipers", "teampam"]
 ---
@@ -3559,7 +3526,6 @@ metadata:
 spec:
   profile:
     displayName: Golshid Bahadorian
-    email: ""
     picture: https://avatars.githubusercontent.com/u/36138378?u=4825e50048a631f40bb0711d79cb692adc8e638e&amp;v=4
   memberOf: ["flex"]
 ---
@@ -3702,7 +3668,6 @@ metadata:
 spec:
   profile:
     displayName: Eirik Myklebost
-    email: ""
     picture: https://avatars.githubusercontent.com/u/2029260?u=a5b7f7797463da8bc24ca7d18a30c9b197655dee&amp;v=4
   memberOf: ["helseopplysninger", "nav-developers"]
 ---
@@ -3768,7 +3733,6 @@ metadata:
 spec:
   profile:
     displayName: Terje Karlsen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1443997?u=004755738fc728d2994680d1e097ebcac024e326&amp;v=4
   memberOf: ["informasjon-og-veiledning", "nav-developers", "personbruker"]
 ---
@@ -3878,7 +3842,6 @@ metadata:
 spec:
   profile:
     displayName: brox27
-    email: ""
     picture: https://avatars.githubusercontent.com/u/25179514?v=4
   memberOf: ["isa"]
 ---
@@ -3911,7 +3874,6 @@ metadata:
 spec:
   profile:
     displayName: g129051
-    email: ""
     picture: https://avatars.githubusercontent.com/u/6102885?u=d0524f13d03dd83cc7424d8249b73515b9d91d3f&amp;v=4
   memberOf: ["isoc-secops"]
 ---
@@ -3966,7 +3928,6 @@ metadata:
 spec:
   profile:
     displayName: Torgeir Arnoy
-    email: ""
     picture: https://avatars.githubusercontent.com/u/897541?u=9566aacaca5694fe62c5f9f8d1c7bcbbfe8cce57&amp;v=4
   memberOf: ["jsd", "nav-developers"]
 ---
@@ -4021,7 +3982,6 @@ metadata:
 spec:
   profile:
     displayName: Iftikhar Mahmood
-    email: ""
     picture: https://avatars.githubusercontent.com/u/47450543?u=f8963dded02c67f8088a1d4d167b36589789cf56&amp;v=4
   memberOf: ["jsd"]
 ---
@@ -4285,7 +4245,6 @@ metadata:
 spec:
   profile:
     displayName: Daniel
-    email: ""
     picture: https://avatars.githubusercontent.com/u/11520860?v=4
   memberOf: ["klage"]
 ---
@@ -4439,7 +4398,6 @@ metadata:
 spec:
   profile:
     displayName: Rune Lind
-    email: ""
     picture: https://avatars.githubusercontent.com/u/383419?v=4
   memberOf: ["nav-developers", "teammelosys"]
 ---
@@ -4461,7 +4419,6 @@ metadata:
 spec:
   profile:
     displayName: Charlie Midtlyng
-    email: ""
     picture: https://avatars.githubusercontent.com/u/402915?v=4
   memberOf: ["nav-developers", "teamfamilie"]
 ---
@@ -4527,7 +4484,6 @@ metadata:
 spec:
   profile:
     displayName: Ann Katrin Gagnat
-    email: ""
     picture: https://avatars.githubusercontent.com/u/900509?u=911b3e1d7594b4ff6d2f3023ca1d215e35d7c66f&amp;v=4
   memberOf: ["nav-developers", "skjemadigitalisering"]
 ---
@@ -4670,7 +4626,6 @@ metadata:
 spec:
   profile:
     displayName: Ingar Almklov
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1528825?u=9ca76ff2071223edca7feda7b200310c1d7857e1&amp;v=4
   memberOf: ["nav-developers", "supstonad", "teampensjon"]
 ---
@@ -4692,7 +4647,6 @@ metadata:
 spec:
   profile:
     displayName: Thomas H. Wiberg
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1904274?v=4
   memberOf: ["nav-developers"]
 ---
@@ -4714,7 +4668,6 @@ metadata:
 spec:
   profile:
     displayName: espenbago
-    email: ""
     picture: https://avatars.githubusercontent.com/u/2326990?v=4
   memberOf: ["nav-developers"]
 ---
@@ -4802,7 +4755,6 @@ metadata:
 spec:
   profile:
     displayName: Mugunthan Dharmadas
-    email: ""
     picture: https://avatars.githubusercontent.com/u/47245472?v=4
   memberOf: ["nom", "teamdatajegerne"]
 ---
@@ -4879,7 +4831,6 @@ metadata:
 spec:
   profile:
     displayName: Emil Døhlen Hansen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/19923661?u=12c9d0c15a2534341299e63c981bc212afba4454&amp;v=4
   memberOf: ["obo", "pto", "voff"]
 ---
@@ -5451,7 +5402,6 @@ metadata:
 spec:
   profile:
     displayName: Dainius
-    email: ""
     picture: https://avatars.githubusercontent.com/u/11692821?u=3be4d6a5556baf681abf0a174fae937c94ca30ac&amp;v=4
   memberOf: ["pensjondeployer", "pensjonsamhandling", "teampensjon"]
 ---
@@ -5473,7 +5423,6 @@ metadata:
 spec:
   profile:
     displayName: Eirik Molnes
-    email: ""
     picture: https://avatars.githubusercontent.com/u/57000102?u=ef2cc81de2e2ff281789c423305c37566b1ab25f&amp;v=4
   memberOf: ["pensjondeployer", "pensjonsamhandling", "pensjontestdata", "team-krigspensjon", "teampensjon"]
 ---
@@ -5726,7 +5675,6 @@ metadata:
 spec:
   profile:
     displayName: Vilde Stefferud
-    email: ""
     picture: https://avatars.githubusercontent.com/u/33753494?u=1e7dc4982f97d47d3c45928e2815c15724cca4f2&amp;v=4
   memberOf: ["personoversikt"]
 ---
@@ -5770,7 +5718,6 @@ metadata:
 spec:
   profile:
     displayName: jorgen75
-    email: ""
     picture: https://avatars.githubusercontent.com/u/7851700?v=4
   memberOf: ["plattform"]
 ---
@@ -5968,7 +5915,6 @@ metadata:
 spec:
   profile:
     displayName: Vegard Haugstvedt
-    email: ""
     picture: https://avatars.githubusercontent.com/u/7712595?v=4
   memberOf: ["skjemadigitalisering"]
 ---
@@ -5979,7 +5925,6 @@ metadata:
 spec:
   profile:
     displayName: Magnus Røed Hestvik
-    email: ""
     picture: https://avatars.githubusercontent.com/u/60958418?v=4
   memberOf: ["skjemadigitalisering"]
 ---
@@ -6166,7 +6111,6 @@ metadata:
 spec:
   profile:
     displayName: Christergabba
-    email: ""
     picture: https://avatars.githubusercontent.com/u/24406898?v=4
   memberOf: ["team-atom", "traktor"]
 ---
@@ -6287,7 +6231,6 @@ metadata:
 spec:
   profile:
     displayName: Marek Zielinski
-    email: ""
     picture: https://avatars.githubusercontent.com/u/56441651?u=484770e07678b9422cded4bf1e8ba64aba323aa6&amp;v=4
   memberOf: ["team-emottak"]
 ---
@@ -6320,7 +6263,6 @@ metadata:
 spec:
   profile:
     displayName: Alexander Petrov
-    email: ""
     picture: https://avatars.githubusercontent.com/u/3206343?u=e380f17bfec3eac3039d0d330d0b0ca9038069fc&amp;v=4
   memberOf: ["team-innsending", "team-soknad"]
 ---
@@ -6364,7 +6306,6 @@ metadata:
 spec:
   profile:
     displayName: Michael Lindberg
-    email: ""
     picture: https://avatars.githubusercontent.com/u/37673872?v=4
   memberOf: ["team-match"]
 ---
@@ -6771,7 +6712,6 @@ metadata:
 spec:
   profile:
     displayName: Marius Johan Franco Dioli
-    email: ""
     picture: https://avatars.githubusercontent.com/u/47391623?v=4
   memberOf: ["teamdi"]
 ---
@@ -6859,7 +6799,6 @@ metadata:
 spec:
   profile:
     displayName: Joachim
-    email: ""
     picture: https://avatars.githubusercontent.com/u/44815226?u=c3912d8c6bd1c1887234639c32b1e465f0d364f7&amp;v=4
   memberOf: ["teamdigisos"]
 ---
@@ -7013,7 +6952,6 @@ metadata:
 spec:
   profile:
     displayName: halvorbmundal
-    email: ""
     picture: https://avatars.githubusercontent.com/u/17828446?u=2e9a188c87e40f440c2444ab808626dafb9297fe&amp;v=4
   memberOf: ["teamfamilie"]
 ---
@@ -7068,7 +7006,6 @@ metadata:
 spec:
   profile:
     displayName: Eivind Aamli
-    email: ""
     picture: https://avatars.githubusercontent.com/u/47246493?v=4
   memberOf: ["teamfamilie"]
 ---
@@ -7178,7 +7115,6 @@ metadata:
 spec:
   profile:
     displayName: steinarhaug
-    email: ""
     picture: https://avatars.githubusercontent.com/u/6664566?v=4
   memberOf: ["teamfrikort"]
 ---
@@ -7189,7 +7125,6 @@ metadata:
 spec:
   profile:
     displayName: asmirbiscevic
-    email: ""
     picture: https://avatars.githubusercontent.com/u/45484374?v=4
   memberOf: ["teamfrikort"]
 ---
@@ -7486,7 +7421,6 @@ metadata:
 spec:
   profile:
     displayName: Eziz Annagurban
-    email: ""
     picture: https://avatars.githubusercontent.com/u/4163762?u=d9cd3d5e54dd779928bd33cbe911112e56011a04&amp;v=4
   memberOf: ["teampensjon"]
 ---
@@ -7541,7 +7475,6 @@ metadata:
 spec:
   profile:
     displayName: Kim Andreassen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/63858547?v=4
   memberOf: ["teampensjon"]
 ---
@@ -7596,7 +7529,6 @@ metadata:
 spec:
   profile:
     displayName: Karl O
-    email: ""
     picture: https://avatars.githubusercontent.com/u/1507032?u=7171e95064367cf6d0e3a1d9f13bbcd3e784c627&amp;v=4
   memberOf: ["teamsykmelding"]
 ---
@@ -7618,7 +7550,6 @@ metadata:
 spec:
   profile:
     displayName: erlingre
-    email: ""
     picture: https://avatars.githubusercontent.com/u/9033323?v=4
   memberOf: ["traktor"]
 ---
@@ -7629,7 +7560,6 @@ metadata:
 spec:
   profile:
     displayName: hfltten
-    email: ""
     picture: https://avatars.githubusercontent.com/u/44776540?v=4
   memberOf: ["traktor"]
 ---
@@ -7673,7 +7603,6 @@ metadata:
 spec:
   profile:
     displayName: Tov Are Jacobsen
-    email: ""
     picture: https://avatars.githubusercontent.com/u/3688001?v=4
   memberOf: ["webanalytics"]
 ---
