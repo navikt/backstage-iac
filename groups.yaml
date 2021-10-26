@@ -1,0 +1,1400 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: aap
+  description: Team AAP (Arbeidsavklaringspenger)
+spec:
+  type: team
+  profile:
+    displayName: aap
+    picture: https://avatars.githubusercontent.com/t/5086493?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["andersostby", "richardborge", "jan-olaveide", "tidnav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: academy
+  description: Samleteam for opplæringsaktiviteter som faggrupper osv
+spec:
+  type: team
+  profile:
+    displayName: academy
+    picture: https://avatars.githubusercontent.com/t/3013043?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["geiralund", "mijohansen", "einarbj", "linemos", "erlingjd", "sonhal", "arshadkamran", "rinnan17", "Mort12Lander", "toresletten", "Stefuzi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: ailabben
+  description: Tilgang til AI-Labben i Azure
+spec:
+  type: team
+  profile:
+    displayName: ailabben
+    picture: https://avatars.githubusercontent.com/t/2801344?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["pbencze", "jonvegards", "poke53280", "larsksut", "robindraprabhu", "erikvatt", "beatesi", "cathrinepl", "lljorgeluis", "mariacabrol"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: alf
+  description: Team Altinn Lokal Forvaltning
+spec:
+  type: team
+  profile:
+    displayName: alf
+    picture: https://avatars.githubusercontent.com/t/2802185?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["richos7", "harunde", "monaelis"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: amt
+  description: Arbeidsmarkedstiltak (underlagt Produktområde Arbeidsoppfølging)
+spec:
+  type: team
+  profile:
+    displayName: amt
+    picture: https://avatars.githubusercontent.com/t/5071425?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["izisfro", "steffeli", "einarbj", "AlexGaard", "taniaholst", "magnusevnav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: anonymisering
+  description: Team Anonymisering bygger tjenester for data anonymisering for forskjellige brukergrupper i NAV IT
+spec:
+  type: team
+  profile:
+    displayName: anonymisering
+    picture: https://avatars.githubusercontent.com/t/3299290?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["sonhal", "andregroseth", "JeremiahUy"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: apen-kildekode
+  description: Vi fasiliterer bruk av åpen kildekode i NAV.
+spec:
+  type: team
+  profile:
+    displayName: Åpen kildekode
+    picture: https://avatars.githubusercontent.com/t/2702249?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["davidsteinsland", "trulsjor", "audunstrand", "jksolbakken"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: arbeidsflate
+  description: Vi som arbeider med arbeidsflatene i NAV
+spec:
+  type: team
+  profile:
+    displayName: Arbeidsflate
+    picture: https://avatars.githubusercontent.com/t/3448285?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["geirbraten", "mariusostby", "olaholtberget"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: arbeidsforhold
+  description: Team Arbeidsforhold har ansvar for registerene AAREG og EREG
+spec:
+  type: team
+  profile:
+    displayName: arbeidsforhold
+    picture: https://avatars.githubusercontent.com/t/3709614?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["cteig", "Oddsor", "ivoiv", "henrikkol", "erikvatt", "reidarkjoslien", "nicolaetecusan", "KnutArildSlaatsve", "faleri72", "h153755", "abryhni", "joelchristianlorum", "Gvester", "AlemBasic-Nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: arbeidsgiver
+  description: Produktområde arbeidsgiver
+spec:
+  type: team
+  profile:
+    displayName: arbeidsgiver
+    picture: https://avatars.githubusercontent.com/t/3677605?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["hholmste", "kenglxn", "thomasdufourd", "peterbb", "mbolstad", "fredrikpe", "bendiksi", "andrmos", "sindredl", "mattiaslundmark", "johnforeland", "Majjki", "kjesvale", "suddal", "hbleness", "frodank", "ahusby", "joarau", "Brunarspunar", "catriont", "ulrikah", "Havardmj", "erlend-axelsson", "bjornhagglund", "StefanEngelien-Nav", "robindraprabhu", "d142796", "nimajimale", "hildeheggstad", "MalazAlkoj", "KristinaAsberg", "hannahogberg", "Oleste", "MagnusRom", "fridtjofalestrom", "audisaudisaudis", "KarlEvaldNav", "torbjornmartinsen", "EmilGronnbeck", "madsleegiil", "AlexanderamiriNAV"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: arbeidsgiver-inkludering
+  description: Team inkludering i Produktområde arbeidsgiver
+spec:
+  type: team
+  profile:
+    displayName: arbeidsgiver-inkludering
+    picture: https://avatars.githubusercontent.com/t/4801263?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["andrmos", "kjesvale", "frodank", "ahusby", "joarau", "madsleegiil"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: arbeidsretta-tiltak
+  description: Analyse av arbeidsretta tiltak
+spec:
+  type: team
+  profile:
+    displayName: arbeidsretta-tiltak
+    picture: https://avatars.githubusercontent.com/t/4626922?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["robindraprabhu", "krithika14051989"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: atom
+  description: developers @atom
+spec:
+  type: team
+  profile:
+    displayName: atom
+    picture: https://avatars.githubusercontent.com/t/2807240?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["sindrerh2", "errordodge"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: aura
+  description: Aura team (Team group created by https://github.com/navikt/teams)
+spec:
+  type: team
+  profile:
+    displayName: aura
+    picture: https://avatars.githubusercontent.com/t/2590128?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["christeredvartsen", "x10an14", "mortenlj", "jhrv", "ambientsound", "Sechmann", "cteig", "toresbe", "toby1knby", "Kyrremann", "rbjornstad", "audunstrand", "chinatsu", "Muni10", "tronghn", "gorzan", "frodesundby", "terjesannum", "tommytroen", "ybelMekk", "sindrerh2", "andersbye", "thokra-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: azure-platform
+  description: Team Azure Platform
+spec:
+  type: team
+  profile:
+    displayName: azure-platform
+    picture: https://avatars.githubusercontent.com/t/5059750?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["ttnesby", "matsest", "errordodge", "leifljastad2", "JonSverre", "mariusostby", "Brochs"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: babylon
+  description: NAIS sommerstudenter 2021
+spec:
+  type: team
+  profile:
+    displayName: babylon
+    picture: https://avatars.githubusercontent.com/t/4928186?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["chinatsu", "sonhal"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: baseimage
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: baseimage
+    picture: https://avatars.githubusercontent.com/t/2974178?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["davidsteinsland", "joakibj", "Muni10", "linemos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: begrepskatalogen
+  description: Gruppe for Begrepskatalogens administratorer og prosessdrivere
+spec:
+  type: team
+  profile:
+    displayName: Begrepskatalogen
+    picture: https://avatars.githubusercontent.com/t/3295379?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["arshadkamran", "Stefuzi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: beregningsmodul
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: Beregningsmodul
+    picture: https://avatars.githubusercontent.com/t/3383310?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["laukvik"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: bidrag
+  description: Gruppe for utviklere i Bidrag. Brukes bl.a. for kobling mot ressurser i Vault
+spec:
+  type: team
+  profile:
+    displayName: bidrag
+    picture: https://avatars.githubusercontent.com/t/2925410?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["ugur93", "jactor-rises", "s148719", "morher", "tatjanaand", "rinnan17", "LarsOttoHaugen", "bragejahren"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: biff
+  description: Team Biff
+spec:
+  type: team
+  profile:
+    displayName: biff
+    picture: https://avatars.githubusercontent.com/t/3115623?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["matiasvinjevoll", "AlexGaard", "sneha-d-desai", "nav-jorn-ola-birkeland"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: bikers
+  description: Prosesstøtte Overvåkning
+spec:
+  type: team
+  profile:
+    displayName: bikers
+    picture: https://avatars.githubusercontent.com/t/3587752?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["rogermi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: core
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: Core
+    picture: https://avatars.githubusercontent.com/t/1422826?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["trulsjor", "matsbyfl", "jhrv", "audunstrand", "mrsladek", "frodesundby", "terjesannum"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: cosmosdb-datakatalog
+  description: Cosmos db datakatalog
+spec:
+  type: team
+  profile:
+    displayName: cosmosdb-datakatalog
+    picture: https://avatars.githubusercontent.com/t/3918866?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["pbencze", "andregroseth", "JeremiahUy", "erikvatt", "lljorgeluis"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: crm
+  description: All CRM developers
+spec:
+  type: team
+  profile:
+    displayName: crm
+    picture: https://avatars.githubusercontent.com/t/4560732?s=400&amp;v=4
+  parent: ""
+  children: ["team_dialog"]
+  members: ["chfosli", "johnforeland", "EirikFladby", "magnushamrin", "suddal", "EdvardBrekke", "frodehoen", "piszosta", "mamikals", "torhakon", "gstenseng", "celinetomren", "raac09", "vmjelde", "larspetterjohnsen", "SRS-Dxtreme", "saramoh2309", "ebelegu", "ibhagupta8nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: crm-admin
+  description: Gir admin-tilganger til crm-repoer
+spec:
+  type: team
+  profile:
+    displayName: crm-admin
+    picture: https://avatars.githubusercontent.com/t/5138120?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["chfosli", "frodehoen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dab
+  description: dab
+spec:
+  type: team
+  profile:
+    displayName: dab
+    picture: https://avatars.githubusercontent.com/t/3379339?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["holymaloney", "theahj", "marcjas", "hakonph"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: database
+  description: Team for maintaining databases at NAV
+spec:
+  type: team
+  profile:
+    displayName: database
+    picture: https://avatars.githubusercontent.com/t/3097286?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["karlheinz1"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dataplattform
+  description: Dokumenter til planlegging av Dataplattformområdet i NAV
+spec:
+  type: team
+  profile:
+    displayName: dataplattform
+    picture: https://avatars.githubusercontent.com/t/3244072?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["jhrv", "cteig", "toresbe", "Kyrremann", "gorzan", "frodesundby", "andregroseth", "JeremiahUy", "erikvatt", "bentelbusch", "vebjorre", "thokra-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: design
+  description: It&#39;z all about designz
+spec:
+  type: team
+  profile:
+    displayName: Design
+    picture: https://avatars.githubusercontent.com/t/3252958?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["rrsslnd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: designsystem
+  description: Team designsystem
+spec:
+  type: team
+  profile:
+    displayName: designsystem
+    picture: https://avatars.githubusercontent.com/t/4026729?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["andnorda", "KenAJoh", "Miaag", "Sjur-NAV", "JorgenMaristuen", "Magnusbhell", "Trent-NAV"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: designsystemet
+  description: Team ansvarlig for designsystemet i NAV (design.nav.no)
+spec:
+  type: team
+  profile:
+    displayName: Designsystemet
+    picture: https://avatars.githubusercontent.com/t/3428787?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["Lillebo", "KenAJoh", "karinaldw"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: detsombetyrnoe
+  description: Rekruttering og profileringssiden for NAV IT - blir liggende på detsombetyrnoe.no
+spec:
+  type: team
+  profile:
+    displayName: detsombetyrnoe
+    picture: https://avatars.githubusercontent.com/t/3858768?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["atleno", "dervism", "kmork", "stowre", "zrrrzzt", "nonfiction83", "mrbjoern", "e117355"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: developers
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: Developers
+    picture: https://avatars.githubusercontent.com/t/1425758?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["Lillebo", "davidsteinsland", "LarsErikDahl", "trulsjor", "frodehansen2", "matsbyfl", "mijohansen", "jhrv", "ambientsound", "juneih", "izisfro", "haagenhasle", "dervism", "TheUnnamedDude", "urenhale", "nutgaard", "kjarbr", "erlendev", "tlheen", "Robert-Larsen", "Kyrremann", "zrrrzzt", "ttnesby", "pbencze", "gtcno", "audunstrand", "andersostby", "Muni10", "oyvindstegard", "anostoga", "stephenramthun", "hensol", "tronghn", "jksolbakken", "greger-nl", "rfc3092", "AlexGaard", "frodank", "linemos", "joarau", "frodesundby", "tiafiring", "terjesannum", "warild", "sneha-d-desai", "idaons", "hakonph", "999JackFlash", "sturleh", "sjoblomjsqueed", "Y130311-NAV", "bjornarne", "tuantrannav", "PerOlavM", "MariamPervez", "tonjemjovik", "Lars-Andreas", "VanessaKjK", "martheharsvik", "tgravvold", "EivindSkifjeld", "Janne-Nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: di-prototyping
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: di-prototyping
+    picture: https://avatars.githubusercontent.com/t/3551756?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["throndi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: di-techlab
+  description: di-techlab
+spec:
+  type: team
+  profile:
+    displayName: di-techlab
+    picture: https://avatars.githubusercontent.com/t/3544528?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["dmykarp", "SveinOpsahl", "Laroha", "stigbergaust", "gs-cheema"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: didep
+  description: Data og Innsikt - Data Engineering Productivity
+spec:
+  type: team
+  profile:
+    displayName: didep
+    picture: https://avatars.githubusercontent.com/t/3228024?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["audunstrand"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dig-dakan
+  description: Dataplattformgruppe for Dakan
+spec:
+  type: team
+  profile:
+    displayName: dig-dakan
+    picture: https://avatars.githubusercontent.com/t/4758738?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["cteig", "Kyrremann", "pbencze", "andregroseth", "JeremiahUy", "erikvatt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: digisyfo
+  description: Digitalisering av sykefraværsoppfølging
+spec:
+  type: team
+  profile:
+    displayName: Digisyfo
+    picture: https://avatars.githubusercontent.com/t/2688548?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["mhellevang", "juneih", "andreasDev", "kjarbr", "cyanboy", "chinatsu", "janzh", "Vitenok", "luantr", "heyvard", "tiafiring", "kulsveen", "JMLindseth", "torchr89", "torhrise", "solveiggrieg", "Falchn", "kaja-nav", "andersrognstad", "geir-waagboe", "AudunSorheim"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: disykefravar
+  description: Team sykefravær i data innsikt
+spec:
+  type: team
+  profile:
+    displayName: disykefravar
+    picture: https://avatars.githubusercontent.com/t/3431856?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["stigmhenriksen", "patped", "Y130311-NAV", "elisnes", "torunnd", "JorgenG-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dittnav
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: DittNAV
+    picture: https://avatars.githubusercontent.com/t/3126629?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["trulsjor", "Robert-Larsen", "greger-nl", "sasoria", "ToneEriksen", "VanessaKjK", "eivinne", "chris-santa", "Amirhlotfi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: doccano
+  description: Doccano admins
+spec:
+  type: team
+  profile:
+    displayName: doccano
+    picture: https://avatars.githubusercontent.com/t/3956010?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["pbencze", "erikvatt", "lljorgeluis"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dokumenteformidling
+  description: eFormidling for Team Dokumentløsninger
+spec:
+  type: team
+  profile:
+    displayName: dokumenteformidling
+    picture: https://avatars.githubusercontent.com/t/3294381?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["joakibj", "alexander-haugli"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dokumenteformidlingsertifikat
+  description: eFormidling for Team Dokumentløsninger - sertifikat
+spec:
+  type: team
+  profile:
+    displayName: dokumenteformidlingsertifikat
+    picture: https://avatars.githubusercontent.com/t/3587657?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["alexander-haugli"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dokumenthandtering
+  description: Dette teamet har ansvar for fagarkivet (Joark) med tilhørende herligheter, slik som Dokmot og SAF. I tillegg forvalter vi dokumentproduksjonsløsningene dokprod og brevserver.
+spec:
+  type: team
+  profile:
+    displayName: Dokumenthåndtering
+    picture: https://avatars.githubusercontent.com/t/3297413?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["joakibj", "avoldsund", "tsigab", "alexander-haugli", "TimAa-nav-dev", "Oslo333", "JoakimBor", "L145025", "hakonsnotun"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dolly
+  description: Utviklere av selvbetjeningsløsningen for testdata
+spec:
+  type: team
+  profile:
+    displayName: dolly
+    picture: https://avatars.githubusercontent.com/t/2712731?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["langvatn", "krharum", "betsytraran", "H153910", "stigus"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dpo-eformidling-altinn
+  description: Eformidling via DPO for team dokumentløsninger
+spec:
+  type: team
+  profile:
+    displayName: dpo-eformidling-altinn
+    picture: https://avatars.githubusercontent.com/t/3587729?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["alexander-haugli"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: drage
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: drage
+    picture: https://avatars.githubusercontent.com/t/2952454?s=400&amp;v=4
+  parent: "#&lt;#&lt;Module:0x00007fca6619dd58&gt;::Team:0x00007fca661356e0&gt;"
+  children: []
+  members: ["mammut89", "mortennormann"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: drops
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: Drops
+    picture: https://avatars.githubusercontent.com/t/3175929?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dsbn
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: dsbn
+    picture: https://avatars.githubusercontent.com/t/3921214?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dsopkontroll
+  description: DSOP-prosjektet for NAV Kontroll
+spec:
+  type: team
+  profile:
+    displayName: dsopkontroll
+    picture: https://avatars.githubusercontent.com/t/3171261?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["tronghn", "muladraa", "my-repo"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: duplodevs
+  description: Owners of Abakus, Kalkulus and BGRegelmodell
+spec:
+  type: team
+  profile:
+    displayName: DuploDevs
+    picture: https://avatars.githubusercontent.com/t/3544714?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["frode-carlsen", "olejri", "ekun", "mrsladek", "espenjv", "pekern", "jolarsen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dusseldorf
+  description: Team Düsseldorf. Del av Område helse som jobber med kapittel 9, pleiepenger, omsorgspenger etc.
+spec:
+  type: team
+  profile:
+    displayName: dusseldorf
+    picture: https://avatars.githubusercontent.com/t/3191673?s=400&amp;v=4
+  parent: "#&lt;#&lt;Module:0x00007fca6619dd58&gt;::Team:0x00007fca66124ca0&gt;"
+  children: []
+  members: ["frodehansen2", "fraadsbrandth", "erlendev", "ramrock93", "SanderOpperud", "poroshinaleksei"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dv-a-team
+  description: Leverer dataprodukter til bruk for offisiell statistikk om arbeidsmarkedet
+spec:
+  type: team
+  profile:
+    displayName: dv-a-team
+    picture: https://avatars.githubusercontent.com/t/4635832?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["SimenRafdal", "JonXCQiu", "A139505", "eivho", "RandiMH", "Aynalem-baraki", "caroliwi", "G163771"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dv-familie
+  description: Team familie i data og virksomhetsløsninger.
+spec:
+  type: team
+  profile:
+    displayName: dv-familie
+    picture: https://avatars.githubusercontent.com/t/4018321?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["giosohaib", "patped", "E102190", "hvalhan", "helenrong"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dv-team-pensjon
+  description: Forvalter datavarehusløsning for dataprodukter om Alderspensjon/Uføretrygd og andre ytelser fra PESYS, INST og GHS
+spec:
+  type: team
+  profile:
+    displayName: dv-team-pensjon
+    picture: https://avatars.githubusercontent.com/t/4639159?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["jordetr", "lfekete", "kjelltjNAV"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dvh-analytisk-plattform
+  description: Plattform for analytiske tjenester knyttet til datavarehuset
+spec:
+  type: team
+  profile:
+    displayName: dvh-analytisk-plattform
+    picture: https://avatars.githubusercontent.com/t/4531467?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["dmykarp", "KnuSle", "SveinOpsahl", "l105669", "Laroha", "H151866", "stigbergaust", "JoTiNAV", "KaKiNAV", "t152335", "gs-cheema", "itsAftab"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dvh-arbeid
+  description: Dataproduktene i arbeid-området fra Data og Innsikt
+spec:
+  type: team
+  profile:
+    displayName: dvh-arbeid
+    picture: https://avatars.githubusercontent.com/t/3587634?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["espenhoh", "SimenRafdal", "JonXCQiu", "A139505", "eivho", "RandiMH", "OivindAxelsen", "Aynalem-baraki", "DanielEgelandsdalOsen", "caroliwi", "MEGunnerud", "J143716", "G163771"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: easymoneysnipers
+  description: Easy money snipers, arbeidsplassen
+spec:
+  type: team
+  profile:
+    displayName: easymoneysnipers
+    picture: https://avatars.githubusercontent.com/t/3921283?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["atleno", "catriont", "yongbinkwon", "jjtg-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: eessibasis
+  description: Team EESSI Basis (forsøk 42).
+spec:
+  type: team
+  profile:
+    displayName: eessibasis
+    picture: https://avatars.githubusercontent.com/t/3155253?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["walberg", "torstenk", "warild", "kristoffersen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: eessipensjon
+  description: Utviklere må være medlem av denne gruppen for å kunne utvikle på EESSI Pensjon
+spec:
+  type: team
+  profile:
+    displayName: eessipensjon
+    picture: https://avatars.githubusercontent.com/t/2872124?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["NunoCardoso", "mammut89", "dskarpas", "MariamPervez", "kjetiljd", "JensNav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: engineering-productivity
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: Engineering Productivity
+    picture: https://avatars.githubusercontent.com/t/2971779?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["christeredvartsen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: esb
+  description: Team for alle esb-relaterte utfordringer
+spec:
+  type: team
+  profile:
+    displayName: esb
+    picture: https://avatars.githubusercontent.com/t/4015304?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["jon-disen", "ashish190471"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: etterlatte
+  description: Utvikler systemstøtte for ytelser til etterlatte etter avdød forsørger
+spec:
+  type: team
+  profile:
+    displayName: etterlatte
+    picture: https://avatars.githubusercontent.com/t/4489285?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["LarsErikDahl", "glennwedin", "EspenSchei", "Watercolours", "kcs85", "jorgesti", "HelgeJanbu"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: europeisk-helsekort
+  description: Helsedirektoratets app som forvaltes av team personbruker
+spec:
+  type: team
+  profile:
+    displayName: Europeisk Helsekort
+    picture: https://avatars.githubusercontent.com/t/2863193?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: eux
+  description: En del av EESSI2
+spec:
+  type: team
+  profile:
+    displayName: eux
+    picture: https://avatars.githubusercontent.com/t/3001667?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["walberg", "NunoCardoso", "torstenk", "warild", "kristoffersen", "MagnusRom"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: fager
+  description: Fellestjenester for arbeidsgivere
+spec:
+  type: team
+  profile:
+    displayName: fager
+    picture: https://avatars.githubusercontent.com/t/4763938?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["kenglxn", "peterbb", "bendiksi", "hannahogberg"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: farskapsportal
+  description: Team farskapsportal
+spec:
+  type: team
+  profile:
+    displayName: farskapsportal
+    picture: https://avatars.githubusercontent.com/t/4037726?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["s148719", "tatjanaand", "odinnaver"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: fist
+  description: Team Finansiell Styringsinformasjon
+spec:
+  type: team
+  profile:
+    displayName: fist
+    picture: https://avatars.githubusercontent.com/t/5209399?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["pbencze", "henrikpaulsen", "iwframne", "stigbergaust"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: flex
+  description: Team Flex / Område Helse
+spec:
+  type: team
+  profile:
+    displayName: flex
+    picture: https://avatars.githubusercontent.com/t/3444300?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["kjarbr", "heyvard", "kulsveen", "golshidb93", "Bordevich", "nilsjorgen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: forenklet-oppfolging
+  description: Utviklere i forenket oppfølging
+spec:
+  type: team
+  profile:
+    displayName: forenklet oppfølging
+    picture: https://avatars.githubusercontent.com/t/2576563?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["izisfro", "dervism", "hakonph", "Lars-Andreas"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: fp-faggruppe
+  description: Faggruppe for funksjonell programmering
+spec:
+  type: team
+  profile:
+    displayName: fp-faggruppe
+    picture: https://avatars.githubusercontent.com/t/3247378?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["peterbb", "dervism", "urenhale", "ahusby", "sonhal", "rituvesh", "RoyGrini", "OyvindRoth", "LarsOttoHaugen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: github-owners
+  description: The owners of the navikt organization
+spec:
+  type: team
+  profile:
+    displayName: GitHub owners
+    picture: https://avatars.githubusercontent.com/t/3346384?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["christeredvartsen"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: github-service-user-approver
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: GitHub Service User Approver
+    picture: https://avatars.githubusercontent.com/t/3583781?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["sindrerh2", "leifljastad2", "JonSverre", "mariusostby"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: gjenlevende
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: gjenlevende
+    picture: https://avatars.githubusercontent.com/t/2611965?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["mammut89", "frodank", "paalfb", "999JackFlash"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: helsearbeidsgiver
+  description: Team arbeidsgiver i PO Helse
+spec:
+  type: team
+  profile:
+    displayName: helsearbeidsgiver
+    picture: https://avatars.githubusercontent.com/t/3371609?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["tuxbear", "maccyber", "laukvik", "muladraa", "MrFjellstad", "sorvoja", "b162214"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: helseopplysninger
+  description: Effektiv utveksling av helseopplysninger
+spec:
+  type: team
+  profile:
+    displayName: helseopplysninger
+    picture: https://avatars.githubusercontent.com/t/4034524?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["mijohansen", "rtc11", "emyklebost", "mburgosh", "999JackFlash", "torchr89", "oyvindkar"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: historisk
+  description: Team Historisk (historiske data på utgåtte ytelser)
+spec:
+  type: team
+  profile:
+    displayName: historisk
+    picture: https://avatars.githubusercontent.com/t/5106905?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["999JackFlash", "alexraknesnav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: idm
+  description: Team for Identity Management - Identrutine
+spec:
+  type: team
+  profile:
+    displayName: idm
+    picture: https://avatars.githubusercontent.com/t/2903790?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["EivindStaff", "BjornarAarnes"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: informasjon-og-veiledning
+  description: nav.no - åpne tjenester
+spec:
+  type: team
+  profile:
+    displayName: Informasjon og veiledning
+    picture: https://avatars.githubusercontent.com/t/2613830?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["terjeofnorway", "Robert-Larsen", "tobiasmcvey", "anders-nom", "PerOlavM", "EivindSkifjeld", "AudunSBerget"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: infotrygd
+  description: Team infotrygd
+spec:
+  type: team
+  profile:
+    displayName: infotrygd
+    picture: https://avatars.githubusercontent.com/t/2807278?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["richardmartinsen", "Janne-Nav", "tehekne", "alexraknesnav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: integrasjon
+  description: Team Integrasjon
+spec:
+  type: team
+  profile:
+    displayName: integrasjon
+    picture: https://avatars.githubusercontent.com/t/2677158?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["tronghn", "muladraa", "my-repo", "jon-disen", "ybelMekk", "muhammadrizwanakhtar", "andersbye", "sigbjornberntzen", "ashish190471"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: isa
+  description: Team Intern Samhandling
+spec:
+  type: team
+  profile:
+    displayName: isa
+    picture: https://avatars.githubusercontent.com/t/2903733?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["torerei", "keylw", "brox27", "SoreboNav", "jonuls"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: isoc-secops
+  description: Infrastruktur - firewall, big-ip, proxy, dns
+spec:
+  type: team
+  profile:
+    displayName: isoc-secops
+    picture: https://avatars.githubusercontent.com/t/4341434?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["g129051", "RafalHolter", "harald-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: jfb2019
+  description: Java for begynnere 2019
+spec:
+  type: team
+  profile:
+    displayName: JFB2019
+    picture: https://avatars.githubusercontent.com/t/3240422?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["havstein", "mijohansen", "erlingjd", "arshadkamran", "Janne-Nav", "rinnan17", "Mort12Lander", "tehekne", "Stefuzi", "AnjaAalerud"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: jsd
+  description: Jira Service Desk
+spec:
+  type: team
+  profile:
+    displayName: JSD
+    picture: https://avatars.githubusercontent.com/t/3542394?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["torgeirarnoy", "phoob", "KnuSle", "StaleKjone", "oyvindbuer", "jorgesti", "sigeve", "iftikharmahmood", "sigbjornberntzen", "Christian-Haslund", "sigrunr", "Stefuzi", "KristinaAsberg", "pba1979", "Oleste", "monaelis", "JorgenG-nav", "itsAftab", "TomHarald", "Corsinia", "BjornarAarnes", "oleheggdal"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: k9saksbehandling
+  description: Team som jobber med kjernen av saksbehandling for Kapittel9
+spec:
+  type: team
+  profile:
+    displayName: k9saksbehandling
+    picture: https://avatars.githubusercontent.com/t/3489620?s=400&amp;v=4
+  parent: "#&lt;#&lt;Module:0x00007fca6619dd58&gt;::Team:0x00007fca639f4630&gt;"
+  children: []
+  members: ["frodeli", "olejri", "fraadsbrandth", "ekun", "erlendev", "qtips", "espenjv", "stiangre", "boerta", "vebnor", "baskevold", "pekern", "tendestad", "helganyrud", "christofferlohne", "haldersaikat", "alexraknesnav", "hallvardastark", "albrektsson", "espennav", "eras-dev"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: kafkaadmins
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: kafkaadmins
+    picture: https://avatars.githubusercontent.com/t/2988149?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["davidsteinsland", "TheUnnamedDude", "ttnesby", "tronghn"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: klage
+  description: Team som skal se på klageprosessen
+spec:
+  type: team
+  profile:
+    displayName: klage
+    picture: https://avatars.githubusercontent.com/t/3737703?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["flexable777", "haagenhasle", "cskrov", "oyvind-wedoe", "eriksson-daniel", "mahval", "richardborge"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: knada
+  description: Dataanalyseplattform
+spec:
+  type: team
+  profile:
+    displayName: knada
+    picture: https://avatars.githubusercontent.com/t/4094041?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["cteig", "Kyrremann", "pbencze", "Muni10", "erikvatt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: komet
+  description: Team KOMET (KOMmunikasjon om, og Effektivisering av Tiltak)
+spec:
+  type: team
+  profile:
+    displayName: komet
+    picture: https://avatars.githubusercontent.com/t/5071457?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["izisfro", "einarbj", "AlexGaard", "magnusevnav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: kuhr-helse
+  description: 
+spec:
+  type: team
+  profile:
+    displayName: kuhr-helse
+    picture: https://avatars.githubusercontent.com/t/2711509?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["SapoPer", "nicolaifriis-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: linuximage
+  description: Vi gjør livet på VDI-linux enklere
+spec:
+  type: team
+  profile:
+    displayName: linuximage
+    picture: https://avatars.githubusercontent.com/t/2807305?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["davidsteinsland", "Kyrremann", "jksolbakken"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: medlemskap
+  description: Medlemskap i Folketrygden
+spec:
+  type: team
+  profile:
+    displayName: medlemskap
+    picture: https://avatars.githubusercontent.com/t/3548291?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["olekvernberg", "StianSDouzette", "hjmNav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: meldekort
+  description: Team meldeplikt. Jobber med utfasing av meldeplikt i Arena.
+spec:
+  type: team
+  profile:
+    displayName: meldekort
+    picture: https://avatars.githubusercontent.com/t/2771734?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["audun-persson", "gskjeretNAV", "h139688", "l128633", "igorshuliakov"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: min-side
+  description: Team Minside jobber med innloggede sider på nav.no. Dette er et underteam av Personbruker.
+spec:
+  type: team
+  profile:
+    displayName: min-side
+    picture: https://avatars.githubusercontent.com/t/4777186?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["erlendev", "Robert-Larsen", "greger-nl", "sasoria", "VanessaKjK", "eivinne", "chris-santa", "Amirhlotfi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: mnemosyne
+  description: Digitalisering av historiske fagarkiv
+spec:
+  type: team
+  profile:
+    displayName: mnemosyne
+    picture: https://avatars.githubusercontent.com/t/3315395?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["joakibj", "JoakimBor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: mobilarbeidsplass
+  description: Digital og Mobil Arbeidsplass Prosjektet
+spec:
+  type: team
+  profile:
+    displayName: MobilArbeidsplass
+    picture: https://avatars.githubusercontent.com/t/2614482?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: nada
+  description: NAV Data - den nye markedsplassen for å selge og kjøpe data
+spec:
+  type: team
+  profile:
+    displayName: nada
+    picture: https://avatars.githubusercontent.com/t/5202720?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["jhrv", "cteig", "toresbe", "Kyrremann", "audunstrand", "gorzan", "frodesundby", "andregroseth", "JeremiahUy", "erikvatt", "bentelbusch", "vebjorre", "thokra-nav"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: nais
+  description: nais platform team
+spec:
+  type: team
+  profile:
+    displayName: nais
+    picture: https://avatars.githubusercontent.com/t/4494555?s=400&amp;v=4
+  parent: ""
+  children: []
+  members: ["christeredvartsen", "x10an14", "mortenlj", "jhrv", "ambientsound", "Sechmann", "cteig", "toresbe", "toby1knby", "Kyrremann", "rbjornstad", "audunstrand", "chinatsu", "Muni10", "tronghn", "gorzan", "frodesundby", "terjesannum", "tommytroen", "ybelMekk", "sindrerh2", "andersbye", "thokra-nav"]

@@ -5,6 +5,8 @@ metadata:
 spec:
   type: url
   targets:
+    - https://github.com/navikt/backstage-iac/blob/main/groups.yaml
+    - https://github.com/navikt/backstage-iac/blob/main/users.yaml
     - https://github.com/navikt/g/blob/main/.backstage.yaml
     - https://github.com/navikt/dagpenger/blob/master/catalog-info.yaml
     - https://github.com/navikt/dp-innsyn/blob/main/catalog-info.yaml
