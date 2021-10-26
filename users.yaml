@@ -8,7 +8,7 @@ spec:
     displayName: Anders Østby
     email: "anders.ostby@nav.no"
     picture: https://avatars.githubusercontent.com/u/3635938?u=3d5ba85fce6e3a0666864b43f81d19db856b0790&amp;v=4
-  memberOf: ["aap", "developers"]
+  memberOf: ["aap", "developers", "risk", "tbd", "teamhelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -19,7 +19,7 @@ spec:
     displayName: Richard Borge
     email: "richard.borge@nav.no"
     picture: https://avatars.githubusercontent.com/u/38096147?u=8d9505e3d09ae2354c631e173d5e621dbd7f55e5&amp;v=4
-  memberOf: ["aap", "klage"]
+  memberOf: ["aap", "klage", "oppfolging", "oppfolging-person"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -30,7 +30,7 @@ spec:
     displayName: Jan Olav Eide
     email: ""
     picture: https://avatars.githubusercontent.com/u/80393418?u=aea7c57c96af12fc4ca63488a5fc19059a8de5fa&amp;v=4
-  memberOf: ["aap"]
+  memberOf: ["aap", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -52,7 +52,7 @@ spec:
     displayName: Geir A. Lund
     email: "geir.andre.lund@nav.no"
     picture: https://avatars.githubusercontent.com/u/219278?v=4
-  memberOf: ["academy"]
+  memberOf: ["academy", "nav-developers", "teamdagpenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -63,7 +63,7 @@ spec:
     displayName: Michael Johansen
     email: "michael.johansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/589907?u=1ad4b874936134d61e5646e864639b4016af8e73&amp;v=4
-  memberOf: ["academy", "developers", "helseopplysninger", "jfb2019"]
+  memberOf: ["academy", "developers", "helseopplysninger", "jfb2019", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -74,7 +74,7 @@ spec:
     displayName: Einar Bjerve
     email: "einar.bjerve@nav.no"
     picture: https://avatars.githubusercontent.com/u/6613535?u=f8c98b7d7899f371bdc3784646ed64530a0223e8&amp;v=4
-  memberOf: ["academy", "amt", "komet"]
+  memberOf: ["academy", "amt", "komet", "pto", "teampam", "teknologiredaksjonen"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -85,7 +85,7 @@ spec:
     displayName: linemos
     email: "line.moseng@nav.no"
     picture: https://avatars.githubusercontent.com/u/12271331?u=22490f6d90a814c96f2316990fd18b9fb0ba6ac5&amp;v=4
-  memberOf: ["academy", "baseimage", "developers"]
+  memberOf: ["academy", "baseimage", "developers", "plattform", "teamdigisos"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -96,7 +96,7 @@ spec:
     displayName: Erling Johannes Danbolt
     email: "erling.johannes.danbolt@nav.no"
     picture: https://avatars.githubusercontent.com/u/16976922?v=4
-  memberOf: ["academy", "jfb2019"]
+  memberOf: ["academy", "jfb2019", "teamdigihot"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -107,7 +107,7 @@ spec:
     displayName: Sondre Halvorsen
     email: "sondre.halvorsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/17001956?u=093bc56a6726e9175d876729f5f994dc55ffa3db&amp;v=4
-  memberOf: ["academy", "anonymisering", "babylon", "fp-faggruppe"]
+  memberOf: ["academy", "anonymisering", "babylon", "fp-faggruppe", "opendata", "pig-aiven", "security-champion-admin", "tbd"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -118,7 +118,7 @@ spec:
     displayName: Arshad Ali Kamran
     email: "arshad.ali.kamran@nav.no"
     picture: https://avatars.githubusercontent.com/u/37771926?u=bcb75f4dbf54fed0c68534716475e488a7c43526&amp;v=4
-  memberOf: ["academy", "begrepskatalogen", "jfb2019"]
+  memberOf: ["academy", "begrepskatalogen", "jfb2019", "teamdigihot"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -140,7 +140,7 @@ spec:
     displayName: Morten Tholander 
     email: "morten.tholander@nav.no"
     picture: https://avatars.githubusercontent.com/u/44403428?v=4
-  memberOf: ["academy", "jfb2019"]
+  memberOf: ["academy", "jfb2019", "tbd", "teamhelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -151,7 +151,7 @@ spec:
     displayName: Tore Sletten
     email: "tore.sletten@nav.no"
     picture: https://avatars.githubusercontent.com/u/49309227?u=df6791cd94efea1a3da2d580352f0f7a3e2634f2&amp;v=4
-  memberOf: ["academy"]
+  memberOf: ["academy", "teamfamilie"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -162,7 +162,7 @@ spec:
     displayName: Stefano Vidonis
     email: "stefano.vidonis@nav.no"
     picture: https://avatars.githubusercontent.com/u/50832874?v=4
-  memberOf: ["academy", "begrepskatalogen", "jfb2019", "jsd"]
+  memberOf: ["academy", "begrepskatalogen", "jfb2019", "jsd", "team-service-management"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -173,7 +173,7 @@ spec:
     displayName: Paul Bencze
     email: ""
     picture: https://avatars.githubusercontent.com/u/2833482?u=57a9e33dde828229f0b819dc60b1804a26a8ccc4&amp;v=4
-  memberOf: ["ailabben", "cosmosdb-datakatalog", "developers", "dig-dakan", "doccano", "fist", "knada"]
+  memberOf: ["ailabben", "cosmosdb-datakatalog", "developers", "dig-dakan", "doccano", "fist", "knada", "opendata", "teamdi", "teampam", "webanalytics"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -184,7 +184,7 @@ spec:
     displayName: Jon Vegard Sparre
     email: "jon.vegard.sparre@nav.no"
     picture: https://avatars.githubusercontent.com/u/11486890?u=58b87bf262ea042892dc50f8fece271f53ca75c9&amp;v=4
-  memberOf: ["ailabben"]
+  memberOf: ["ailabben", "registre", "risk", "team-diskriminering", "team-match"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -195,7 +195,7 @@ spec:
     displayName: poke53280
     email: ""
     picture: https://avatars.githubusercontent.com/u/28196378?v=4
-  memberOf: ["ailabben"]
+  memberOf: ["ailabben", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -206,7 +206,7 @@ spec:
     displayName: Lars Sutterud
     email: "lars.sutterud@nav.no"
     picture: https://avatars.githubusercontent.com/u/41235550?v=4
-  memberOf: ["ailabben"]
+  memberOf: ["ailabben", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -228,7 +228,7 @@ spec:
     displayName: Erik Vattekar
     email: "erik.vattekar@nav.no"
     picture: https://avatars.githubusercontent.com/u/42180319?v=4
-  memberOf: ["ailabben", "arbeidsforhold", "cosmosdb-datakatalog", "dataplattform", "dig-dakan", "doccano", "knada", "nada"]
+  memberOf: ["ailabben", "arbeidsforhold", "cosmosdb-datakatalog", "dataplattform", "dig-dakan", "doccano", "knada", "nada", "opendata", "team-match", "teamdi"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -239,7 +239,7 @@ spec:
     displayName: Beate Sildnes
     email: "beate.sildnes@nav.no"
     picture: https://avatars.githubusercontent.com/u/42263986?u=854519195964b959763f4318202b06ff53cb316a&amp;v=4
-  memberOf: ["ailabben"]
+  memberOf: ["ailabben", "paw"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -261,7 +261,7 @@ spec:
     displayName: Jorge Luis Lopez Marin
     email: "jorge.luis.lopez.marin@nav.no"
     picture: https://avatars.githubusercontent.com/u/53743098?v=4
-  memberOf: ["ailabben", "cosmosdb-datakatalog", "doccano"]
+  memberOf: ["ailabben", "cosmosdb-datakatalog", "doccano", "opendata", "team-diskriminering", "team-match", "teamdi", "teampam", "webanalytics"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -272,7 +272,7 @@ spec:
     displayName: Maria Cabrol
     email: "maria.cabrol@nav.no"
     picture: https://avatars.githubusercontent.com/u/53761746?v=4
-  memberOf: ["ailabben"]
+  memberOf: ["ailabben", "opendata", "tbd", "teamdagpenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -316,7 +316,7 @@ spec:
     displayName: Izis Frøyhov
     email: "izis.froyhov@nav.no"
     picture: https://avatars.githubusercontent.com/u/1025788?v=4
-  memberOf: ["amt", "developers", "forenklet-oppfolging", "komet"]
+  memberOf: ["amt", "developers", "forenklet-oppfolging", "komet", "nav-developers", "oppfolging", "pto", "team-oppfolging-fo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -327,7 +327,7 @@ spec:
     displayName: Steffen Lien
     email: "steffen.lien@nav.no"
     picture: https://avatars.githubusercontent.com/u/4164608?u=817ccf750ce64217f5340b425f813d1d95db69fb&amp;v=4
-  memberOf: ["amt"]
+  memberOf: ["amt", "pto", "team-valp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -338,7 +338,7 @@ spec:
     displayName: Alexander Gård
     email: "alexander.gard@nav.no"
     picture: https://avatars.githubusercontent.com/u/10519409?v=4
-  memberOf: ["amt", "biff", "developers", "komet"]
+  memberOf: ["amt", "biff", "developers", "komet", "oppfolging", "pto", "pus", "team-oppfolging-fo", "vibe"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -349,7 +349,7 @@ spec:
     displayName: Tania Holst
     email: "tania.holst@nav.no"
     picture: https://avatars.githubusercontent.com/u/21334782?u=ac7909540f212fa16c0d21c1027a07b8c78a678b&amp;v=4
-  memberOf: ["amt"]
+  memberOf: ["amt", "pto", "team-valp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -360,7 +360,7 @@ spec:
     displayName: Magnus Evensberget
     email: "magnus.evensberget@nav.no"
     picture: https://avatars.githubusercontent.com/u/79850287?v=4
-  memberOf: ["amt", "komet"]
+  memberOf: ["amt", "komet", "pto"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -371,7 +371,7 @@ spec:
     displayName: Lord André Groseth
     email: "lord.andre.groseth@nav.no"
     picture: https://avatars.githubusercontent.com/u/22791166?u=dae7754428d92f6e2575c04f67205723fbef16e5&amp;v=4
-  memberOf: ["anonymisering", "cosmosdb-datakatalog", "dataplattform", "dig-dakan", "nada"]
+  memberOf: ["anonymisering", "cosmosdb-datakatalog", "dataplattform", "dig-dakan", "nada", "teamdatajegerne"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -382,7 +382,7 @@ spec:
     displayName: Jeremiah Uy
     email: "jeremiah.augie.uy@nav.no"
     picture: https://avatars.githubusercontent.com/u/23120919?u=aa8ecaab5f608ce55786c2d41933066374f7981a&amp;v=4
-  memberOf: ["anonymisering", "cosmosdb-datakatalog", "dataplattform", "dig-dakan", "nada"]
+  memberOf: ["anonymisering", "cosmosdb-datakatalog", "dataplattform", "dig-dakan", "nada", "teamdatajegerne"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -393,7 +393,7 @@ spec:
     displayName: David Steinsland
     email: "david.steinsland@nav.no"
     picture: https://avatars.githubusercontent.com/u/125661?u=2b7c3789115e81e30a38061bcc7b3528a1b2db5e&amp;v=4
-  memberOf: ["apen-kildekode", "baseimage", "developers", "kafkaadmins", "linuximage"]
+  memberOf: ["apen-kildekode", "baseimage", "developers", "kafkaadmins", "linuximage", "nav-developers", "tbd", "teamhelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -404,7 +404,7 @@ spec:
     displayName: Truls Jørgensen
     email: "truls.jorgensen@nav.no"
     picture: https://avatars.githubusercontent.com/u/214156?v=4
-  memberOf: ["apen-kildekode", "core", "developers", "dittnav"]
+  memberOf: ["apen-kildekode", "core", "developers", "dittnav", "nais-analyse", "nav-developers", "personbruker", "security-champion-admin", "selvbetjening-core", "tbd", "teknologiredaksjonen"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -415,7 +415,7 @@ spec:
     displayName: Audun Fauchald Strand
     email: "audun.fauchald.strand@nav.no"
     picture: https://avatars.githubusercontent.com/u/3470775?u=a741151d9e83e4861fa08488d5ccfc67ced8bfbb&amp;v=4
-  memberOf: ["apen-kildekode", "aura", "core", "developers", "didep", "nada", "nais"]
+  memberOf: ["apen-kildekode", "aura", "core", "developers", "didep", "nada", "nais", "nais-analyse", "nais-billing", "opendata", "plattform", "tbd", "teknologiredaksjonen"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -426,7 +426,7 @@ spec:
     displayName: Jan-Kåre Solbakken
     email: "jan-kare.solbakken@nav.no"
     picture: https://avatars.githubusercontent.com/u/5025898?u=b490ad9faecf7dd2c35b2f545ad628a458f85087&amp;v=4
-  memberOf: ["apen-kildekode", "developers", "linuximage"]
+  memberOf: ["apen-kildekode", "developers", "linuximage", "pig-sikkerhet", "plattformsikkerhet", "security-champion-admin", "selvbetjening-core", "supstonadx", "tbd", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -459,7 +459,7 @@ spec:
     displayName: Ola Holtberget
     email: "ola.holtberget@nav.no"
     picture: https://avatars.githubusercontent.com/u/56065854?v=4
-  memberOf: ["arbeidsflate"]
+  memberOf: ["arbeidsflate", "wvd"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -470,7 +470,7 @@ spec:
     displayName: Christine Teig
     email: "christine.teig@nav.no"
     picture: https://avatars.githubusercontent.com/u/1113060?u=f5be963dd0964d600e05334a152990737f49ee72&amp;v=4
-  memberOf: ["arbeidsforhold", "aura", "dataplattform", "dig-dakan", "knada", "nada", "nais"]
+  memberOf: ["arbeidsforhold", "aura", "dataplattform", "dig-dakan", "knada", "nada", "nais", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -481,7 +481,7 @@ spec:
     displayName: Odd Andreas Sørsæther
     email: ""
     picture: https://avatars.githubusercontent.com/u/3494925?u=f1a4a1fb2cfcb40b88d5a4a983358eb045f85175&amp;v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -503,7 +503,7 @@ spec:
     displayName: Henrik Kolberg
     email: ""
     picture: https://avatars.githubusercontent.com/u/31314009?v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -514,7 +514,7 @@ spec:
     displayName: Reidar Kjos Lien
     email: "reidar.kjos.lien@nav.no"
     picture: https://avatars.githubusercontent.com/u/45200093?v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -525,7 +525,7 @@ spec:
     displayName: Nicolae Tecusan
     email: "nicolae.tecusan@nav.no"
     picture: https://avatars.githubusercontent.com/u/49984050?v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -536,7 +536,7 @@ spec:
     displayName: Knut Arild Slåtsve
     email: "knut.arild.slatsve@nav.no"
     picture: https://avatars.githubusercontent.com/u/53740375?v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -547,7 +547,7 @@ spec:
     displayName: Erik Falkenås
     email: "erik.falkenas@nav.no"
     picture: https://avatars.githubusercontent.com/u/54267806?u=f31b7a80a95366e1ac890138d13753d4a650262d&amp;v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -558,7 +558,7 @@ spec:
     displayName: Torbjorn Halvorsen
     email: "torbjorn.halvorsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/54270174?v=4
-  memberOf: ["arbeidsforhold"]
+  memberOf: ["arbeidsforhold", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -613,7 +613,7 @@ spec:
     displayName: Håkon Arneng Holmstedt
     email: "Hakon.Arneng.Holmstedt@nav.no"
     picture: https://avatars.githubusercontent.com/u/122392?u=3b09e8f5c4c0187416f60608b6335bbe9d375d2b&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "nav-developers", "supstonadx", "tbd"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -624,7 +624,7 @@ spec:
     displayName: Ken Gullaksen
     email: "ken.gullaksen@nav.no"
     picture: https://avatars.githubusercontent.com/u/189395?u=e66e45a448452e0275e119eefd914d005a99c236&amp;v=4
-  memberOf: ["arbeidsgiver", "fager"]
+  memberOf: ["arbeidsgiver", "fager", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -635,7 +635,7 @@ spec:
     displayName: Thomas Dufourd
     email: "thomas.dufourd@nav.no"
     picture: https://avatars.githubusercontent.com/u/322962?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "nav-developers", "teamia"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -646,7 +646,7 @@ spec:
     displayName: Peter Brottveit Bock
     email: "peter.brottveit.bock@nav.no"
     picture: https://avatars.githubusercontent.com/u/789911?v=4
-  memberOf: ["arbeidsgiver", "fager", "fp-faggruppe"]
+  memberOf: ["arbeidsgiver", "fager", "fp-faggruppe", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -657,7 +657,7 @@ spec:
     displayName: Mats Bolstad
     email: "mats.bolstad@nav.no"
     picture: https://avatars.githubusercontent.com/u/1241637?u=4c3762d6114bdc70fcef2dd65f07e958d6c00d13&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -668,7 +668,7 @@ spec:
     displayName: Fredrik Ingebrigtsen
     email: "fredrik.ingebrigtsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/3830767?u=6b10bd4fe429b2c59c234d7d0a08465f2c8d2f01&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -690,7 +690,7 @@ spec:
     displayName: André Mossige
     email: "andre.mossige@nav.no"
     picture: https://avatars.githubusercontent.com/u/5014820?u=7cfe3bc9d5230499fdc0cd4c24eba38acad0fd12&amp;v=4
-  memberOf: ["arbeidsgiver", "arbeidsgiver-inkludering"]
+  memberOf: ["arbeidsgiver", "arbeidsgiver-inkludering", "permittering-og-nedbemanning"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -712,7 +712,7 @@ spec:
     displayName: mattiaslundmark
     email: ""
     picture: https://avatars.githubusercontent.com/u/5471799?u=078fd4a9f2fdb0e7a1f8ca6ce055bf7297f69f72&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "permittering-og-nedbemanning"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -723,7 +723,7 @@ spec:
     displayName: John Arne Føreland
     email: ""
     picture: https://avatars.githubusercontent.com/u/6638390?u=fc1838d6332f9d1af54d75b1b4a871667a94a718&amp;v=4
-  memberOf: ["arbeidsgiver", "crm"]
+  memberOf: ["arbeidsgiver", "crm", "team-dialog", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -734,7 +734,7 @@ spec:
     displayName: Mickel 
     email: ""
     picture: https://avatars.githubusercontent.com/u/8565717?u=86d26222d0d525851a6c3f4b956efe54ab746a53&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "team-ai"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -756,7 +756,7 @@ spec:
     displayName: Stine Uddal
     email: ""
     picture: https://avatars.githubusercontent.com/u/10920774?u=beb0b34e43daf0878d3b52454addd20cebd0a3d9&amp;v=4
-  memberOf: ["arbeidsgiver", "crm"]
+  memberOf: ["arbeidsgiver", "crm", "team-dialog", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -767,7 +767,7 @@ spec:
     displayName: Henrietta E. Bleness
     email: "henrietta.eide.bleness@nav.no"
     picture: https://avatars.githubusercontent.com/u/11228030?u=dd92ce44dc2fbd65c863139d262177d031855fc7&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -778,7 +778,7 @@ spec:
     displayName: Frode Ankill Kämpe
     email: "frode.ankill.kampe@nav.no"
     picture: https://avatars.githubusercontent.com/u/11638682?v=4
-  memberOf: ["arbeidsgiver", "arbeidsgiver-inkludering", "developers", "gjenlevende"]
+  memberOf: ["arbeidsgiver", "arbeidsgiver-inkludering", "developers", "gjenlevende", "paranoia", "pensjonsamhandling", "samordning", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -811,7 +811,7 @@ spec:
     displayName: Runar Skagestad
     email: "runar.skagestad@nav.no"
     picture: https://avatars.githubusercontent.com/u/17157469?u=2990335d9c279671600270530f3b6e1ed9de67cf&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamia"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -822,7 +822,7 @@ spec:
     displayName: Catriona Tørklep
     email: "catriona.torklep@nav.no"
     picture: https://avatars.githubusercontent.com/u/22744295?v=4
-  memberOf: ["arbeidsgiver", "easymoneysnipers"]
+  memberOf: ["arbeidsgiver", "easymoneysnipers", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -833,7 +833,7 @@ spec:
     displayName: Ulrik Antoniussen Halmøy
     email: "ulrik.antoniussen.halmoy@nav.no"
     picture: https://avatars.githubusercontent.com/u/25346380?u=702b722bc5aa3ce6e63d121852b4a5b5b2a88ea3&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -855,7 +855,7 @@ spec:
     displayName: Erlend Axelsson
     email: "erlend.axelsson@nav.no"
     picture: https://avatars.githubusercontent.com/u/32471637?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamia"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -866,7 +866,7 @@ spec:
     displayName: bjornhagglund
     email: ""
     picture: https://avatars.githubusercontent.com/u/33373680?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "team-dialog", "teamcrm", "teamnks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -877,7 +877,7 @@ spec:
     displayName: Stefan A. Engelien
     email: "stefan.andreas.engelien@nav.no"
     picture: https://avatars.githubusercontent.com/u/36961729?u=9d37c88c753ce083528d9204f24fca672d8674b9&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "supstonadx", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -899,7 +899,7 @@ spec:
     displayName: nimajimale
     email: ""
     picture: https://avatars.githubusercontent.com/u/42611223?u=869934a2e6044bb193049d882d1addf3cb50ad46&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "team-ai"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -910,7 +910,7 @@ spec:
     displayName: Hilde Steinbru Heggstad
     email: "hilde.steinbru.heggstad@nav.no"
     picture: https://avatars.githubusercontent.com/u/47525174?u=55b9e7c01f504a95eadcffa2634c456d6a3bf2f1&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "permittering-og-nedbemanning"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -921,7 +921,7 @@ spec:
     displayName: Malaz Alkoj
     email: "malaz.alkoj@nav.no"
     picture: https://avatars.githubusercontent.com/u/49555423?u=65bb003e58bc68546121a8512fa3d40231c62e6e&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamia"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -976,7 +976,7 @@ spec:
     displayName: Fridtjof Gustaf Alestrom
     email: "fridtjof.gustaf.alestrom@nav.no"
     picture: https://avatars.githubusercontent.com/u/67260902?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "team-ai"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -987,7 +987,7 @@ spec:
     displayName: Audun
     email: "audun.skjelvan@nav.no"
     picture: https://avatars.githubusercontent.com/u/67591449?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamcoronapenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -998,7 +998,7 @@ spec:
     displayName: KarlEvald
     email: "karl.evald.wigestrand@nav.no"
     picture: https://avatars.githubusercontent.com/u/67961718?u=4d3a05b67e6965980c5d7b6e585b6680ea81ee8f&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1009,7 +1009,7 @@ spec:
     displayName: Torbjørn Martinsen
     email: "torbjorn.martinsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/67964193?u=00de3ab532e5039b3fdd400a203e6f72c57d0fdd&amp;v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamcoronapenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1020,7 +1020,7 @@ spec:
     displayName: Emil Gronnbeck
     email: "emil.gronnbeck@nav.no"
     picture: https://avatars.githubusercontent.com/u/69509441?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "teamloennskomp"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1042,7 +1042,7 @@ spec:
     displayName: Alexander Amiri
     email: "alexander.amiri@nav.no"
     picture: https://avatars.githubusercontent.com/u/79926384?v=4
-  memberOf: ["arbeidsgiver"]
+  memberOf: ["arbeidsgiver", "team-ai", "team-diskriminering", "team-match"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1053,7 +1053,7 @@ spec:
     displayName: Krithika Rangaraj
     email: "krithika.rangaraj@nav.no"
     picture: https://avatars.githubusercontent.com/u/80645540?v=4
-  memberOf: ["arbeidsretta-tiltak"]
+  memberOf: ["arbeidsretta-tiltak", "team-diskriminering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1064,7 +1064,7 @@ spec:
     displayName: Sindre Rødseth Hansen
     email: "sindre.rodseth.hansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/39094544?v=4
-  memberOf: ["atom", "aura", "github-service-user-approver", "nais"]
+  memberOf: ["atom", "aura", "github-service-user-approver", "nais", "pig-sikkerhet", "plattform", "plattformsikkerhet", "traktor"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1075,7 +1075,7 @@ spec:
     displayName: Steinar Vollebæk
     email: "steinar.vollebaek@nav.no"
     picture: https://avatars.githubusercontent.com/u/39910672?u=13d6a2f66d541c7889e17a406c349019f910a985&amp;v=4
-  memberOf: ["atom", "azure-platform"]
+  memberOf: ["atom", "azure-platform", "team-atom"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1086,7 +1086,7 @@ spec:
     displayName: Christer Edvartsen
     email: "christer.edvartsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/25402?u=9d4bf9ce5991502239bbb75ad613ae14cb8fbd88&amp;v=4
-  memberOf: ["aura", "engineering-productivity", "github-owners", "nais"]
+  memberOf: ["aura", "engineering-productivity", "github-owners", "nais", "nais-mac-mgmt", "naisdevice", "nav-developers", "pig-aiven", "pig-utvikleropplevelse", "plattform", "teknologiredaksjonen", "utvikleropplevelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1097,7 +1097,7 @@ spec:
     displayName: Christian Chavez
     email: "christian.chavez@nav.no"
     picture: https://avatars.githubusercontent.com/u/710608?v=4
-  memberOf: ["aura", "nais"]
+  memberOf: ["aura", "nais", "nais-mac-mgmt", "naisdevice", "nav-developers", "pig-aiven", "pig-sikkerhet", "pig-utvikleropplevelse", "utvikleropplevelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1108,7 +1108,7 @@ spec:
     displayName: Morten Lied Johansen
     email: "morten.lied.johansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/746078?v=4
-  memberOf: ["aura", "nais"]
+  memberOf: ["aura", "nais", "nav-developers", "pig-aiven", "pig-deployment", "pig-utvikleropplevelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1119,7 +1119,7 @@ spec:
     displayName: Johnny Horvi
     email: "johnny.horvi@nav.no"
     picture: https://avatars.githubusercontent.com/u/783921?u=7df699e20e7f89f7da3d2b3a516f74abeea577fc&amp;v=4
-  memberOf: ["aura", "core", "dataplattform", "developers", "nada", "nais"]
+  memberOf: ["aura", "core", "dataplattform", "developers", "nada", "nais", "naisdevice", "nav-developers", "pig-aiven", "pig-deployment", "pig-kubeops", "plattform", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1130,7 +1130,7 @@ spec:
     displayName: Kim Tore Jensen
     email: "kim.tore.jensen@nav.no"
     picture: https://avatars.githubusercontent.com/u/791756?u=24f2631ae9b087946c5b145b4192660acf97b709&amp;v=4
-  memberOf: ["aura", "developers", "nais"]
+  memberOf: ["aura", "developers", "nais", "nais-analyse", "nav-developers", "pig-aiven", "pig-deployment", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1141,7 +1141,7 @@ spec:
     displayName: Vegar Sechmann Molvig
     email: "vegar.sechmann.molvig@nav.no"
     picture: https://avatars.githubusercontent.com/u/1035788?u=dc8d5079d70d13d5c3492ea86c4d6cb76dfe5a2b&amp;v=4
-  memberOf: ["aura", "nais"]
+  memberOf: ["aura", "nais", "naisdevice", "nav-developers", "pig-aiven", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1152,7 +1152,7 @@ spec:
     displayName: Tore Sinding Bekkedal
     email: "tore.sinding.bekkedal@nav.no"
     picture: https://avatars.githubusercontent.com/u/1761606?u=c229be27de1b285f05afe132c5fa417a2b9dd5b5&amp;v=4
-  memberOf: ["aura", "dataplattform", "nada", "nais"]
+  memberOf: ["aura", "dataplattform", "nada", "nais", "nav-developers", "pig-aiven"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1163,7 +1163,7 @@ spec:
     displayName: Torbjorn Hallenberg
     email: "torbjorn.hallenberg@nav.no"
     picture: https://avatars.githubusercontent.com/u/1790109?u=812ed01e11fa790cf81d1bc751cdbf1204e807f9&amp;v=4
-  memberOf: ["aura", "nais"]
+  memberOf: ["aura", "nais", "nais-mac-mgmt", "naisdevice", "nav-developers", "pig-utvikleropplevelse", "plattform", "utvikleropplevelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1174,7 +1174,7 @@ spec:
     displayName: Kyrre Havik
     email: "kyrre.havik@nav.no"
     picture: https://avatars.githubusercontent.com/u/1830501?u=bac30801909456b0935a801574089ef7e20ce8f1&amp;v=4
-  memberOf: ["aura", "dataplattform", "developers", "dig-dakan", "knada", "linuximage", "nada", "nais"]
+  memberOf: ["aura", "dataplattform", "developers", "dig-dakan", "knada", "linuximage", "nada", "nais", "nav-developers", "pig-aiven", "plattform", "traktor", "utvikleropplevelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1185,7 +1185,7 @@ spec:
     displayName: Roger Bjørnstad
     email: "roger.bjornstad@nav.no"
     picture: https://avatars.githubusercontent.com/u/2776430?v=4
-  memberOf: ["aura", "nais"]
+  memberOf: ["aura", "nais", "plattform", "traktor"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1207,7 +1207,7 @@ spec:
     displayName: Sten Røkke
     email: "sten.ivar.rokke@nav.no"
     picture: https://avatars.githubusercontent.com/u/3974334?u=019c961475d3ccb11d4c5e031f511d62f4b41e86&amp;v=4
-  memberOf: ["aura", "baseimage", "developers", "knada", "nais"]
+  memberOf: ["aura", "baseimage", "developers", "knada", "nais", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1218,7 +1218,7 @@ spec:
     displayName: Trong Huu Nguyen
     email: "trong.huu.nguyen@nav.no"
     picture: https://avatars.githubusercontent.com/u/4958377?v=4
-  memberOf: ["aura", "developers", "dsopkontroll", "integrasjon", "kafkaadmins", "nais"]
+  memberOf: ["aura", "developers", "dsopkontroll", "integrasjon", "kafkaadmins", "nais", "pig-aiven", "pig-sikkerhet", "plattform", "plattformsikkerhet", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1229,7 +1229,7 @@ spec:
     displayName: Gøran Berntsen
     email: "goran.berntsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/5730306?u=4ddd7aedbcca9343fcdc69faa409f4305819fe2d&amp;v=4
-  memberOf: ["aura", "dataplattform", "nada", "nais"]
+  memberOf: ["aura", "dataplattform", "nada", "nais", "nais-analyse", "nais-billing", "opendata", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1240,7 +1240,7 @@ spec:
     displayName: Frode Sundby
     email: "frode.sundby@nav.no"
     picture: https://avatars.githubusercontent.com/u/14759150?u=1461fc3210b49aebbc90166f4c155b3ea4c7113e&amp;v=4
-  memberOf: ["aura", "core", "dataplattform", "developers", "nada", "nais"]
+  memberOf: ["aura", "core", "dataplattform", "developers", "nada", "nais", "pig-kubeops", "plattform", "plzremove-testing", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1251,7 +1251,7 @@ spec:
     displayName: Terje Sannum
     email: "terje.sannum@nav.no"
     picture: https://avatars.githubusercontent.com/u/16219881?u=0bde30d9fbc120d64e803544f931b987106c81b9&amp;v=4
-  memberOf: ["aura", "core", "developers", "nais"]
+  memberOf: ["aura", "core", "developers", "nais", "pig-aiven", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1262,7 +1262,7 @@ spec:
     displayName: Tommy Trøen
     email: "tommy.troen@nav.no"
     picture: https://avatars.githubusercontent.com/u/34096736?u=fb1397a72b065d30ec496e473abfbe34ff226975&amp;v=4
-  memberOf: ["aura", "nais"]
+  memberOf: ["aura", "nais", "pig-sikkerhet", "plattform", "plattformsikkerhet", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1273,7 +1273,7 @@ spec:
     displayName: Youssef Bel Mekki
     email: "youssef.bel.mekki@nav.no"
     picture: https://avatars.githubusercontent.com/u/38552193?u=2c4013064eb1703d9ee8136376a4180768e45695&amp;v=4
-  memberOf: ["aura", "integrasjon", "nais"]
+  memberOf: ["aura", "integrasjon", "nais", "pais", "pig-aiven", "pig-sikkerhet", "plattformsikkerhet", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1284,7 +1284,7 @@ spec:
     displayName: Anders Bye
     email: "anders.bye@nav.no"
     picture: https://avatars.githubusercontent.com/u/49231065?u=3dee9f6a5d190c2a2316a5336e7a264aa43a1b74&amp;v=4
-  memberOf: ["aura", "integrasjon", "nais"]
+  memberOf: ["aura", "integrasjon", "nais", "pig-sikkerhet", "plattform", "plattformsikkerhet", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1306,7 +1306,7 @@ spec:
     displayName: Torstein Nesby
     email: "torstein.nesby@nav.no"
     picture: https://avatars.githubusercontent.com/u/2737987?u=771141c8d2ca20dd5ddb3e0feb6312a8482dd5cd&amp;v=4
-  memberOf: ["azure-platform", "developers", "kafkaadmins"]
+  memberOf: ["azure-platform", "developers", "kafkaadmins", "nav-developers", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1361,7 +1361,7 @@ spec:
     displayName: Joakim Bjørnstad
     email: "joakim.bjornstad@nav.no"
     picture: https://avatars.githubusercontent.com/u/3668627?v=4
-  memberOf: ["baseimage", "dokumenteformidling", "dokumenthandtering", "mnemosyne"]
+  memberOf: ["baseimage", "dokumenteformidling", "dokumenthandtering", "mnemosyne", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1372,7 +1372,7 @@ spec:
     displayName: Morten Laukvik
     email: "morten.laukvik@nav.no"
     picture: https://avatars.githubusercontent.com/u/732257?u=c333eed2bb6a9f1d55a014111740a99466c98463&amp;v=4
-  memberOf: ["beregningsmodul", "helsearbeidsgiver"]
+  memberOf: ["beregningsmodul", "helsearbeidsgiver", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1460,7 +1460,7 @@ spec:
     displayName: Matias Vinjevoll
     email: "matias.vinjevoll@nav.no"
     picture: https://avatars.githubusercontent.com/u/1862220?v=4
-  memberOf: ["biff"]
+  memberOf: ["biff", "nav-developers", "obo", "pto", "pus", "teamregistrering", "vibe", "voff"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1471,7 +1471,7 @@ spec:
     displayName: Sneha
     email: "sneha.desai@nav.no"
     picture: https://avatars.githubusercontent.com/u/24415564?u=d6e6416082af521e3fb345cef31572cb222595f7&amp;v=4
-  memberOf: ["biff", "developers"]
+  memberOf: ["biff", "developers", "oppfolging", "pto", "team-oppfolging-fo", "tpts", "vibe"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1482,7 +1482,7 @@ spec:
     displayName: Jorn Ola Birkeland
     email: "jorn.ola.birkeland@nav.no"
     picture: https://avatars.githubusercontent.com/u/47781778?v=4
-  memberOf: ["biff"]
+  memberOf: ["biff", "teamfamilie"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1504,7 +1504,7 @@ spec:
     displayName: Mats Byfuglien
     email: "mats.byfuglien@nav.no"
     picture: https://avatars.githubusercontent.com/u/513152?u=2808e62402e3973a70e7067929af051f5c93d9fb&amp;v=4
-  memberOf: ["core", "developers"]
+  memberOf: ["core", "developers", "nav-developers", "plattform", "teamdigihot", "traktor"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1515,7 +1515,7 @@ spec:
     displayName: Michal J. Sladek
     email: "michal.sladek@nav.no"
     picture: https://avatars.githubusercontent.com/u/5756550?v=4
-  memberOf: ["core", "duplodevs"]
+  memberOf: ["core", "duplodevs", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1526,7 +1526,7 @@ spec:
     displayName: Carl Huseby Fosli
     email: "carl.huseby.fosli@nav.no"
     picture: https://avatars.githubusercontent.com/u/1109965?u=39d6718dbc41b787a9dc7a8b3476ad1b4c4b808f&amp;v=4
-  memberOf: ["crm", "crm-admin"]
+  memberOf: ["crm", "crm-admin", "nav-developers", "team-tolketjeneste", "teamcrm"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1537,7 +1537,7 @@ spec:
     displayName: eirikfladby
     email: "eirik.fladby@nav.no"
     picture: https://avatars.githubusercontent.com/u/8616157?u=03063a3305616c095fbf4dfc7a4ec5b8a88fb0fa&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-tolketjeneste"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1548,7 +1548,7 @@ spec:
     displayName: magnushamrin
     email: ""
     picture: https://avatars.githubusercontent.com/u/10032385?v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1559,7 +1559,7 @@ spec:
     displayName: Edvard Brekke
     email: "edvard.brekke@nav.no"
     picture: https://avatars.githubusercontent.com/u/14222862?v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-tolketjeneste"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1570,7 +1570,7 @@ spec:
     displayName: frodehoen
     email: ""
     picture: https://avatars.githubusercontent.com/u/26440005?v=4
-  memberOf: ["crm", "crm-admin"]
+  memberOf: ["crm", "crm-admin", "team-nks", "team-dialog", "teamcrm", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1581,7 +1581,7 @@ spec:
     displayName: piszosta
     email: ""
     picture: https://avatars.githubusercontent.com/u/42918948?u=b8ac535fc77e9b2275ea9e213beef8f6fa245f03&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1592,7 +1592,7 @@ spec:
     displayName: Morten Mikalsen
     email: ""
     picture: https://avatars.githubusercontent.com/u/43532815?v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1603,7 +1603,7 @@ spec:
     displayName: Tor Håkon Sigurdsen
     email: ""
     picture: https://avatars.githubusercontent.com/u/55088511?u=6b70978976d33679ccd878b8e97ab4ad440432f0&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1614,7 +1614,7 @@ spec:
     displayName: Gisle Stenseng
     email: ""
     picture: https://avatars.githubusercontent.com/u/56300718?u=e8b35cf6abeec733050019693d540660e75c9806&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1625,7 +1625,7 @@ spec:
     displayName: celinetomren
     email: ""
     picture: https://avatars.githubusercontent.com/u/56354677?v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1636,7 +1636,7 @@ spec:
     displayName: Andre Colle
     email: ""
     picture: https://avatars.githubusercontent.com/u/56640917?u=10df2a62300724111a7fb26507d7270a47f2195a&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team_dialog"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1647,7 +1647,7 @@ spec:
     displayName: Vegard Aas Mjelde
     email: "vegard.aas.mjelde@nav.no"
     picture: https://avatars.githubusercontent.com/u/60097379?u=5f93ba4f63618b3f46216fd0a477592016cfe899&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-tolketjeneste"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1658,7 +1658,7 @@ spec:
     displayName: larspetterjohnsen
     email: ""
     picture: https://avatars.githubusercontent.com/u/63037386?u=1594187498af7883cbc721475ffffe1da66d18d5&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1669,7 +1669,7 @@ spec:
     displayName: Stian Ruud Schikora
     email: "stian.schikora@nav.no"
     picture: https://avatars.githubusercontent.com/u/70602699?u=82ee4a423c2604a814e8d8ebefcbc8e67bda9347&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1680,7 +1680,7 @@ spec:
     displayName: Sara Mohammadi
     email: "sara.mohammadi@nav.no"
     picture: https://avatars.githubusercontent.com/u/86772218?v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1691,7 +1691,7 @@ spec:
     displayName: Egzon Belegu
     email: "egzon.belegu@nav.no"
     picture: https://avatars.githubusercontent.com/u/89395215?v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-tolketjeneste"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1702,7 +1702,7 @@ spec:
     displayName: Ibha Gupta
     email: "ibha.gupta@nav.no"
     picture: https://avatars.githubusercontent.com/u/92856923?u=3b53c84127ca23ea3faf44907fe44169e0edc8d6&amp;v=4
-  memberOf: ["crm"]
+  memberOf: ["crm", "team-nks"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1713,7 +1713,7 @@ spec:
     displayName: Hans Petter Simonsen
     email: "hans.petter.simonsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/1381607?v=4
-  memberOf: ["dab"]
+  memberOf: ["dab", "nav-developers", "pto"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1724,7 +1724,7 @@ spec:
     displayName: Thea Hove Johansen
     email: "thea.hove.johansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/5850228?u=35eb5ec12e08f1ed7e9d227a282e78dbae4e7507&amp;v=4
-  memberOf: ["dab"]
+  memberOf: ["dab", "pto"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1735,7 +1735,7 @@ spec:
     displayName: Marc
     email: "Marc.Joseph.Ablian.Saputil@nav.no"
     picture: https://avatars.githubusercontent.com/u/10384704?u=085b76680dc97c60dd047c33f454849e0ed2af96&amp;v=4
-  memberOf: ["dab"]
+  memberOf: ["dab", "pto"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1746,7 +1746,7 @@ spec:
     displayName: Hakon Planke Holm
     email: "hakon.planke.holm@nav.no"
     picture: https://avatars.githubusercontent.com/u/29750038?v=4
-  memberOf: ["dab", "developers", "forenklet-oppfolging"]
+  memberOf: ["dab", "developers", "forenklet-oppfolging", "oppfolging", "pto", "pus", "team-oppfolging-fo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1757,7 +1757,7 @@ spec:
     displayName: Karl Heinz
     email: "karl.heinz@nav.no"
     picture: https://avatars.githubusercontent.com/u/46737895?v=4
-  memberOf: ["database"]
+  memberOf: ["database", "team-database"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1768,7 +1768,7 @@ spec:
     displayName: Bente Lonnquist Busch
     email: "bente.lonnquist.busch@nav.no"
     picture: https://avatars.githubusercontent.com/u/49953773?v=4
-  memberOf: ["dataplattform", "nada"]
+  memberOf: ["dataplattform", "nada", "nais-billing"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1790,7 +1790,7 @@ spec:
     displayName: Rune Rosseland
     email: "rune.rosseland@nav.no"
     picture: https://avatars.githubusercontent.com/u/5665943?v=4
-  memberOf: ["design"]
+  memberOf: ["design", "skjemadigitalisering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1801,7 +1801,7 @@ spec:
     displayName: Andreas Nordahl
     email: ""
     picture: https://avatars.githubusercontent.com/u/1894119?u=5292ef347e7d0e11671a1c50fbb606fda3c091bb&amp;v=4
-  memberOf: ["designsystem"]
+  memberOf: ["designsystem", "nav-developers", "nav-frontend-admins"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1812,7 +1812,7 @@ spec:
     displayName: Ken
     email: "ken.aleksander.johansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/26967723?u=76d882d56e27c7c2facd01833c9cf5901029d25f&amp;v=4
-  memberOf: ["designsystem", "designsystemet"]
+  memberOf: ["designsystem", "designsystemet", "nav-frontend-admins"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1878,7 +1878,7 @@ spec:
     displayName: Eirik Lillebo
     email: "eirik.robech.lillebo@nav.no"
     picture: https://avatars.githubusercontent.com/u/74510?u=2f6dc31369bf4725f3e4200166d46a538ab9bb4c&amp;v=4
-  memberOf: ["designsystemet", "developers"]
+  memberOf: ["designsystemet", "developers", "nav-developers", "nav-frontend-admins", "uu-teamet"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1889,7 +1889,7 @@ spec:
     displayName: Karina Ludwig
     email: "karina.ludwig@nav.no"
     picture: https://avatars.githubusercontent.com/u/30718528?u=a3a63c307c03b14b618322aa27dd3b8287de019a&amp;v=4
-  memberOf: ["designsystemet"]
+  memberOf: ["designsystemet", "uu-teamet"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1900,7 +1900,7 @@ spec:
     displayName: Atle Nordland
     email: "atle.nordland@nav.no"
     picture: https://avatars.githubusercontent.com/u/660550?u=a754aba2cddd55d383c2a67e9d9a25e92f118ab5&amp;v=4
-  memberOf: ["detsombetyrnoe", "easymoneysnipers"]
+  memberOf: ["detsombetyrnoe", "easymoneysnipers", "nav-developers", "teamdagpenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1911,7 +1911,7 @@ spec:
     displayName: Dervis Mansuroglu
     email: ""
     picture: https://avatars.githubusercontent.com/u/1171789?u=3f376fd031c41bdce6404dad8ba222f5f39527d2&amp;v=4
-  memberOf: ["detsombetyrnoe", "developers", "forenklet-oppfolging", "fp-faggruppe"]
+  memberOf: ["detsombetyrnoe", "developers", "forenklet-oppfolging", "fp-faggruppe", "nav-developers", "utvikling-ledelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1922,7 +1922,7 @@ spec:
     displayName: Knut Mork
     email: ""
     picture: https://avatars.githubusercontent.com/u/1734575?u=a1471924f2293fbebe37aef661b84d6ce0080463&amp;v=4
-  memberOf: ["detsombetyrnoe"]
+  memberOf: ["detsombetyrnoe", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1933,7 +1933,7 @@ spec:
     displayName: Stig Øwre
     email: "stig.owre@nav.no"
     picture: https://avatars.githubusercontent.com/u/1792026?v=4
-  memberOf: ["detsombetyrnoe"]
+  memberOf: ["detsombetyrnoe", "nav-developers", "security-champion-admin", "utvikling-ledelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1944,7 +1944,7 @@ spec:
     displayName: Geir Gåsodden
     email: "geir.gasodden@nav.no"
     picture: https://avatars.githubusercontent.com/u/2197936?u=16ed3175706dd9bca32dbacfd41dd05425e074d9&amp;v=4
-  memberOf: ["detsombetyrnoe", "developers"]
+  memberOf: ["detsombetyrnoe", "developers", "nav-developers", "paw"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1955,7 +1955,7 @@ spec:
     displayName: Dani Berentzen
     email: "dani.alexander.berentzen@nav.no"
     picture: https://avatars.githubusercontent.com/u/5297816?u=308ce1b97df18d20923b481aef82d9bb4b2985a0&amp;v=4
-  memberOf: ["detsombetyrnoe"]
+  memberOf: ["detsombetyrnoe", "security-champion-admin", "utvikling-ledelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1966,7 +1966,7 @@ spec:
     displayName: Halvor Bjørn
     email: "halvor.bjorn@nav.no"
     picture: https://avatars.githubusercontent.com/u/7832273?u=ab1b15fb4e8b3c9740b9ac95ba369a5b05db27da&amp;v=4
-  memberOf: ["detsombetyrnoe"]
+  memberOf: ["detsombetyrnoe", "teamdigisos", "teamdigisos-sommer"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1977,7 +1977,7 @@ spec:
     displayName: Anders Eggum
     email: "anders.eggum@nav.no"
     picture: https://avatars.githubusercontent.com/u/52531832?v=4
-  memberOf: ["detsombetyrnoe"]
+  memberOf: ["detsombetyrnoe", "utvikling-ledelse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1988,7 +1988,7 @@ spec:
     displayName: Lars Erik Dahl
     email: "lars.erik.dahl@nav.no"
     picture: https://avatars.githubusercontent.com/u/184059?u=7eca8577883a0248d3e735db6ee92133ec734c03&amp;v=4
-  memberOf: ["developers", "etterlatte"]
+  memberOf: ["developers", "etterlatte", "nav-developers", "pensjonsaksbehandling", "samordning", "teampensjon", "teampeon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -1999,7 +1999,7 @@ spec:
     displayName: Frode Hansen
     email: "frode.hansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/462494?v=4
-  memberOf: ["developers", "dusseldorf"]
+  memberOf: ["developers", "dusseldorf", "nav-developers", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2010,7 +2010,7 @@ spec:
     displayName: June Henriksen
     email: "june.henriksen2@nav.no"
     picture: https://avatars.githubusercontent.com/u/1004309?u=36950f61f822e6ee70b9b37f5e9376c965290b62&amp;v=4
-  memberOf: ["developers", "digisyfo"]
+  memberOf: ["developers", "digisyfo", "nav-developers", "teamsykefravr", "vedensyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2021,7 +2021,7 @@ spec:
     displayName: Hågen Hasle
     email: "hagen.hasle@nav.no"
     picture: https://avatars.githubusercontent.com/u/1118879?v=4
-  memberOf: ["developers", "klage"]
+  memberOf: ["developers", "klage", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2032,7 +2032,7 @@ spec:
     displayName: Kevin Sillerud
     email: "kevin.sillerud@nav.no"
     picture: https://avatars.githubusercontent.com/u/1189064?v=4
-  memberOf: ["developers", "kafkaadmins"]
+  memberOf: ["developers", "kafkaadmins", "nav-developers", "plattform", "tbd"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2043,7 +2043,7 @@ spec:
     displayName: Marte Pedersen
     email: "Marte.Pedersen@nav.no"
     picture: https://avatars.githubusercontent.com/u/1369077?u=499d51db4c6d9b5561c171e056eb11049b934dba&amp;v=4
-  memberOf: ["developers", "fp-faggruppe"]
+  memberOf: ["developers", "fp-faggruppe", "nav-developers", "pensjondeployer", "pensjonopptjening", "pensjonsamhandling", "teampensjon", "teampeon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2054,7 +2054,7 @@ spec:
     displayName: Nicklas Utgaard
     email: ""
     picture: https://avatars.githubusercontent.com/u/1413417?v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "nav-developers", "nav-frontend-admins", "oppfolging", "oppfolging-person", "personoversikt", "pus", "team-innsending"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2065,7 +2065,7 @@ spec:
     displayName: Kjell Arne Brødreskift
     email: "kjell.arne.brodreskift@nav.no"
     picture: https://avatars.githubusercontent.com/u/1451024?u=2a4fb74088863c1b1d3a41f9d78dc28e92edb59a&amp;v=4
-  memberOf: ["developers", "digisyfo", "flex"]
+  memberOf: ["developers", "digisyfo", "flex", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2076,7 +2076,7 @@ spec:
     displayName: Erlend Vige
     email: "erlend.edvardsen.vige@nav.no"
     picture: https://avatars.githubusercontent.com/u/1488626?u=73df9118dfc8e2910d55d15054293270684e785f&amp;v=4
-  memberOf: ["developers", "dusseldorf", "k9saksbehandling", "min-side"]
+  memberOf: ["developers", "dusseldorf", "k9saksbehandling", "min-side", "nav-developers", "nav-frontend-admins", "personbruker", "pleiepenger", "sykdom-i-familien", "teknologiredaksjonen", "verktoykasse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2087,7 +2087,7 @@ spec:
     displayName: Terje Heen
     email: "terje.heen@nav.no"
     picture: https://avatars.githubusercontent.com/u/1541263?u=c40af05b86fc61a96ebbfcc208a47095f74ca346&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2098,7 +2098,7 @@ spec:
     displayName: Robert Larsen
     email: "robert.larsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/1632722?u=7b839e3e81f9fe79ef31117eba01aa41b228f0a7&amp;v=4
-  memberOf: ["developers", "dittnav", "informasjon-og-veiledning", "min-side"]
+  memberOf: ["developers", "dittnav", "informasjon-og-veiledning", "min-side", "nav-developers", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2109,7 +2109,7 @@ spec:
     displayName: Giao The Cung
     email: "giao.the.cung@nav.no"
     picture: https://avatars.githubusercontent.com/u/3121758?v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "omrade-arbeid", "plattform", "teamdagpenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2120,7 +2120,7 @@ spec:
     displayName: Øyvind Stegard
     email: "oyvind.stegard@nav.no"
     picture: https://avatars.githubusercontent.com/u/4008448?u=96abaf109e8ad1d8abf80336c854097ae7a3dc20&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teampam"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2131,7 +2131,7 @@ spec:
     displayName: Aasmund Nordstoga
     email: "aasmund.nordstoga@nav.no"
     picture: https://avatars.githubusercontent.com/u/4167977?u=6a49b7ed7028f384cfda8d620f7d5e317da8d93b&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teamdigihot"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2142,7 +2142,7 @@ spec:
     displayName: Stephen Ramthun
     email: "stephen.ramthun@nav.no"
     picture: https://avatars.githubusercontent.com/u/4243438?u=2d4e900fde2db8c14daa9fbd08891b476d4ed4fc&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "tbd"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2153,7 +2153,7 @@ spec:
     displayName: Henning Ivan Solberg
     email: "henning.solberg@nav.no"
     picture: https://avatars.githubusercontent.com/u/4274461?u=935af91eb9f036dc7b0778389e92f7c6a166f346&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teamfamilie"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2164,7 +2164,7 @@ spec:
     displayName: Jørn Greger Nyegaard-Larsen
     email: "jorn.greger.nyegaard-larsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/5420695?u=9edbaf65c58e097f55d768f917a5d8601a3cc82b&amp;v=4
-  memberOf: ["developers", "dittnav", "min-side"]
+  memberOf: ["developers", "dittnav", "min-side", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2175,7 +2175,7 @@ spec:
     displayName: Cato Olsen
     email: "cato.olsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/6096127?u=6b66f1dded5769c03ec5c138f486587545485e69&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "pto", "tpts"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2186,7 +2186,7 @@ spec:
     displayName: Tia Firing
     email: "tia.firing@nav.no"
     picture: https://avatars.githubusercontent.com/u/15731862?u=eac3d77dbf2c8472c9a59ced28c8e168bb0156f1&amp;v=4
-  memberOf: ["developers", "digisyfo"]
+  memberOf: ["developers", "digisyfo", "sosialtjenester", "teamsykefravr", "teamsykmelding", "teknologiredaksjonen"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2208,7 +2208,7 @@ spec:
     displayName: Ida
     email: "Ida.Onshus@nav.no"
     picture: https://avatars.githubusercontent.com/u/25682301?u=288c3fd9ce8ad6f8bc6b773301ea19aee2923aae&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teamdigisos"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2219,7 +2219,7 @@ spec:
     displayName: Bernt Halseide
     email: "bernt.halseide@nav.no"
     picture: https://avatars.githubusercontent.com/u/30794711?u=6c4e938e20e96d3e4fe001ceca885cb518bce817&amp;v=4
-  memberOf: ["developers", "gjenlevende", "helseopplysninger", "historisk"]
+  memberOf: ["developers", "gjenlevende", "helseopplysninger", "historisk", "paranoia"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2230,7 +2230,7 @@ spec:
     displayName: Sturle Helland
     email: "sturle.helland@nav.no"
     picture: https://avatars.githubusercontent.com/u/30922394?u=0123b52d67cf4fa7e2ac233ac3813cbb03249f0f&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "sosialtjenester", "team-innsending", "team-soknad", "teamserviceklage"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2241,7 +2241,7 @@ spec:
     displayName: Johan Sjöblom
     email: "johan.sjoblom@nav.no"
     picture: https://avatars.githubusercontent.com/u/31094039?u=c6fcb4a9690e223ed77b82e35bc58a0566d78080&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "team-innsending", "team-soknad", "teamserviceklage"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2263,7 +2263,7 @@ spec:
     displayName: Bjørn Arne Hagen
     email: "bjorn.arne.hagen@nav.no"
     picture: https://avatars.githubusercontent.com/u/35296655?v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teampam"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2274,7 +2274,7 @@ spec:
     displayName: Dinh Anh Tuan Tran
     email: "dinh.anh.tuan.tran@nav.no"
     picture: https://avatars.githubusercontent.com/u/35336002?u=56d156ebeb6bc5a5df8d7f92b41d5f3595c2e8e6&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teampam"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2285,7 +2285,7 @@ spec:
     displayName: Per Olav Mariussen
     email: "per.olav.mariussen@nav.no"
     picture: https://avatars.githubusercontent.com/u/35491554?u=609bc86979cea8d09cff868c8f1aed77de27490d&amp;v=4
-  memberOf: ["developers", "informasjon-og-veiledning"]
+  memberOf: ["developers", "informasjon-og-veiledning", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2296,7 +2296,7 @@ spec:
     displayName: Mariam Pervez
     email: "mariam.pervez@nav.no"
     picture: https://avatars.githubusercontent.com/u/35491763?v=4
-  memberOf: ["developers", "eessipensjon"]
+  memberOf: ["developers", "eessipensjon", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2307,7 +2307,7 @@ spec:
     displayName: Tonje Mjovik
     email: "tonje.mjovik@nav.no"
     picture: https://avatars.githubusercontent.com/u/35685583?u=5c71e19e2e4dd2cc6d46a9535ac3c49d6dc5f167&amp;v=4
-  memberOf: ["developers"]
+  memberOf: ["developers", "teamdagpenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2329,7 +2329,7 @@ spec:
     displayName: Vanessa K.
     email: "vanessa.kjolner.kerr@nav.no"
     picture: https://avatars.githubusercontent.com/u/37249421?v=4
-  memberOf: ["developers", "dittnav", "min-side"]
+  memberOf: ["developers", "dittnav", "min-side", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2362,7 +2362,7 @@ spec:
     displayName: Eivind Skifjeld
     email: "eivind.skifjeld@nav.no"
     picture: https://avatars.githubusercontent.com/u/39593932?u=162ad0f4be21d1353e96aa09322948a8567b75f0&amp;v=4
-  memberOf: ["developers", "informasjon-og-veiledning"]
+  memberOf: ["developers", "informasjon-og-veiledning", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2384,7 +2384,7 @@ spec:
     displayName: Trond-L
     email: "trond.inge.lillesand@nav.no"
     picture: https://avatars.githubusercontent.com/u/56258085?v=4
-  memberOf: ["di-prototyping"]
+  memberOf: ["di-prototyping", "teamfamilie"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2406,7 +2406,7 @@ spec:
     displayName: Svein Opsahl
     email: "svein.opsahl@nav.no"
     picture: https://avatars.githubusercontent.com/u/38421480?v=4
-  memberOf: ["di-techlab", "dvh-analytisk-plattform"]
+  memberOf: ["di-techlab", "dvh-analytisk-plattform", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2450,7 +2450,7 @@ spec:
     displayName: Mathias Hellevang
     email: "mathias.hellevang@nav.no"
     picture: https://avatars.githubusercontent.com/u/594710?v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "nav-developers", "teamsykmelding"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2461,7 +2461,7 @@ spec:
     displayName: Andreas Nilsen
     email: "andreas.nilsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/1237399?v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "nav-developers", "teamsykmelding"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2472,7 +2472,7 @@ spec:
     displayName: Mathias Rørvik
     email: "mathias.fris.rorvik@nav.no"
     picture: https://avatars.githubusercontent.com/u/1775685?u=a92175ed6ee5a1db38c1b9558e9542f7a685d912&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "nav-developers", "teamsykefravr", "vedensyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2483,7 +2483,7 @@ spec:
     displayName: Erik Jansen
     email: "erik.gunnar.jansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/3796719?u=3005b477020be24a50fafd0c91ffbc1feaa876ab&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "team-esyfo", "teamsykefravr", "vedensyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2494,7 +2494,7 @@ spec:
     displayName: Tanja Krasnomovets
     email: "tanja.krasnomovets@nav.no"
     picture: https://avatars.githubusercontent.com/u/4580431?u=07d765e399e17cdaafbd45082546bdb1e9cfa3fe&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "team-esyfo", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2505,7 +2505,7 @@ spec:
     displayName: Luan Tran
     email: "luan.tran@nav.no"
     picture: https://avatars.githubusercontent.com/u/8613937?u=d1410930952c1933a44501ec0d33d019e829d675&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "team-esyfo", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2516,7 +2516,7 @@ spec:
     displayName: Håvard Stigen Andersen
     email: "havard.stigen.andersen@nav.no"
     picture: https://avatars.githubusercontent.com/u/9011805?u=c0651bb2c588ff0c58560ce96908f6e8af479d94&amp;v=4
-  memberOf: ["digisyfo", "flex"]
+  memberOf: ["digisyfo", "flex", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2538,7 +2538,7 @@ spec:
     displayName: John Martin Lindseth
     email: "john.martin.lindseth@nav.no"
     picture: https://avatars.githubusercontent.com/u/40055758?u=df69958ea5ab5b047313c48f7af9ffd832213a63&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "teamsykefravr", "vedensyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2549,7 +2549,7 @@ spec:
     displayName: Tor-Christian Tangenes
     email: "tor-christian.tangenes@nav.no"
     picture: https://avatars.githubusercontent.com/u/40393162?v=4
-  memberOf: ["digisyfo", "helseopplysninger"]
+  memberOf: ["digisyfo", "helseopplysninger", "team-esyfo", "teamsykefravr", "vedensyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2560,7 +2560,7 @@ spec:
     displayName: Tor Halle Rise
     email: "tor.halle.rise@nav.no"
     picture: https://avatars.githubusercontent.com/u/45389243?u=e4ebbba6780883318bd268a86957341094b51396&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "teamsykefravr", "vedensyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2582,7 +2582,7 @@ spec:
     displayName: Lisa Falch Norstrand
     email: "lisa.falch.norstrand@nav.no"
     picture: https://avatars.githubusercontent.com/u/61786814?v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "team-esyfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2593,7 +2593,7 @@ spec:
     displayName: Kaja Kvinge Akselsen
     email: "kaja.kvinge.akselsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/75254007?u=35a9656b7e35afa42b1dc8c603155c04b706f1f6&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "team-esyfo", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2604,7 +2604,7 @@ spec:
     displayName: Anders Rognstad
     email: "anders.rognstad@nav.no"
     picture: https://avatars.githubusercontent.com/u/79838644?u=ec39ccd668c842bd599b45e8ae71e8bd2a10a9c1&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2615,7 +2615,7 @@ spec:
     displayName: Geir Arne Waagbø
     email: "geir.arne.waagbo@nav.no"
     picture: https://avatars.githubusercontent.com/u/79845894?u=38273359fb7d8f752491259b3e509f37c2503212&amp;v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2626,7 +2626,7 @@ spec:
     displayName: Audun Sorheim
     email: "audun.sorheim@nav.no"
     picture: https://avatars.githubusercontent.com/u/80095835?v=4
-  memberOf: ["digisyfo"]
+  memberOf: ["digisyfo", "team-esyfo", "teamsykefravr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2692,7 +2692,7 @@ spec:
     displayName: Sergio A. Arevalo Soria
     email: "sergio.alberto.arevalo.soria@nav.no"
     picture: https://avatars.githubusercontent.com/u/7903076?v=4
-  memberOf: ["dittnav", "min-side"]
+  memberOf: ["dittnav", "min-side", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2703,7 +2703,7 @@ spec:
     displayName: Tone Eriksen
     email: "tone.eriksen@nav.no"
     picture: https://avatars.githubusercontent.com/u/35799217?u=c6e010c58820ba28871fd831c33153fc752691dc&amp;v=4
-  memberOf: ["dittnav"]
+  memberOf: ["dittnav", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2714,7 +2714,7 @@ spec:
     displayName: eivinne
     email: ""
     picture: https://avatars.githubusercontent.com/u/43741762?v=4
-  memberOf: ["dittnav", "min-side"]
+  memberOf: ["dittnav", "min-side", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2725,7 +2725,7 @@ spec:
     displayName: Christopher Santana
     email: "christopher.santana@nav.no"
     picture: https://avatars.githubusercontent.com/u/57258371?v=4
-  memberOf: ["dittnav", "min-side"]
+  memberOf: ["dittnav", "min-side", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2736,7 +2736,7 @@ spec:
     displayName: Amirhossien Lotfi
     email: "amirhossien.lotfi@nav.no"
     picture: https://avatars.githubusercontent.com/u/88343157?v=4
-  memberOf: ["dittnav", "min-side"]
+  memberOf: ["dittnav", "min-side", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2747,7 +2747,7 @@ spec:
     displayName: Alexander Haugli
     email: "alexander.haugli@nav.no"
     picture: https://avatars.githubusercontent.com/u/46961622?v=4
-  memberOf: ["dokumenteformidling", "dokumenteformidlingsertifikat", "dokumenthandtering", "dpo-eformidling-altinn"]
+  memberOf: ["dokumenteformidling", "dokumenteformidlingsertifikat", "dokumenthandtering", "dpo-eformidling-altinn", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2758,7 +2758,7 @@ spec:
     displayName: Anders Voldsund
     email: "anders.voldsund@nav.no"
     picture: https://avatars.githubusercontent.com/u/5610775?u=fbbdee86f248bd5977afbcaf2e3c28ca98eed9cf&amp;v=4
-  memberOf: ["dokumenthandtering"]
+  memberOf: ["dokumenthandtering", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2769,7 +2769,7 @@ spec:
     displayName: Tsigab Gebremedhin
     email: "tsigab.angosom.gebremedhin@nav.no"
     picture: https://avatars.githubusercontent.com/u/22769168?v=4
-  memberOf: ["dokumenthandtering"]
+  memberOf: ["dokumenthandtering", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2780,7 +2780,7 @@ spec:
     displayName: Tim Aasen
     email: "tim.aasen@nav.no"
     picture: https://avatars.githubusercontent.com/u/59047094?v=4
-  memberOf: ["dokumenthandtering"]
+  memberOf: ["dokumenthandtering", "paranoia", "teamdokumenthandtering", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2791,7 +2791,7 @@ spec:
     displayName: Anna Blechingberg
     email: "anna.blechingberg@nav.no"
     picture: https://avatars.githubusercontent.com/u/59963375?v=4
-  memberOf: ["dokumenthandtering"]
+  memberOf: ["dokumenthandtering", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2802,7 +2802,7 @@ spec:
     displayName: Joakim Borgersen
     email: "joakim.borgersen@nav.no"
     picture: https://avatars.githubusercontent.com/u/60969174?v=4
-  memberOf: ["dokumenthandtering", "mnemosyne"]
+  memberOf: ["dokumenthandtering", "mnemosyne", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2813,7 +2813,7 @@ spec:
     displayName: Kristian Laskemoen
     email: "kristian.laskemoen@nav.no"
     picture: https://avatars.githubusercontent.com/u/61700528?v=4
-  memberOf: ["dokumenthandtering"]
+  memberOf: ["dokumenthandtering", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2824,7 +2824,7 @@ spec:
     displayName: Hakon Snotun
     email: "hakon.snotun@nav.no"
     picture: https://avatars.githubusercontent.com/u/78804909?v=4
-  memberOf: ["dokumenthandtering"]
+  memberOf: ["dokumenthandtering", "teamdokumenthandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2835,7 +2835,7 @@ spec:
     displayName: Martin Langvatn
     email: "martin.gundersen.langvatn@nav.no"
     picture: https://avatars.githubusercontent.com/u/1404881?u=894b61267bdeb13e766d832414b582bbf5f48ea6&amp;v=4
-  memberOf: ["dolly"]
+  memberOf: ["dolly", "nav-developers", "orkestrator", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2846,7 +2846,7 @@ spec:
     displayName: Kristen Hærum
     email: "kristen.herum@nav.no"
     picture: https://avatars.githubusercontent.com/u/11363899?u=a27bbc5fde4271e842009557a683da45ab75b18d&amp;v=4
-  memberOf: ["dolly"]
+  memberOf: ["dolly", "orkestrator", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2868,7 +2868,7 @@ spec:
     displayName: Aileen Hay
     email: "aileen.hay@nav.no"
     picture: https://avatars.githubusercontent.com/u/58416744?u=59d262bc6a7ba28132073cc4568f9e09a8824a92&amp;v=4
-  memberOf: ["dolly"]
+  memberOf: ["dolly", "orkestrator", "synt"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2879,7 +2879,7 @@ spec:
     displayName: Stian Gustavsson
     email: "stian.gustavsson@nav.no"
     picture: https://avatars.githubusercontent.com/u/66469591?u=14a4309cf698b428e6ebef534752b1a4f354c220&amp;v=4
-  memberOf: ["dolly"]
+  memberOf: ["dolly", "orkestrator", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2890,7 +2890,7 @@ spec:
     displayName: Mo Amini
     email: "mo.amini@nav.no"
     picture: https://avatars.githubusercontent.com/u/3586449?u=9dc49aa0b5f3edaf859bd72677331110f86b9cb7&amp;v=4
-  memberOf: ["drage", "eessipensjon", "gjenlevende"]
+  memberOf: ["drage", "eessipensjon", "gjenlevende", "pensjonsamhandling", "pesys", "samordning", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2901,7 +2901,7 @@ spec:
     displayName: Morten Normann
     email: "morten.normann@nav.no"
     picture: https://avatars.githubusercontent.com/u/44022592?u=0b31f4e79a3ba27ada77fc32221babdea05323fc&amp;v=4
-  memberOf: ["drage"]
+  memberOf: ["drage", "pensjondeployer", "pesys", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2912,7 +2912,7 @@ spec:
     displayName: Dag Raaum
     email: "dag.raaum@nav.no"
     picture: https://avatars.githubusercontent.com/u/5316327?u=b19010646e463ef0dd24e4fb77e92b12d3566b7d&amp;v=4
-  memberOf: ["dsopkontroll", "helsearbeidsgiver", "integrasjon"]
+  memberOf: ["dsopkontroll", "helsearbeidsgiver", "integrasjon", "pais"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2923,7 +2923,7 @@ spec:
     displayName: Nabil Fario
     email: "nabil.fario@nav.no"
     picture: https://avatars.githubusercontent.com/u/5539136?u=1709b9cf63d00efad12bed771c259181b4b1ff3c&amp;v=4
-  memberOf: ["dsopkontroll", "integrasjon"]
+  memberOf: ["dsopkontroll", "integrasjon", "team-emottak"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2934,7 +2934,7 @@ spec:
     displayName: Frode Carlsen
     email: "frode.odde.carlsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/237255?v=4
-  memberOf: ["duplodevs"]
+  memberOf: ["duplodevs", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2945,7 +2945,7 @@ spec:
     displayName: Ole Jørgen Rishoff
     email: ""
     picture: https://avatars.githubusercontent.com/u/1122765?v=4
-  memberOf: ["duplodevs", "k9saksbehandling"]
+  memberOf: ["duplodevs", "k9saksbehandling", "nav-developers", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2956,7 +2956,7 @@ spec:
     displayName: Marius Bækken Glittum
     email: "marius.glittum@nav.no"
     picture: https://avatars.githubusercontent.com/u/1478004?u=53a339d1e1549dc7f1e12bafae3fa95f0455bc6a&amp;v=4
-  memberOf: ["duplodevs", "k9saksbehandling"]
+  memberOf: ["duplodevs", "k9saksbehandling", "nav-developers", "pleiepenger", "sykdom-i-familien", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2967,7 +2967,7 @@ spec:
     displayName: Espen Velsvik
     email: "espen.velsvik@nav.no"
     picture: https://avatars.githubusercontent.com/u/5936845?u=6c42ed085bb539100a6997cce7cba873b3470119&amp;v=4
-  memberOf: ["duplodevs", "k9saksbehandling"]
+  memberOf: ["duplodevs", "k9saksbehandling", "sykdom-i-familien", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2978,7 +2978,7 @@ spec:
     displayName: Petter Ekern
     email: "petter.ekern@nav.no"
     picture: https://avatars.githubusercontent.com/u/43809623?u=af4156bcbac3882952bdc56ecf1a94f9e177a75b&amp;v=4
-  memberOf: ["duplodevs", "k9saksbehandling"]
+  memberOf: ["duplodevs", "k9saksbehandling", "sykdom-i-familien", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -2989,7 +2989,7 @@ spec:
     displayName: Jens-Otto Larsen
     email: "jens-otto.larsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/46576810?u=472e0642622d0766a5b7a21b191318ad9ce3a9c2&amp;v=4
-  memberOf: ["duplodevs"]
+  memberOf: ["duplodevs", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3000,7 +3000,7 @@ spec:
     displayName: Erik M.Forsman
     email: "erik.maximilian.forsman@nav.no"
     picture: https://avatars.githubusercontent.com/u/1249665?u=47557d8fd414b46732f450eae321760cfbe031be&amp;v=4
-  memberOf: ["dusseldorf", "k9saksbehandling"]
+  memberOf: ["dusseldorf", "k9saksbehandling", "nav-developers", "omsorgspenger", "pleiepenger", "sykdom-i-familien", "tbd", "team-sifinntektsmelding"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3011,7 +3011,7 @@ spec:
     displayName: Ramin Esfandiari
     email: "ramin.esfandiari@nav.no"
     picture: https://avatars.githubusercontent.com/u/7078876?u=851232476ce3c020c71a6f5c555ca349d3d0169c&amp;v=4
-  memberOf: ["dusseldorf"]
+  memberOf: ["dusseldorf", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3022,7 +3022,7 @@ spec:
     displayName: Sander Opperud Odden
     email: "Sander.opperud.odden@nav.no"
     picture: https://avatars.githubusercontent.com/u/60642441?u=d5a2a69e4a91d8af095e74325b30713875956d7c&amp;v=4
-  memberOf: ["dusseldorf"]
+  memberOf: ["dusseldorf", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3033,7 +3033,7 @@ spec:
     displayName: Aleksei Poroshin
     email: "aleksei.poroshin@nav.no"
     picture: https://avatars.githubusercontent.com/u/69150024?u=08ae7c0419052c9bd377b158feb0aeb8f684638e&amp;v=4
-  memberOf: ["dusseldorf"]
+  memberOf: ["dusseldorf", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3044,7 +3044,7 @@ spec:
     displayName: Simen Hvidsten Rafdal
     email: "simen.hvidsten.rafdal@nav.no"
     picture: https://avatars.githubusercontent.com/u/42777131?u=011e31da71edf60319197da2a34aecb305a69099&amp;v=4
-  memberOf: ["dv-a-team", "dvh-arbeid"]
+  memberOf: ["dv-a-team", "dvh-arbeid", "teamdi", "teampam"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3132,7 +3132,7 @@ spec:
     displayName: Sohaib Khan
     email: "Sohaib.khan@nav.no"
     picture: https://avatars.githubusercontent.com/u/1432883?v=4
-  memberOf: ["dv-familie"]
+  memberOf: ["dv-familie", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3176,7 +3176,7 @@ spec:
     displayName: Rune Jordet
     email: "rune.jordet@nav.no"
     picture: https://avatars.githubusercontent.com/u/61734457?u=9caa43477acbe1e5994e73d3c349eec694aea127&amp;v=4
-  memberOf: ["dv-team-pensjon"]
+  memberOf: ["dv-team-pensjon", "teampensjondatavarehus"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3187,7 +3187,7 @@ spec:
     displayName: Laszlo Fekete
     email: "laszlo.fekete@nav.no"
     picture: https://avatars.githubusercontent.com/u/62243011?v=4
-  memberOf: ["dv-team-pensjon"]
+  memberOf: ["dv-team-pensjon", "ptsak", "team-sigma"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3209,7 +3209,7 @@ spec:
     displayName: Knut Sletten
     email: "knut.sletten@nav.no"
     picture: https://avatars.githubusercontent.com/u/37211402?u=f989ea0b40dab1f0da4d4450bff75768d87fb76c&amp;v=4
-  memberOf: ["dvh-analytisk-plattform", "jsd"]
+  memberOf: ["dvh-analytisk-plattform", "jsd", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3220,7 +3220,7 @@ spec:
     displayName: l105669
     email: ""
     picture: https://avatars.githubusercontent.com/u/43843393?v=4
-  memberOf: ["dvh-analytisk-plattform"]
+  memberOf: ["dvh-analytisk-plattform", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3231,7 +3231,7 @@ spec:
     displayName: Kjell Arne Hansen
     email: "kjell.arne.hansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/48239904?u=002351bde08006e44fe6e8ba7610fdbc384b8035&amp;v=4
-  memberOf: ["dvh-analytisk-plattform"]
+  memberOf: ["dvh-analytisk-plattform", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3242,7 +3242,7 @@ spec:
     displayName: Jo Tømmerås
     email: "jo.tommeras@nav.no"
     picture: https://avatars.githubusercontent.com/u/57797539?u=22ac1b3851e821c033de6254b08d0bf9875aecc0&amp;v=4
-  memberOf: ["dvh-analytisk-plattform"]
+  memberOf: ["dvh-analytisk-plattform", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3253,7 +3253,7 @@ spec:
     displayName: Kjell-anders Karstensen
     email: "kjell-anders.karstensen@nav.no"
     picture: https://avatars.githubusercontent.com/u/58423046?v=4
-  memberOf: ["dvh-analytisk-plattform"]
+  memberOf: ["dvh-analytisk-plattform", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3264,7 +3264,7 @@ spec:
     displayName: Andy Tran
     email: "andy.tran@nav.no"
     picture: https://avatars.githubusercontent.com/u/58813371?v=4
-  memberOf: ["dvh-analytisk-plattform"]
+  memberOf: ["dvh-analytisk-plattform", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3275,7 +3275,7 @@ spec:
     displayName: Aftab Parvaiz
     email: "aftab.parvaiz@nav.no"
     picture: https://avatars.githubusercontent.com/u/75611907?v=4
-  memberOf: ["dvh-analytisk-plattform", "jsd"]
+  memberOf: ["dvh-analytisk-plattform", "jsd", "teammarvel"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3286,7 +3286,7 @@ spec:
     displayName: espenhoh
     email: ""
     picture: https://avatars.githubusercontent.com/u/7356070?v=4
-  memberOf: ["dvh-arbeid"]
+  memberOf: ["dvh-arbeid", "teknologiredaksjonen"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3341,7 +3341,7 @@ spec:
     displayName: yongbinkwon
     email: ""
     picture: https://avatars.githubusercontent.com/u/26415628?v=4
-  memberOf: ["easymoneysnipers"]
+  memberOf: ["easymoneysnipers", "teampam"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3352,7 +3352,7 @@ spec:
     displayName: Julian Torp
     email: "julian.torp@nav.no"
     picture: https://avatars.githubusercontent.com/u/53822670?u=4bf05e9bb3e9171b628b3097c92de081df451a63&amp;v=4
-  memberOf: ["easymoneysnipers"]
+  memberOf: ["easymoneysnipers", "teampam"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3363,7 +3363,7 @@ spec:
     displayName: Knut Bjørnar Wålberg
     email: "knut.bjornar.walberg@nav.no"
     picture: https://avatars.githubusercontent.com/u/329507?v=4
-  memberOf: ["eessibasis", "eux"]
+  memberOf: ["eessibasis", "eux", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3374,7 +3374,7 @@ spec:
     displayName: Torsten Kirschner
     email: "torsten.kirschner@nav.no"
     picture: https://avatars.githubusercontent.com/u/1711291?u=b300c03b0c4a6bef0b2a038ce60a0175871d7044&amp;v=4
-  memberOf: ["eessibasis", "eux"]
+  memberOf: ["eessibasis", "eux", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3396,7 +3396,7 @@ spec:
     displayName: Nuno Cardoso
     email: "Nuno.Cardoso@nav.no"
     picture: https://avatars.githubusercontent.com/u/525528?v=4
-  memberOf: ["eessipensjon", "eux"]
+  memberOf: ["eessipensjon", "eux", "nav-developers", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3407,7 +3407,7 @@ spec:
     displayName: Daniel Skarpås
     email: "daniel.skarpas@nav.no"
     picture: https://avatars.githubusercontent.com/u/6398829?u=19ad454e3b9a96e473f3b6653d82f4bb73d86aef&amp;v=4
-  memberOf: ["eessipensjon"]
+  memberOf: ["eessipensjon", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3418,7 +3418,7 @@ spec:
     displayName: Kjetil JD
     email: "kjetil.jorgensen-dahl@nav.no"
     picture: https://avatars.githubusercontent.com/u/42202629?u=337b3e694169561180f017169692a10eb98ade1a&amp;v=4
-  memberOf: ["eessipensjon"]
+  memberOf: ["eessipensjon", "teknologiredaksjonen"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3429,7 +3429,7 @@ spec:
     displayName: Jens Chr. Madsen
     email: "Jens.Christian.Madsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/42404227?u=21a32b95efb9b974bae9ede482c9dfa633d7141d&amp;v=4
-  memberOf: ["eessipensjon"]
+  memberOf: ["eessipensjon", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3440,7 +3440,7 @@ spec:
     displayName: Jon Disen
     email: "jon.disen@nav.no"
     picture: https://avatars.githubusercontent.com/u/38218279?u=ffc859ab621aacdd28b3a23b897052499feeaf1e&amp;v=4
-  memberOf: ["esb", "integrasjon"]
+  memberOf: ["esb", "integrasjon", "pim"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3451,7 +3451,7 @@ spec:
     displayName: Ashish Misra
     email: "ashish.misra@nav.no"
     picture: https://avatars.githubusercontent.com/u/59822706?v=4
-  memberOf: ["esb", "integrasjon"]
+  memberOf: ["esb", "integrasjon", "teamabac"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3462,7 +3462,7 @@ spec:
     displayName: Glenn Wedin
     email: "glenn.wedin@nav.no"
     picture: https://avatars.githubusercontent.com/u/620845?u=963271625a047192125cc5c5492e395c96e4dbf1&amp;v=4
-  memberOf: ["etterlatte"]
+  memberOf: ["etterlatte", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3473,7 +3473,7 @@ spec:
     displayName: Espen Schei
     email: "espen.schei@nav.no"
     picture: https://avatars.githubusercontent.com/u/1083866?u=c97f70dc1667b4bc0ee46bb0c3019a1b3975d82c&amp;v=4
-  memberOf: ["etterlatte"]
+  memberOf: ["etterlatte", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3484,7 +3484,7 @@ spec:
     displayName: Nicolas N.
     email: "nicolas.nordhagen@nav.no"
     picture: https://avatars.githubusercontent.com/u/1224956?u=f1390c5b356d62f8dc37b3c7d12bd422a355e6cc&amp;v=4
-  memberOf: ["etterlatte"]
+  memberOf: ["etterlatte", "nav-developers", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3506,7 +3506,7 @@ spec:
     displayName: Jorgen Stikbakke
     email: "jorgen.stikbakke@nav.no"
     picture: https://avatars.githubusercontent.com/u/40233560?v=4
-  memberOf: ["etterlatte", "jsd"]
+  memberOf: ["etterlatte", "jsd", "pensjondeployer", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3517,7 +3517,7 @@ spec:
     displayName: Helge Janbu
     email: "helge.janbu@nav.no"
     picture: https://avatars.githubusercontent.com/u/49473015?u=e497f5c69736b8dfeb6820685f4b96d753ac70f1&amp;v=4
-  memberOf: ["etterlatte"]
+  memberOf: ["etterlatte", "pensjontestdata", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3528,7 +3528,7 @@ spec:
     displayName: Odin Eilertsen
     email: "odin.eilertsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/46565985?v=4
-  memberOf: ["farskapsportal"]
+  memberOf: ["farskapsportal", "pdl", "pdlprod", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3539,7 +3539,7 @@ spec:
     displayName: Henrik Paulsen
     email: "henrik.paulsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/32196186?u=ed968b1f2651322c6b2b68c62633a298067772b1&amp;v=4
-  memberOf: ["fist"]
+  memberOf: ["fist", "petra-hr-chatbot", "team-finansiell-styringsinfo", "team-sigma"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3550,7 +3550,7 @@ spec:
     displayName: Ivar Framnes
     email: "ivar.william.kvale.framnes@nav.no"
     picture: https://avatars.githubusercontent.com/u/42861620?v=4
-  memberOf: ["fist"]
+  memberOf: ["fist", "ptsak", "team-finansiell-styringsinfo"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3594,7 +3594,7 @@ spec:
     displayName: Rituvesh Kumar
     email: "rituvesh.kumar@nav.no"
     picture: https://avatars.githubusercontent.com/u/17593140?u=57fe3a6b964ffc42158f49eef1ae50a4dbdca7f4&amp;v=4
-  memberOf: ["fp-faggruppe"]
+  memberOf: ["fp-faggruppe", "pdl", "pdlfullmakt", "pdlprod", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3605,7 +3605,7 @@ spec:
     displayName: Roy Grini
     email: "roy.grini@nav.no"
     picture: https://avatars.githubusercontent.com/u/22890088?u=2650db9910fe38e89bad22456359a2364e663db0&amp;v=4
-  memberOf: ["fp-faggruppe"]
+  memberOf: ["fp-faggruppe", "nom", "org", "registre"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3616,7 +3616,7 @@ spec:
     displayName: Oyvind Roth
     email: "oyvind.roth@nav.no"
     picture: https://avatars.githubusercontent.com/u/26601001?v=4
-  memberOf: ["fp-faggruppe"]
+  memberOf: ["fp-faggruppe", "oppgavehandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3627,7 +3627,7 @@ spec:
     displayName: Pal Fleischer Borjeson
     email: "pal.fleischer.borjeson@nav.no"
     picture: https://avatars.githubusercontent.com/u/26817075?v=4
-  memberOf: ["gjenlevende"]
+  memberOf: ["gjenlevende", "paranoia", "pensjonsamhandling", "teampensjon", "teampeon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3638,7 +3638,7 @@ spec:
     displayName: Ole-André Riga-Johansen
     email: "ole-andre.riga.johansen@nav.no"
     picture: https://avatars.githubusercontent.com/u/347137?u=29b317e43e1b65608716ae969235c671650f1b83&amp;v=4
-  memberOf: ["helsearbeidsgiver"]
+  memberOf: ["helsearbeidsgiver", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3649,7 +3649,7 @@ spec:
     displayName: Jonas Enge
     email: "jonas.maccyber.enge@nav.no"
     picture: https://avatars.githubusercontent.com/u/701351?u=8e68eb81d78a488fe667c3d161d910f8f932a042&amp;v=4
-  memberOf: ["helsearbeidsgiver"]
+  memberOf: ["helsearbeidsgiver", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3693,7 +3693,7 @@ spec:
     displayName: Robin
     email: "robin.tordly@nav.no"
     picture: https://avatars.githubusercontent.com/u/1038289?u=6f909ffa2ee7c4929f6da2bfe074b6e880f98c60&amp;v=4
-  memberOf: ["helseopplysninger"]
+  memberOf: ["helseopplysninger", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3704,7 +3704,7 @@ spec:
     displayName: Eirik Myklebost
     email: ""
     picture: https://avatars.githubusercontent.com/u/2029260?u=a5b7f7797463da8bc24ca7d18a30c9b197655dee&amp;v=4
-  memberOf: ["helseopplysninger"]
+  memberOf: ["helseopplysninger", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3737,7 +3737,7 @@ spec:
     displayName: Aleksander Raknes
     email: "aleksander.raknes@nav.no"
     picture: https://avatars.githubusercontent.com/u/53822920?v=4
-  memberOf: ["historisk", "infotrygd", "k9saksbehandling"]
+  memberOf: ["historisk", "infotrygd", "k9saksbehandling", "omsorgspenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3748,7 +3748,7 @@ spec:
     displayName: Eivind Staff
     email: "eivind.staff@nav.no"
     picture: https://avatars.githubusercontent.com/u/40164280?v=4
-  memberOf: ["idm"]
+  memberOf: ["idm", "plattformsikkerhet"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3770,7 +3770,7 @@ spec:
     displayName: Terje Karlsen
     email: ""
     picture: https://avatars.githubusercontent.com/u/1443997?u=004755738fc728d2994680d1e097ebcac024e326&amp;v=4
-  memberOf: ["informasjon-og-veiledning"]
+  memberOf: ["informasjon-og-veiledning", "nav-developers", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3781,7 +3781,7 @@ spec:
     displayName: Tobias Mcvey
     email: "tobias.mcvey@nav.no"
     picture: https://avatars.githubusercontent.com/u/8222215?u=a2a5617862e4da366da2973a23d07ff5f6ace844&amp;v=4
-  memberOf: ["informasjon-og-veiledning"]
+  memberOf: ["informasjon-og-veiledning", "personbruker", "webanalytics"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3792,7 +3792,7 @@ spec:
     displayName: Anders Bråthen Nomerstad
     email: "anders.brathen.nomerstad@nav.no"
     picture: https://avatars.githubusercontent.com/u/18137669?v=4
-  memberOf: ["informasjon-og-veiledning"]
+  memberOf: ["informasjon-og-veiledning", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3803,7 +3803,7 @@ spec:
     displayName: Audun Svensson Berget
     email: "Audun.Svensson.Berget@nav.no"
     picture: https://avatars.githubusercontent.com/u/80249993?v=4
-  memberOf: ["informasjon-og-veiledning"]
+  memberOf: ["informasjon-og-veiledning", "personbruker"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3814,7 +3814,7 @@ spec:
     displayName: Richard Martinsen
     email: "richard.martinsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/10022471?v=4
-  memberOf: ["infotrygd"]
+  memberOf: ["infotrygd", "supstonad", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3847,7 +3847,7 @@ spec:
     displayName: Sigbjorn Berntzen
     email: "sigbjorn.berntzen@nav.no"
     picture: https://avatars.githubusercontent.com/u/49902664?v=4
-  memberOf: ["integrasjon", "jsd"]
+  memberOf: ["integrasjon", "jsd", "team-emottak"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3858,7 +3858,7 @@ spec:
     displayName: Tor Erik Eide
     email: "tor.erik.eide@nav.no"
     picture: https://avatars.githubusercontent.com/u/11437251?v=4
-  memberOf: ["isa"]
+  memberOf: ["isa", "oppgavehandtering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3924,7 +3924,7 @@ spec:
     displayName: Rafal Holter
     email: "rafal.holter@nav.no"
     picture: https://avatars.githubusercontent.com/u/44862150?v=4
-  memberOf: ["isoc-secops"]
+  memberOf: ["isoc-secops", "plattform"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3946,7 +3946,7 @@ spec:
     displayName: Jakob Havstein Eriksen
     email: "jakob.havstein.eriksen@nav.no"
     picture: https://avatars.githubusercontent.com/u/136872?v=4
-  memberOf: ["jfb2019"]
+  memberOf: ["jfb2019", "nav-developers", "risk", "supstonadx", "tbd"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3957,7 +3957,7 @@ spec:
     displayName: Anja Gotesen Aalerud
     email: "anja.gotesen.aalerud@nav.no"
     picture: https://avatars.githubusercontent.com/u/52454508?v=4
-  memberOf: ["jfb2019"]
+  memberOf: ["jfb2019", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3968,7 +3968,7 @@ spec:
     displayName: Torgeir Arnoy
     email: ""
     picture: https://avatars.githubusercontent.com/u/897541?u=9566aacaca5694fe62c5f9f8d1c7bcbbfe8cce57&amp;v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3979,7 +3979,7 @@ spec:
     displayName: Peter Holme Obrestad
     email: "peter.holme.obrestad@nav.no"
     picture: https://avatars.githubusercontent.com/u/1475800?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "nav-developers", "navet"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -3990,7 +3990,7 @@ spec:
     displayName: Ståle Kjone
     email: "stale.kjone@nav.no"
     picture: https://avatars.githubusercontent.com/u/39696759?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "uu-teamet"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4001,7 +4001,7 @@ spec:
     displayName: Øyvind Buer
     email: "oyvind.buer@nav.no"
     picture: https://avatars.githubusercontent.com/u/39733337?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "pensjondeployer", "pensjonopptjening", "pensjonsamhandling", "teampensjon"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4034,7 +4034,7 @@ spec:
     displayName: Christian Haslund
     email: "christian.haslund@nav.no"
     picture: https://avatars.githubusercontent.com/u/50137233?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "skjemadigitalisering"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4045,7 +4045,7 @@ spec:
     displayName: Sigrun Reitan
     email: "sigrun.reitan@nav.no"
     picture: https://avatars.githubusercontent.com/u/50824401?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4056,7 +4056,7 @@ spec:
     displayName: Leif Peder Bakke
     email: "leif.peder.bakke@nav.no"
     picture: https://avatars.githubusercontent.com/u/57948447?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "team-service-manamgenet", "team-service-management"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4067,7 +4067,7 @@ spec:
     displayName: Tom Harald Engen
     email: "Tom.harald.engen@nav.no"
     picture: https://avatars.githubusercontent.com/u/82380577?v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "team-registerforvaltning-rpa"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4078,7 +4078,7 @@ spec:
     displayName: Corsinia Bryla
     email: "corsinia.bryla@nav.no"
     picture: https://avatars.githubusercontent.com/u/84780398?u=6ec97032d998744de7ab9d13fcfe07130ecf601f&amp;v=4
-  memberOf: ["jsd"]
+  memberOf: ["jsd", "teamccm"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4100,7 +4100,7 @@ spec:
     displayName: Frode Lindås
     email: "frode.lindas@nav.no"
     picture: https://avatars.githubusercontent.com/u/300827?u=bbcf7cbe9d6eeb29ef2c3041d76179da0107dda5&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "nav-developers", "pleiepenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4111,7 +4111,7 @@ spec:
     displayName: Qadeer Khan
     email: "qadeer.ahmad.khan@nav.no"
     picture: https://avatars.githubusercontent.com/u/3247754?u=2c49a7a6932286fe55328a3c84bbe70dbf63f0e1&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "omsorgspenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4122,7 +4122,7 @@ spec:
     displayName: Stian Grenborgen
     email: "stian.grenborgen@nav.no"
     picture: https://avatars.githubusercontent.com/u/6303208?u=b6aedac064010e741d38ffdc24939416ccf3277a&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "omsorgspenger", "pleiepenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4133,7 +4133,7 @@ spec:
     displayName: Bjørn Erik Lømo
     email: "Bjorn.erik.lomo@nav.no"
     picture: https://avatars.githubusercontent.com/u/18736913?v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "pleiepenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4144,7 +4144,7 @@ spec:
     displayName: Vebjørn Nordby
     email: "vebjorn.nordby@nav.no"
     picture: https://avatars.githubusercontent.com/u/25080417?u=b967f29bdf0dfc4023a9687c71d4425f372d1920&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "pleiepenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4155,7 +4155,7 @@ spec:
     displayName: Bjørnar Askevold
     email: "bjornar.askevold@nav.no"
     picture: https://avatars.githubusercontent.com/u/43171873?u=0f428a2c478862a4eb2b5043df78df0685580ef5&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "pleiepenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4166,7 +4166,7 @@ spec:
     displayName: Tore Langedal Endestad
     email: "tore.langedal.endestad@nav.no"
     picture: https://avatars.githubusercontent.com/u/45484434?v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "sykdom-i-familien", "teamforeldrepenger", "teamukeloenn"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4177,7 +4177,7 @@ spec:
     displayName: Helga Nyrud
     email: "helga.nyrud@nav.no"
     picture: https://avatars.githubusercontent.com/u/45488635?u=bdf89af8e5d74861ae4b09295cec6ea9955e4190&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "omsorgspenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4188,7 +4188,7 @@ spec:
     displayName: Christoffer
     email: "christoffer.lohne@nav.no"
     picture: https://avatars.githubusercontent.com/u/45653861?u=ebd3b915843bc0658410dbde077c11a362928fa3&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "pleiepenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4199,7 +4199,7 @@ spec:
     displayName: Saikat Halder
     email: "saikat.halder@nav.no"
     picture: https://avatars.githubusercontent.com/u/45660476?u=9c9b4fa315d3becf911bcbab9e01cfdb3ba2979a&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "sykdom-i-familien", "teamfamilie"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4210,7 +4210,7 @@ spec:
     displayName: Hallvard Andreas Stark
     email: "hallvard.andreas.stark@nav.no"
     picture: https://avatars.githubusercontent.com/u/57254397?u=fce1b59dcda46f277ae42e0fd199ef734323fb2e&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "pleiepenger", "sykdom-i-familien", "verktoykasse"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4221,7 +4221,7 @@ spec:
     displayName: Emil Albrektsson
     email: "emil.albrektsson@nav.no"
     picture: https://avatars.githubusercontent.com/u/61695840?u=dd451ebc94e484cde11d00a3561dc67fe05ec5de&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "omsorgspenger", "sykdom-i-familien", "team-sifinntektsmelding"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4232,7 +4232,7 @@ spec:
     displayName: Espen Svendsen
     email: "espen.svendsen@nav.no"
     picture: https://avatars.githubusercontent.com/u/62875567?v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "omsorgspenger", "pleiepenger", "sykdom-i-familien", "teamforeldrepenger"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4243,7 +4243,7 @@ spec:
     displayName: Emma Rasmusson
     email: "emma.rasmusson@nav.no"
     picture: https://avatars.githubusercontent.com/u/76997730?u=dcb8ed167642fcd091e4a57a7482cc11e77fa985&amp;v=4
-  memberOf: ["k9saksbehandling"]
+  memberOf: ["k9saksbehandling", "omsorgspenger", "sykdom-i-familien"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4254,7 +4254,7 @@ spec:
     displayName: Andreas Jonsson
     email: "andreas.jonsson@nav.no"
     picture: https://avatars.githubusercontent.com/u/494654?v=4
-  memberOf: ["klage"]
+  memberOf: ["klage", "nav-developers"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4309,7 +4309,7 @@ spec:
     displayName: Per Lovmo
     email: "per.lovmo@nav.no"
     picture: https://avatars.githubusercontent.com/u/36730206?v=4
-  memberOf: ["kuhr-helse"]
+  memberOf: ["kuhr-helse", "teamkuhr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4320,7 +4320,7 @@ spec:
     displayName: Nicolai Friis
     email: "nicolai.friis@nav.no"
     picture: https://avatars.githubusercontent.com/u/36730941?v=4
-  memberOf: ["kuhr-helse"]
+  memberOf: ["kuhr-helse", "teamkuhr"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4331,7 +4331,7 @@ spec:
     displayName: Ole Christian Kvernberg
     email: "ole.christian.kvernberg@nav.no"
     picture: https://avatars.githubusercontent.com/u/42737566?u=300a16c258a638ae8764d2a5a8b11dd98c756f23&amp;v=4
-  memberOf: ["medlemskap"]
+  memberOf: ["medlemskap", "teamfamilie"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4364,7 +4364,7 @@ spec:
     displayName: Audun Persson
     email: "audun.persson@nav.no"
     picture: https://avatars.githubusercontent.com/u/42343764?u=aa76c03250b6245e48b92b905aafc9cbe1086dcb&amp;v=4
-  memberOf: ["meldekort"]
+  memberOf: ["meldekort", "teamarenanais"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4375,7 +4375,7 @@ spec:
     displayName: Geir Skjeret
     email: "geir.skjeret@nav.no"
     picture: https://avatars.githubusercontent.com/u/50487658?u=2e7e2288c152362a931ebf2e28e87e01ddd7574a&amp;v=4
-  memberOf: ["meldekort"]
+  memberOf: ["meldekort", "teamarenanais"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4386,7 +4386,7 @@ spec:
     displayName: Øyvind Hatlevoll
     email: "oyvind.hatlevoll@nav.no"
     picture: https://avatars.githubusercontent.com/u/56258475?v=4
-  memberOf: ["meldekort"]
+  memberOf: ["meldekort", "teamarenanais"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4397,7 +4397,7 @@ spec:
     displayName: David Lacina
     email: "david.lacina@nav.no"
     picture: https://avatars.githubusercontent.com/u/72073942?v=4
-  memberOf: ["meldekort"]
+  memberOf: ["meldekort", "teamarenanais"]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
@@ -4409,3 +4409,3314 @@ spec:
     email: "igor.shuliakov@nav.no"
     picture: https://avatars.githubusercontent.com/u/85676385?u=4e80cf17f26b5505d1b29bb4bb6b3f35e6d47f69&amp;v=4
   memberOf: ["meldekort"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jhsveli
+spec:
+  profile:
+    displayName: Jorgen Tu Sveli
+    email: "jorgen.tu.sveli@nav.no"
+    picture: https://avatars.githubusercontent.com/u/52035?u=2074dc979fa6912f78e1c97fe4e4e61100417c3b&amp;v=4
+  memberOf: ["nav-developers", "paw"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: christianmosveen
+spec:
+  profile:
+    displayName: Christian H. Mosveen
+    email: "christian.mosveen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/58025?u=73013c7d604ac93c6d719b4488b21d5476175014&amp;v=4
+  memberOf: ["nav-developers", "supstonad", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: RuneLind
+spec:
+  profile:
+    displayName: Rune Lind
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/383419?v=4
+  memberOf: ["nav-developers", "teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: janeirik
+spec:
+  profile:
+    displayName: Jan-Eirik Nævdal
+    email: "jan.eirik.b.navdal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/398862?u=500e639280cdf2cc5cb371503b7e280795b88cf8&amp;v=4
+  memberOf: ["nav-developers", "oppfolging", "oppfolging-person", "personoversikt", "team-oppfolging-fo"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: charliemidtlyng
+spec:
+  profile:
+    displayName: Charlie Midtlyng
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/402915?v=4
+  memberOf: ["nav-developers", "teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: androa
+spec:
+  profile:
+    displayName: André Roaldseth
+    email: "andre.roaldseth@nav.no"
+    picture: https://avatars.githubusercontent.com/u/588046?v=4
+  memberOf: ["nav-developers", "teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: miceiken
+spec:
+  profile:
+    displayName: miceiken
+    email: "michael.eikeland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/671748?u=a55d867476535ab79f428ddf893bb8be15425fb2&amp;v=4
+  memberOf: ["nav-developers", "team-innhold"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Jocumsen
+spec:
+  profile:
+    displayName: Tommy Jocumsen
+    email: "tommy.lundestad.jocumsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/697056?u=960133c62db8dcbc6be65ef9e6c0a17c068fb0b7&amp;v=4
+  memberOf: ["nav-developers"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: pstensby
+spec:
+  profile:
+    displayName: Peter Stensby
+    email: "peter.stensby@nav.no"
+    picture: https://avatars.githubusercontent.com/u/878053?u=9528acbea2a1b03a4285a4b3f85d8cbd2bfb2cf4&amp;v=4
+  memberOf: ["nav-developers", "tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mtarnes
+spec:
+  profile:
+    displayName: Marte Tarnes
+    email: "marte.tarnes@nav.no"
+    picture: https://avatars.githubusercontent.com/u/888601?u=f4b2b0f16510674bfdfec7c9272f7ce34b1fb6e9&amp;v=4
+  memberOf: ["nav-developers", "tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: akgagnat
+spec:
+  profile:
+    displayName: Ann Katrin Gagnat
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/900509?u=911b3e1d7594b4ff6d2f3023ca1d215e35d7c66f&amp;v=4
+  memberOf: ["nav-developers", "skjemadigitalisering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jonalu
+spec:
+  profile:
+    displayName: Jonas Lundeland
+    email: "jonas.lundeland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/937001?u=1be93037702b7726e3ac5bc18e5f44d05dc02c56&amp;v=4
+  memberOf: ["nav-developers", "teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: blommish
+spec:
+  profile:
+    displayName: Johan Blomgren
+    email: "johan.blomgren@nav.no"
+    picture: https://avatars.githubusercontent.com/u/937168?v=4
+  memberOf: ["nav-developers", "teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dijjal
+spec:
+  profile:
+    displayName: Steffen Pøhner
+    email: "steffen.h.pohner@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1026850?v=4
+  memberOf: ["nav-developers", "teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: arakvaag
+spec:
+  profile:
+    displayName: André Rakvåg
+    email: "andre.rakvag@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1047996?v=4
+  memberOf: ["nav-developers", "teamfrikort"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hestad
+spec:
+  profile:
+    displayName: John Andre Hestad
+    email: "john.andre.hestad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1081740?u=916e49588414a8e69917bbba1f5bec09ff3c3c7a&amp;v=4
+  memberOf: ["nav-developers", "supstonad", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stigebil
+spec:
+  profile:
+    displayName: Stig Strøm
+    email: "stig.helge.strom@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1121978?u=e3e1aba50e39a4480a1ab36c3649223fd9a2364a&amp;v=4
+  memberOf: ["nav-developers", "teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hakhag
+spec:
+  profile:
+    displayName: Håkon
+    email: "hakon.hagen2@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1225037?u=0fd7f7f940882da0370f42df08ae36af0528dd01&amp;v=4
+  memberOf: ["nav-developers", "teamdigihot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: pjwalstrom
+spec:
+  profile:
+    displayName: Per Jørgen Walstrøm
+    email: "per.jorgen.walstrom@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1249729?v=4
+  memberOf: ["nav-developers", "teampensjon", "tpts"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jejohnsen
+spec:
+  profile:
+    displayName: Jan Erik Johnsen
+    email: "jan.erik.johnsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1256871?u=dd81be61980f8d49d4f520b84cfa2aeb96bba7ea&amp;v=4
+  memberOf: ["nav-developers", "teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: palfi
+spec:
+  profile:
+    displayName: Anders Palfi
+    email: "anders.palfi@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1370608?u=60108c4f7b275dd56decb0ac2d92b39ad0b7776f&amp;v=4
+  memberOf: ["nav-developers", "teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Assios
+spec:
+  profile:
+    displayName: Asbjørn Ottesen Steinskog
+    email: "asbjorn.ottesen.steinskog@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1413265?u=c106ec3624d5aeb5dd2ee5a85509c45c8dbee19b&amp;v=4
+  memberOf: ["nav-developers", "teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: knutnyg
+spec:
+  profile:
+    displayName: Knut Nygaard
+    email: "knut.nygaard@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1461461?u=0bc769480e77cb0fbe5ff98c2e98bdf072791069&amp;v=4
+  memberOf: ["nav-developers", "tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ingara
+spec:
+  profile:
+    displayName: Ingar Almklov
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/1528825?u=9ca76ff2071223edca7feda7b200310c1d7857e1&amp;v=4
+  memberOf: ["nav-developers", "supstonad", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ChristofferKarlsson
+spec:
+  profile:
+    displayName: Christoffer Karlsson
+    email: "christoffer.karlsson@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1564042?u=66ef385a2d3a66c5ea1e94053d6d90da0a223387&amp;v=4
+  memberOf: ["nav-developers", "teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: thawi
+spec:
+  profile:
+    displayName: Thomas H. Wiberg
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/1904274?v=4
+  memberOf: ["nav-developers"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kgunnerud
+spec:
+  profile:
+    displayName: Kenneth Gunnerud
+    email: "kenneth.gunnerud@nav.no"
+    picture: https://avatars.githubusercontent.com/u/1928980?u=3b7e8d232343762d893de065fa8103f385c63776&amp;v=4
+  memberOf: ["nav-developers", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: espenbago
+spec:
+  profile:
+    displayName: espenbago
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/2326990?v=4
+  memberOf: ["nav-developers"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: AndreasDybdahl
+spec:
+  profile:
+    displayName: Andreas Dybdahl
+    email: "andreas.dybdahl@nav.no"
+    picture: https://avatars.githubusercontent.com/u/2411028?v=4
+  memberOf: ["nav-developers", "teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: lundepm
+spec:
+  profile:
+    displayName: Paul M. Lunde
+    email: "paul.magne.lunde@nav.no"
+    picture: https://avatars.githubusercontent.com/u/2563345?v=4
+  memberOf: ["nav-developers", "teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: theasteen
+spec:
+  profile:
+    displayName: Thea Christine Steen Hellebust
+    email: "thea.christine.steen.hellebust@nav.no"
+    picture: https://avatars.githubusercontent.com/u/2697249?u=3b7f491d123d61552821127c383cf5718e3904e3&amp;v=4
+  memberOf: ["nav-developers"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Christian-Haugland
+spec:
+  profile:
+    displayName: Christian Rudfoss Haugland
+    email: "christian.rudfoss.haugland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/79209493?v=4
+  memberOf: ["navdig"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: larsLotNav
+spec:
+  profile:
+    displayName: Lars August Lotsberg
+    email: "lars.august.lotsberg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/79252029?v=4
+  memberOf: ["navdig"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bjorg-vigdal
+spec:
+  profile:
+    displayName: Bjorg Vigdal
+    email: "bjorg.vigdal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/88719160?v=4
+  memberOf: ["navdig"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: OrleneMitchell
+spec:
+  profile:
+    displayName: Orlene Mitchell
+    email: "orlene.mitchell@nav.no"
+    picture: https://avatars.githubusercontent.com/u/88720049?v=4
+  memberOf: ["navdig"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MugunthanD
+spec:
+  profile:
+    displayName: Mugunthan Dharmadas
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/47245472?v=4
+  memberOf: ["nom", "teamdatajegerne"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: benthold94
+spec:
+  profile:
+    displayName: Bent Holden
+    email: "bent.holden@nav.no"
+    picture: https://avatars.githubusercontent.com/u/49163752?v=4
+  memberOf: ["nom", "org", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MenuaArmen
+spec:
+  profile:
+    displayName: Menua Armen
+    email: "menua.armen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53742405?v=4
+  memberOf: ["nom", "org", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: danishnav
+spec:
+  profile:
+    displayName: Danish Khan
+    email: "danish.khan@nav.no"
+    picture: https://avatars.githubusercontent.com/u/54104284?v=4
+  memberOf: ["nom", "teamdatajegerne"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: erik-a-e
+spec:
+  profile:
+    displayName: Erik Antonsen Enger
+    email: "erik.antonsen.enger@nav.no"
+    picture: https://avatars.githubusercontent.com/u/65284304?v=4
+  memberOf: ["nom", "org", "registre", "team-sigma"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: aharnes-nav
+spec:
+  profile:
+    displayName: Andreas Harnes
+    email: "andreas.harnes@nav.no"
+    picture: https://avatars.githubusercontent.com/u/65889446?u=f9e9615f7c40a7dd2a49d1f4fd652375a2f8e74f&amp;v=4
+  memberOf: ["nom", "org", "petra-hr-chatbot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stianStensli
+spec:
+  profile:
+    displayName: Stian
+    email: "stian.horn.stensli@nav.no"
+    picture: https://avatars.githubusercontent.com/u/15320199?u=f66d4f01113ad3cba00af9f495883522bfc7795d&amp;v=4
+  memberOf: ["obo", "pto", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: emildohlenhansen
+spec:
+  profile:
+    displayName: Emil Døhlen Hansen
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/19923661?u=12c9d0c15a2534341299e63c981bc212afba4454&amp;v=4
+  memberOf: ["obo", "pto", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: karihamnes
+spec:
+  profile:
+    displayName: Kari Hamnes
+    email: "kari.hamnes@nav.no"
+    picture: https://avatars.githubusercontent.com/u/61583515?u=299f8aba6f31eb6bbe3832483b25bcfca9cd5c0d&amp;v=4
+  memberOf: ["obo", "pto", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dragutin-nav
+spec:
+  profile:
+    displayName: Dragutin Vujovic
+    email: "dragutin.vujovic@nav.no"
+    picture: https://avatars.githubusercontent.com/u/66312566?u=9f7b4768778fa3a13335beaa48faa3a0c2c13ee1&amp;v=4
+  memberOf: ["obo", "pto", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Mathiamu
+spec:
+  profile:
+    displayName: Mathias S. Müller
+    email: "mathias.sundt.muller@nav.no"
+    picture: https://avatars.githubusercontent.com/u/85442404?u=44f092181f272cefc62faf2684a2b6d2e47d73bb&amp;v=4
+  memberOf: ["obo", "pto", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Helge90
+spec:
+  profile:
+    displayName: Helge Eriksen
+    email: "Helge.Eriksen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/13874682?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: aflaten
+spec:
+  profile:
+    displayName: Anders Flaten
+    email: "anders.flaten@nav.no"
+    picture: https://avatars.githubusercontent.com/u/16606982?u=5a818d1f816ed4499cd435b9a6e88ce339467bcc&amp;v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vidhyarini
+spec:
+  profile:
+    displayName: Vidhya Rini
+    email: "vidhya.rini@nav.no"
+    picture: https://avatars.githubusercontent.com/u/25911895?u=1c078ae2dd2378d32e5ae2550db17e40e4571e19&amp;v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mbrandsd
+spec:
+  profile:
+    displayName: Magnar Brandsdal
+    email: "magnar.brandsdal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/37583160?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: KenDahle
+spec:
+  profile:
+    displayName: Ken Dahle
+    email: "ken.dahle@nav.no"
+    picture: https://avatars.githubusercontent.com/u/44971985?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: SteinarHansen71
+spec:
+  profile:
+    displayName: Steinar Hansen
+    email: "steinar.hansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56367792?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: SpennendeBingo
+spec:
+  profile:
+    displayName: Arnold Mikkelborg
+    email: "arnold.mikkelborg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56388236?v=4
+  memberOf: ["okonomi", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: PalRokke
+spec:
+  profile:
+    displayName: Pal Rokke
+    email: "pal.rokke@nav.no"
+    picture: https://avatars.githubusercontent.com/u/57947110?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: navperbirg
+spec:
+  profile:
+    displayName: Per Birger Eriksen
+    email: "per.birger.eriksen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/65544832?u=31c829e7e42e3f39a7e1bebd67985fdcd10dccf2&amp;v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jeeveshmishranav
+spec:
+  profile:
+    displayName: Jeevesh Mishra
+    email: "jeevesh.mishra@nav.no"
+    picture: https://avatars.githubusercontent.com/u/66414623?v=4
+  memberOf: ["okonomi", "vibe"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gadnanes64
+spec:
+  profile:
+    displayName: Geir Adnanes
+    email: "geir.adnanes@nav.no"
+    picture: https://avatars.githubusercontent.com/u/70637444?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: JannekeNess
+spec:
+  profile:
+    displayName: Janneke Ness
+    email: "janneke.ness@nav.no"
+    picture: https://avatars.githubusercontent.com/u/73638691?v=4
+  memberOf: ["okonomi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Anne-Marthe
+spec:
+  profile:
+    displayName: Anne-Marthe Hovda
+    email: "anne-marthe.hovda@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53760746?v=4
+  memberOf: ["opendata", "teamsykmelding"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: geirerlandsen
+spec:
+  profile:
+    displayName: geer
+    email: "geir.andre.erlandsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/46441948?v=4
+  memberOf: ["oppgavehandtering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sondreberdal
+spec:
+  profile:
+    displayName: Sondre Berdal
+    email: "sondre.berdal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/60694323?v=4
+  memberOf: ["oppgavehandtering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: EspenRosenquist
+spec:
+  profile:
+    displayName: Espen Rosenquist
+    email: "espen.rosenquist@nav.no"
+    picture: https://avatars.githubusercontent.com/u/25886724?v=4
+  memberOf: ["ostviken"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: espengjostol
+spec:
+  profile:
+    displayName: Espen Gjøstøl
+    email: "espen.oskar.gjostol@nav.no"
+    picture: https://avatars.githubusercontent.com/u/50329374?u=d7e3e7f2c81083aa677c04b68a05b4273c8e655c&amp;v=4
+  memberOf: ["paranoia", "pensjondeployer", "pensjonpersondialog", "pensjonselvbetjening", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: r154508
+spec:
+  profile:
+    displayName: Sindre Rasmussen
+    email: "sindre.rasmussen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53864269?u=2e28f174dc70b313b545f6f4ee5e3654943defd3&amp;v=4
+  memberOf: ["paranoia", "pensjonpersondialog", "pensjonselvbetjening", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Hallaraker
+spec:
+  profile:
+    displayName: Hans Magnus Hallaråker
+    email: "hans.magnus.hallaraker@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55539152?u=1fda3353606735adcd14c874c162d6a4e0ca540c&amp;v=4
+  memberOf: ["paranoia", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: AgneHesten
+spec:
+  profile:
+    displayName: Agne Hesten
+    email: "agne.hesten@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55539209?u=e1e62c276c640b0a0b8d56c76a3fc6c9ab63d690&amp;v=4
+  memberOf: ["paranoia", "pensjonsbrev", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: YunHuang-Nav
+spec:
+  profile:
+    displayName: Yun Huang
+    email: "yun.huang@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56031125?u=c56eb6a59bf7474508cd7bdc9479077782e111c4&amp;v=4
+  memberOf: ["paranoia", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rittikdey
+spec:
+  profile:
+    displayName: Rittik Dey
+    email: "dey.rittik@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59570405?u=d2bb59e8a6cfd38b368bc01ca28dd6b4faf5ff81&amp;v=4
+  memberOf: ["paranoia", "pensjonselvbetjening", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sonwit
+spec:
+  profile:
+    displayName: Sondre Wittek
+    email: "sondre.wittek@nav.no"
+    picture: https://avatars.githubusercontent.com/u/2978840?u=47834c565e9ebcf4b72e2e112e794d016d123072&amp;v=4
+  memberOf: ["paw"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tormodbergum
+spec:
+  profile:
+    displayName: Tormod Bergum
+    email: "tormod.bergum@nav.no"
+    picture: https://avatars.githubusercontent.com/u/4068213?u=c36f0e7ac543011117bd47297061de70cd685969&amp;v=4
+  memberOf: ["paw"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jrtm
+spec:
+  profile:
+    displayName: Julian Ravn Thrap-Meyer
+    email: "Julian.Ravn.Thrap-Meyer@nav.no"
+    picture: https://avatars.githubusercontent.com/u/5561437?u=e39005e30b5edeff59bcd7b03fcaba3b0237f530&amp;v=4
+  memberOf: ["paw", "security-champion-admin"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: theagilepadawan
+spec:
+  profile:
+    displayName: Michael Gundersen
+    email: "michael.gundersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/21148282?u=6f8d051a8aff4d436cc7764cb9bd588235a70f62&amp;v=4
+  memberOf: ["paw"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Livelulu
+spec:
+  profile:
+    displayName: Live Grønlien
+    email: "live.gronlien@nav.no"
+    picture: https://avatars.githubusercontent.com/u/48118029?v=4
+  memberOf: ["paw"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ODDminus1
+spec:
+  profile:
+    displayName: Even Hansen
+    email: "even.hansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/36981272?u=05f4dea456ff9ae0b392b4120c7218f6dd8a154a&amp;v=4
+  memberOf: ["pdl", "pdlprod", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: 72656e65
+spec:
+  profile:
+    displayName: René N
+    email: "rene.nilsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/41323558?u=76da4270143687a333a3f52e3a8f6d652009e89b&amp;v=4
+  memberOf: ["pdl", "pdlfullmakt", "pdlprod", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: janemariefjaereide
+spec:
+  profile:
+    displayName: Jane Marie Fjæreide
+    email: "jane.marie.fjereide@nav.no"
+    picture: https://avatars.githubusercontent.com/u/42968513?u=adfafdea136533279f808f64184657ba33b33e21&amp;v=4
+  memberOf: ["pdl", "pdlfullmakt", "pdlprod", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: HanneFSivle
+spec:
+  profile:
+    displayName: Hanne
+    email: "hanne.fjellet.sivle@nav.no"
+    picture: https://avatars.githubusercontent.com/u/48285250?v=4
+  memberOf: ["pdl"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: annearvola
+spec:
+  profile:
+    displayName: Anne Magnhild
+    email: "Anne.Magnhild.Arvola@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53931110?v=4
+  memberOf: ["pdl"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: l139533
+spec:
+  profile:
+    displayName: Mads Lundemo
+    email: "mads.sundgot.lundemo@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55188962?u=d75e20a987d8f276093c7c6c04a329ca0806e8bb&amp;v=4
+  memberOf: ["pdl", "pdlfullmakt", "pdlprod", "registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: RandiAasen
+spec:
+  profile:
+    displayName: Randi Aasen
+    email: "randi.aasen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/57364932?u=ae9f246ee3e7a292938fbad5776669666ae25564&amp;v=4
+  memberOf: ["pdl", "pdlfullmakt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hakon-underdal
+spec:
+  profile:
+    displayName: Hakon Underdal
+    email: "hakon.underdal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/89966324?v=4
+  memberOf: ["pdl"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dipeshpradhan
+spec:
+  profile:
+    displayName: Dipesh Pradhan
+    email: "dipesh.pradhan@nav.no"
+    picture: https://avatars.githubusercontent.com/u/91193497?v=4
+  memberOf: ["pdl"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: espenness
+spec:
+  profile:
+    displayName: Espen Ness
+    email: "espen.ness@nav.no"
+    picture: https://avatars.githubusercontent.com/u/84078579?v=4
+  memberOf: ["pdlfullmakt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: paomoo
+spec:
+  profile:
+    displayName: Bian
+    email: "bian.wu@nav.no"
+    picture: https://avatars.githubusercontent.com/u/12518777?v=4
+  memberOf: ["penregler"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Scolev
+spec:
+  profile:
+    displayName: Scott Levkowetz
+    email: "scott.levkowetz@nav.no"
+    picture: https://avatars.githubusercontent.com/u/43199515?v=4
+  memberOf: ["penregler"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ehellerslien
+spec:
+  profile:
+    displayName: Erik Hellerslien
+    email: "erik.hellerslien@nav.no"
+    picture: https://avatars.githubusercontent.com/u/45560335?v=4
+  memberOf: ["penregler", "pensjondeployer", "pensjonsaksbehandling", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: magnnord
+spec:
+  profile:
+    displayName: Magnus Nordin
+    email: "magnus.nordin@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55836782?v=4
+  memberOf: ["penregler"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jSchiefloe
+spec:
+  profile:
+    displayName: Jens Schiefloe
+    email: "jens.schiefloe@nav.no"
+    picture: https://avatars.githubusercontent.com/u/72123719?u=59f004c71d1b0d5ddcaefd15dcf3f9b810b90799&amp;v=4
+  memberOf: ["penregler", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: pcmoen
+spec:
+  profile:
+    displayName: Per Christian Moen
+    email: "per.christian.moen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/5680727?u=63023f48ec1bf912c309fbeea90bd7fd342289fa&amp;v=4
+  memberOf: ["pensjon-person", "pensjondeployer", "pensjonsamhandling", "team-krigspensjon", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: henrikolsvik
+spec:
+  profile:
+    displayName: Henrik Høybakk Olsvik
+    email: "henrik.hoybakk.olsvik@nav.no"
+    picture: https://avatars.githubusercontent.com/u/17406317?u=29ff42956114df53960d22f1c41c2d73b8182cc1&amp;v=4
+  memberOf: ["pensjon-person", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: magnuvau
+spec:
+  profile:
+    displayName: Magnus Austrheim
+    email: "magnus.austrheim@nav.no"
+    picture: https://avatars.githubusercontent.com/u/39164843?u=17843dff93801f487b6d2fe6a78aa5a53b0e6a26&amp;v=4
+  memberOf: ["pensjon-person", "pensjondeployer", "pensjonsamhandling", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Phelcl
+spec:
+  profile:
+    displayName: Paula Francisca Helcl
+    email: "Paula.helcl@nav.no"
+    picture: https://avatars.githubusercontent.com/u/42773388?u=820fac0f58ae872728392c9301bd2313705eb44d&amp;v=4
+  memberOf: ["pensjon-person"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: PetterLowzow
+spec:
+  profile:
+    displayName: Petter Lowzow
+    email: "petter.lowzow@nav.no"
+    picture: https://avatars.githubusercontent.com/u/45782763?u=dbbac64bec27555f3f04b615f72bf20b9e2b49d3&amp;v=4
+  memberOf: ["pensjon-person", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MariusEriksen
+spec:
+  profile:
+    displayName: Marius Eriksen
+    email: "Marius.Eriksen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/8555775?v=4
+  memberOf: ["pensjondeployer", "pensjonsaksbehandling", "pensjonsamhandling", "teamdagpenger", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dainiusfigoras
+spec:
+  profile:
+    displayName: Dainius
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/11692821?u=3be4d6a5556baf681abf0a174fae937c94ca30ac&amp;v=4
+  memberOf: ["pensjondeployer", "pensjonsamhandling", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: AskestadEivind
+spec:
+  profile:
+    displayName: Eivind Askestad
+    email: "eivind.askestad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/50326736?u=c1893d2597466e92a66f04fadc92edd6a15e8c04&amp;v=4
+  memberOf: ["pensjondeployer", "pensjonopptjening", "pensjonsamhandling", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eirikmol
+spec:
+  profile:
+    displayName: Eirik Molnes
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/57000102?u=ef2cc81de2e2ff281789c423305c37566b1ab25f&amp;v=4
+  memberOf: ["pensjondeployer", "pensjonsamhandling", "pensjontestdata", "team-krigspensjon", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ArturPiatkowski-NAVIKT
+spec:
+  profile:
+    displayName: Artur Piatkowski
+    email: "artur.piatkowski@nav.no"
+    picture: https://avatars.githubusercontent.com/u/77058737?u=18bb3897247870c7b0aaea3ce6ca36aad9df8cc4&amp;v=4
+  memberOf: ["pensjondeployer", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: andrewass
+spec:
+  profile:
+    displayName: Andreas Wassum
+    email: "andreas.wassum@nav.no"
+    picture: https://avatars.githubusercontent.com/u/11411024?u=3835284ec1a561006ef23e2171fb654241b0a497&amp;v=4
+  memberOf: ["pensjonsaksbehandling", "team-ohana", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: emil323
+spec:
+  profile:
+    displayName: Emil Kalstø
+    email: "emil.kalsto@nav.no"
+    picture: https://avatars.githubusercontent.com/u/22940008?u=70a9691533f00cb8363ef8dfb2d1eaee76fbd0ea&amp;v=4
+  memberOf: ["pensjonsaksbehandling", "team-ohana", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: steinshe
+spec:
+  profile:
+    displayName: Steinar Sørli Hegna
+    email: "steinar.sorli.hegna@nav.no"
+    picture: https://avatars.githubusercontent.com/u/57735098?u=1aa290fc3a0568a665d7f9bc059fc6cb685e4ff9&amp;v=4
+  memberOf: ["pensjonsaksbehandling", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: KimandrenaessNAV
+spec:
+  profile:
+    displayName: Kim Andre Næss
+    email: "kim.andre.ness@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59645930?v=4
+  memberOf: ["pensjonsaksbehandling", "team-ohana", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: randijust
+spec:
+  profile:
+    displayName: Randi Just
+    email: "randi.just@nav.no"
+    picture: https://avatars.githubusercontent.com/u/19930442?v=4
+  memberOf: ["pensjonsamhandling", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: TheMather1
+spec:
+  profile:
+    displayName: Mathias Sand Jahren
+    email: "mathias.sand.jahren@nav.no"
+    picture: https://avatars.githubusercontent.com/u/31667042?u=593ba589fe66f53e80c9f62e90c032c319a394ba&amp;v=4
+  memberOf: ["pensjonsamhandling", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MartinVKN
+spec:
+  profile:
+    displayName: Martin Knutsen
+    email: "martin.knutsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/38456630?v=4
+  memberOf: ["pensjonsamhandling", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hconhegg
+spec:
+  profile:
+    displayName: Håkon 
+    email: "hakon.heggholmen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/32221678?v=4
+  memberOf: ["pensjonsbrev", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: routsi
+spec:
+  profile:
+    displayName: Alexander Hoem Rosbach
+    email: "alexander.hoem.rosbach@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82815189?v=4
+  memberOf: ["pensjonsbrev", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: e136581
+spec:
+  profile:
+    displayName: Jeremy Elsom
+    email: "jeremy.elsom@nav.no"
+    picture: https://avatars.githubusercontent.com/u/85278523?v=4
+  memberOf: ["pensjonsbrev"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sebassonav
+spec:
+  profile:
+    displayName: Sebastian Oliver Søberg
+    email: "sebastian.soberg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82504565?u=04eda337fa56a789291296276dcda10e4e32f7cb&amp;v=4
+  memberOf: ["pensjonselvbetjening", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: antonfofanov
+spec:
+  profile:
+    displayName: Anton Fofanov
+    email: "anton.fofanov@nav.no"
+    picture: https://avatars.githubusercontent.com/u/3787914?u=18aa5a834abcb7837ed0af1e22eda13b87412de3&amp;v=4
+  memberOf: ["pensjontestdata", "team-krigspensjon", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bjornhun
+spec:
+  profile:
+    displayName: Bjornar Hunshamar
+    email: "bjornar.hunshamar@nav.no"
+    picture: https://avatars.githubusercontent.com/u/10834186?v=4
+  memberOf: ["personbruker"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jannebye
+spec:
+  profile:
+    displayName: Janne Maren Bye
+    email: "janne.maren.bye@nav.no"
+    picture: https://avatars.githubusercontent.com/u/37075220?v=4
+  memberOf: ["personbruker", "redaktorer"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Olavrusten
+spec:
+  profile:
+    displayName: Olav Rusten
+    email: "olav.rusten@nav.no"
+    picture: https://avatars.githubusercontent.com/u/37149202?v=4
+  memberOf: ["personbruker", "redaktorer"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ojnybo
+spec:
+  profile:
+    displayName: Ole Jonas Nybo
+    email: "ole.jonas.nybo@nav.no"
+    picture: https://avatars.githubusercontent.com/u/47320658?v=4
+  memberOf: ["personbruker"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: chrisarnesen
+spec:
+  profile:
+    displayName: Chris Arnesen
+    email: "chris.arnesen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/50408627?v=4
+  memberOf: ["personbruker"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Laier68
+spec:
+  profile:
+    displayName: Petter Lier
+    email: "petter.lier@nav.no"
+    picture: https://avatars.githubusercontent.com/u/60879532?u=6d7a479a3c6be6264224756eca81d12e92bf4647&amp;v=4
+  memberOf: ["personbruker"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: TuvaSverdstad
+spec:
+  profile:
+    displayName: Tuva Sverdstad
+    email: "tuva.sverdstad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/62593435?u=db3680329ca657f1986bded6f6368c45a2701254&amp;v=4
+  memberOf: ["personbruker"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ingridhaland
+spec:
+  profile:
+    displayName: Ingrid Haland
+    email: "ingrid.haland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/76993680?v=4
+  memberOf: ["personbruker", "teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: olofab
+spec:
+  profile:
+    displayName: Andreas Bergman
+    email: "andreas.bergman@nav.no"
+    picture: https://avatars.githubusercontent.com/u/11627538?u=2e3d534c57d0f89ebb379ae6d6aebf755662f616&amp;v=4
+  memberOf: ["personoversikt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vildestefferud
+spec:
+  profile:
+    displayName: Vilde Stefferud
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/33753494?u=1e7dc4982f97d47d3c45928e2815c15724cca4f2&amp;v=4
+  memberOf: ["personoversikt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eirikdahlen
+spec:
+  profile:
+    displayName: Eirik Dahlen
+    email: "eirik.dahlen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/37441744?u=614bb813049817cd0bae3a6aa4c40b658d267ca2&amp;v=4
+  memberOf: ["personoversikt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: runeandersennav
+spec:
+  profile:
+    displayName: Rune Andersen
+    email: "rune.andersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/61497552?u=ff58efd85641218564929acfd24c8c1489a5f6ca&amp;v=4
+  memberOf: ["personoversikt", "team-innsending", "team-soknad"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mjeh
+spec:
+  profile:
+    displayName: Marius Backer
+    email: "marius.backer@nav.no"
+    picture: https://avatars.githubusercontent.com/u/8809412?v=4
+  memberOf: ["pim"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jorgen75
+spec:
+  profile:
+    displayName: jorgen75
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/7851700?v=4
+  memberOf: ["plattform"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hjendal
+spec:
+  profile:
+    displayName: Håkon Jendal
+    email: "hakon.jendal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/40600186?v=4
+  memberOf: ["plattform", "yrkesskade"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: royag-nav
+spec:
+  profile:
+    displayName: Roy Andre Gundersen
+    email: "roy.andre.gundersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/43439497?u=215d4457e876b40b4973057aeb9f10fdd7eb8112&amp;v=4
+  memberOf: ["plattform", "risk"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: klaramargrethehelgemo
+spec:
+  profile:
+    displayName: Klara M Helgemo
+    email: "klara.margrethe.helgemo@nav.no"
+    picture: https://avatars.githubusercontent.com/u/35796718?u=3b7a6a7b17b3b546a41cbfcf29036249950ead22&amp;v=4
+  memberOf: ["pto", "tpts", "vibe", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: SolviAndersen
+spec:
+  profile:
+    displayName: Solvi Andersen
+    email: "solvi.andersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/37183652?v=4
+  memberOf: ["pto", "tpts", "voff"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ElinNav
+spec:
+  profile:
+    displayName: Elin Thonander Mikkelsen
+    email: "elin.thonander.mikkelsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/48942744?v=4
+  memberOf: ["pto", "tpts"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bredeingar
+spec:
+  profile:
+    displayName: Brede Ingar Breisjoberg
+    email: "brede.ingar.breisjoberg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59965060?v=4
+  memberOf: ["pto"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stineot
+spec:
+  profile:
+    displayName: Stine Otterbekk
+    email: "stine.renate.otterbekk@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55183369?u=c51aff4d3e763b7bcfee04b05b47d18655602f6c&amp;v=4
+  memberOf: ["ptsak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: RigmorLindberg
+spec:
+  profile:
+    displayName: Rigmor Lindberg
+    email: "rigmor.lindberg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56433785?v=4
+  memberOf: ["ptsak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: akinavit
+spec:
+  profile:
+    displayName: Anna Kipping
+    email: "anna.kipping@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56921676?u=946fc4ccb58462959145e3664a0e42abd60c2642&amp;v=4
+  memberOf: ["ptsak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kr1570ff3r
+spec:
+  profile:
+    displayName: Kristoffer Halmoy
+    email: "kristoffer.halmoy@nav.no"
+    picture: https://avatars.githubusercontent.com/u/72251315?v=4
+  memberOf: ["ptsak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ThomasKasene
+spec:
+  profile:
+    displayName: Thomas Kåsene
+    email: "thomas.halvorsen.kasene@nav.no"
+    picture: https://avatars.githubusercontent.com/u/6691406?u=63ab4da66963d955bbfd2c757bbdea7928e64028&amp;v=4
+  memberOf: ["registre", "team-rocket"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: B152472
+spec:
+  profile:
+    displayName: Jorgen Bjerke
+    email: "jorgen.bjerke@nav.no"
+    picture: https://avatars.githubusercontent.com/u/49940780?v=4
+  memberOf: ["registre", "team-inntekt", "team-rocket"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: FredrikLygreBergesen
+spec:
+  profile:
+    displayName: Fredrik Lygre Bergesen
+    email: "fredrik.lygre.bergesen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53742569?v=4
+  memberOf: ["registre", "team-inntekt"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sarah-rayfuse
+spec:
+  profile:
+    displayName: Sarah Rayfuse
+    email: "sarah.rayfuse@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53777884?v=4
+  memberOf: ["registre"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: janitamarielle
+spec:
+  profile:
+    displayName: Janita Johansen
+    email: "janita.marielle.johansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56385061?u=9125028458d63528128ce8bdf44e35cde1aa8c0d&amp;v=4
+  memberOf: ["registre", "teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: JorgenSJ
+spec:
+  profile:
+    displayName: Jørgen Sand Johansen
+    email: "jorgen.sand.johansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/45265855?u=9f22671faf8132cceb5ca1adffa869477b97b6c3&amp;v=4
+  memberOf: ["risk"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: wilhelmstoren
+spec:
+  profile:
+    displayName: Wilhelm Støren
+    email: "wilhelm.storen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/78346781?v=4
+  memberOf: ["risk", "team-match"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: it-vegard
+spec:
+  profile:
+    displayName: Vegard Haugstvedt
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/7712595?v=4
+  memberOf: ["skjemadigitalisering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: magnurh-cx
+spec:
+  profile:
+    displayName: Magnus Røed Hestvik
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/60958418?v=4
+  memberOf: ["skjemadigitalisering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: wen7i
+spec:
+  profile:
+    displayName: Lin Wenqi
+    email: "lin.wenqi@nav.no"
+    picture: https://avatars.githubusercontent.com/u/73118661?u=59a94b41a4cab53c5e4f85789caef66a31905357&amp;v=4
+  memberOf: ["skjemadigitalisering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: woldena
+spec:
+  profile:
+    displayName: André Wolden
+    email: "andre.wolden@nav.no"
+    picture: https://avatars.githubusercontent.com/u/17552002?u=c1bf21546a402ed42b7781505b9c490c53ad4009&amp;v=4
+  memberOf: ["sosialtjenester", "teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jacob-meidell
+spec:
+  profile:
+    displayName: Jacob Meidell
+    email: "jacob.meidell@nav.no"
+    picture: https://avatars.githubusercontent.com/u/6339049?v=4
+  memberOf: ["supstonad", "supstonadx", "teampensjon", "teampeon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: simejo
+spec:
+  profile:
+    displayName: Simen Johnsrud
+    email: "simen.johnsrud@nav.no"
+    picture: https://avatars.githubusercontent.com/u/6595794?u=c3189b5a1856f6561f06ca6a8cd275729c37561a&amp;v=4
+  memberOf: ["supstonad"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: aryani1
+spec:
+  profile:
+    displayName: Aryan Iranzamini
+    email: "aryan.iranzamini@nav.no"
+    picture: https://avatars.githubusercontent.com/u/26689337?u=31625485d1556cacef5ef60b558802be658c7ec0&amp;v=4
+  memberOf: ["supstonad", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: RamziAbuQassim
+spec:
+  profile:
+    displayName: Ramzi Abu Qassim
+    email: "ramzi.abu.qassim@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59833292?v=4
+  memberOf: ["supstonad", "supstonadx", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: fredinge
+spec:
+  profile:
+    displayName: Fred Inge Henden
+    email: "fred.inge.henden@nav.no"
+    picture: https://avatars.githubusercontent.com/u/3480215?v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jonashas
+spec:
+  profile:
+    displayName: Jonas Hasle
+    email: "jonas.hasle@nav.no"
+    picture: https://avatars.githubusercontent.com/u/5648414?u=16f1063521b72e1048378e4cba1ec30a6553b449&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sindrebroch
+spec:
+  profile:
+    displayName: Sindre Broch
+    email: "sindre.broch@nav.no"
+    picture: https://avatars.githubusercontent.com/u/10772085?u=13ed577f3a79871237abdd43353a24eb2147f515&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: V1adau
+spec:
+  profile:
+    displayName: Oscar Vladau-Husevold
+    email: "oscar.vladau-husevold@nav.no"
+    picture: https://avatars.githubusercontent.com/u/22072181?u=af9ef742a39b21a49c17e82095a740410213ba50&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: steinsho
+spec:
+  profile:
+    displayName: Vegard Steinsholt
+    email: "vegard.steinsholt@nav.no"
+    picture: https://avatars.githubusercontent.com/u/23231957?u=c0c3850df2e50b0e8a7e9a372b1b8b2d8d1aaf6a&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Simenullern
+spec:
+  profile:
+    displayName: Simen Ullern
+    email: "simen.ullern@nav.no"
+    picture: https://avatars.githubusercontent.com/u/23331891?u=85c1b5271fb99d4e868c58401a1f562207b37031&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ejgal
+spec:
+  profile:
+    displayName: Eirik Gallefoss
+    email: "eirik.gallefoss@nav.no"
+    picture: https://avatars.githubusercontent.com/u/23613579?u=4ef672e448250fab4b3113a00416896ea66dc8b0&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hegehaav
+spec:
+  profile:
+    displayName: Hege Haavaldsen
+    email: "hege.haavaldsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/24814694?u=0d3a66c48482985e38b990a9e827b9ad98993c6e&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ninabakken
+spec:
+  profile:
+    displayName: Nina Bakken
+    email: "nina.bakken@nav.no"
+    picture: https://avatars.githubusercontent.com/u/54576367?v=4
+  memberOf: ["tbd", "teamhelse"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: chsko
+spec:
+  profile:
+    displayName: Christian Bülow Skovborg
+    email: "christian.bulow.skovborg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59872984?u=32673fe6044de6b12d357cd57dc7847572b8467e&amp;v=4
+  memberOf: ["tbd"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Christergabba
+spec:
+  profile:
+    displayName: Christergabba
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/24406898?v=4
+  memberOf: ["team-atom", "traktor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: twincarlin
+spec:
+  profile:
+    displayName: Bjorn Carlin
+    email: "bjorn.carlin@nav.no"
+    picture: https://avatars.githubusercontent.com/u/32570787?v=4
+  memberOf: ["team-atom", "traktor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mariusse
+spec:
+  profile:
+    displayName: Marius Erlandsen
+    email: "marius.erlandsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/40470071?u=432b5cbade30b29ef9b0d526f09907c306108200&amp;v=4
+  memberOf: ["team-atom", "traktor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: havtro
+spec:
+  profile:
+    displayName: Havard Tronhus
+    email: "havard.tronhus@nav.no"
+    picture: https://avatars.githubusercontent.com/u/46346413?v=4
+  memberOf: ["team-atom", "traktor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: arwear
+spec:
+  profile:
+    displayName: Arve Wear
+    email: "arve.wear@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82496556?v=4
+  memberOf: ["team-atom"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Jonas-Juvet
+spec:
+  profile:
+    displayName: Jonas Juvet
+    email: "jonas.juvet@nav.no"
+    picture: https://avatars.githubusercontent.com/u/87018872?u=5c7aa8d4a3d9991b6aa1d2449302580b0d26174f&amp;v=4
+  memberOf: ["team-atom"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: navhcl
+spec:
+  profile:
+    displayName: Hans Christian Løchsen
+    email: "hans.christian.lochsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/68693619?u=269bb6f05c4bdc60124668795eb0e0c1c61da55d&amp;v=4
+  memberOf: ["team-database"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: magnusborsting
+spec:
+  profile:
+    displayName: Magnus Borsting
+    email: "magnus.borsting@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82023189?v=4
+  memberOf: ["team-diskriminering", "team-match"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jorgennavjord
+spec:
+  profile:
+    displayName: Jorgen Navjord
+    email: "jorgen.navjord@nav.no"
+    picture: https://avatars.githubusercontent.com/u/86228460?v=4
+  memberOf: ["team-diskriminering"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: herrepeder
+spec:
+  profile:
+    displayName: pederkongelf
+    email: "peder.kongelf@nav.no"
+    picture: https://avatars.githubusercontent.com/u/4512146?u=e2b009073c701395c33c5930a4429b3814599fa2&amp;v=4
+  memberOf: ["team-emottak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: thburnett
+spec:
+  profile:
+    displayName: Thomas Burnett
+    email: "thomas.hoberg.burnett@nav.no"
+    picture: https://avatars.githubusercontent.com/u/7643677?v=4
+  memberOf: ["team-emottak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mzielins72
+spec:
+  profile:
+    displayName: Marek Zielinski
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/56441651?u=484770e07678b9422cded4bf1e8ba64aba323aa6&amp;v=4
+  memberOf: ["team-emottak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: h103822
+spec:
+  profile:
+    displayName: Parviz Heydari
+    email: "parviz.heydari@nav.no"
+    picture: https://avatars.githubusercontent.com/u/62604066?u=fa3e0975b956e72def53c619a6b98438b023e38b&amp;v=4
+  memberOf: ["team-emottak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: RettIProd
+spec:
+  profile:
+    displayName: Christopher Olsen
+    email: "christopher.olsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/85939620?v=4
+  memberOf: ["team-emottak"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alpet
+spec:
+  profile:
+    displayName: Alexander Petrov
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/3206343?u=e380f17bfec3eac3039d0d330d0b0ca9038069fc&amp;v=4
+  memberOf: ["team-innsending", "team-soknad"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Thomas-CT
+spec:
+  profile:
+    displayName: Thomas Tykesson
+    email: "Thomas.Tykesson@nav.no"
+    picture: https://avatars.githubusercontent.com/u/31876918?v=4
+  memberOf: ["team-innsending", "team-soknad", "teamserviceklage"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oivindkulsrud
+spec:
+  profile:
+    displayName: Oivind Thorsen Kulsrud
+    email: "oivind.thorsen.kulsrud@nav.no"
+    picture: https://avatars.githubusercontent.com/u/47426778?v=4
+  memberOf: ["team-innsending", "team-soknad", "teamserviceklage"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nils-arne
+spec:
+  profile:
+    displayName: Nils-arne Ringstad
+    email: "nils-arne.ringstad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/50109859?u=6c0baa4c8bb882b86f84dbe60522292f8742de2f&amp;v=4
+  memberOf: ["team-innsending", "team-soknad", "teamserviceklage"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: miclindb
+spec:
+  profile:
+    displayName: Michael Lindberg
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/37673872?v=4
+  memberOf: ["team-match"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: helenerandiNav
+spec:
+  profile:
+    displayName: Helene Randi Behrens
+    email: "helene.randi.behrens@nav.no"
+    picture: https://avatars.githubusercontent.com/u/86234648?v=4
+  memberOf: ["team-match"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bougrNAV
+spec:
+  profile:
+    displayName: Abid Bougroug
+    email: "abid.bougroug@nav.no"
+    picture: https://avatars.githubusercontent.com/u/64583513?v=4
+  memberOf: ["team-oebs"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: arefsahl
+spec:
+  profile:
+    displayName: Anders Refsahl
+    email: "anders.refsahl@nav.no"
+    picture: https://avatars.githubusercontent.com/u/63095926?v=4
+  memberOf: ["team-ohana", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hakonrd
+spec:
+  profile:
+    displayName: Håkon Røed
+    email: "hakon.roed@nav.no"
+    picture: https://avatars.githubusercontent.com/u/63104207?u=abf72f5dbd62268ef579a8838a8ee92bbfb76a78&amp;v=4
+  memberOf: ["team-ohana", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: LarsRT
+spec:
+  profile:
+    displayName: Lars Ragnar Tolk
+    email: "lars.ragnar.tolk@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82376530?v=4
+  memberOf: ["team-registerforvaltning-rpa"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oldriv
+spec:
+  profile:
+    displayName: Roger Wlosek
+    email: "roger.wlosek@nav.no"
+    picture: https://avatars.githubusercontent.com/u/36138590?u=03c5238e067cb0855c57340d3770c3f14c8e1cea&amp;v=4
+  memberOf: ["team-rocket"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: SindreOhm
+spec:
+  profile:
+    displayName: Sindre Ohm
+    email: "sindre.ohm@nav.no"
+    picture: https://avatars.githubusercontent.com/u/19255099?v=4
+  memberOf: ["team-rpa"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Raheelakh
+spec:
+  profile:
+    displayName: Raheel Akhtar
+    email: "raheel.akhtar@nav.no"
+    picture: https://avatars.githubusercontent.com/u/92977392?v=4
+  memberOf: ["team-rpa"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: stfolkvo
+spec:
+  profile:
+    displayName: Steinar Folkvord
+    email: "steinar.folkvord@nav.no"
+    picture: https://avatars.githubusercontent.com/u/44652035?v=4
+  memberOf: ["team-sigma"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: fredrik-knoph-kvamme
+spec:
+  profile:
+    displayName: Fredrik Knoph Kvamme
+    email: "fredrik.knoph.kvamme@nav.no"
+    picture: https://avatars.githubusercontent.com/u/60180109?v=4
+  memberOf: ["team-sigma"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jornatlehusbyn
+spec:
+  profile:
+    displayName: Jørn Atle Husbyn
+    email: "jorn.atle.husbyn@nav.no"
+    picture: https://avatars.githubusercontent.com/u/89839557?v=4
+  memberOf: ["team-sigma"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: LeifTore
+spec:
+  profile:
+    displayName: Leif Tore Løvmo
+    email: "Leif.Tore.Lovmo@nav.no"
+    picture: https://avatars.githubusercontent.com/u/37170239?u=c63400789128db1bb6e7f24264cc09c22983bb96&amp;v=4
+  memberOf: ["team-tillit"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Line-Langlo-Spongsveen
+spec:
+  profile:
+    displayName: Line Langlo Spongsveen
+    email: "line.langlo.spongsveen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/93183220?v=4
+  memberOf: ["team-tillit"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: n127598
+spec:
+  profile:
+    displayName: Dagbjørn Nogva
+    email: "Dagbjorn.Nogva@nav.no"
+    picture: https://avatars.githubusercontent.com/u/39620637?u=30bc447583cc4e33a533cc7cae26d9349e7c7309&amp;v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mkjeldsr
+spec:
+  profile:
+    displayName: Mona Kjeldsrud
+    email: "mona.kjeldsrud@nav.no"
+    picture: https://avatars.githubusercontent.com/u/43175419?u=ea465721c3c93dd9499134401429d0b1f3af563f&amp;v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: SteinAndersenNAV
+spec:
+  profile:
+    displayName: Stein Andersen
+    email: "stein.andersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55835597?u=de7e378a6acce1dcf9a6f4eb1db09e86c38804cd&amp;v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: R144167
+spec:
+  profile:
+    displayName: Torbjørn Richardsen
+    email: "torbjorn.richardsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/58178158?v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: v109877
+spec:
+  profile:
+    displayName: Ingunn Vesteras Klove
+    email: "ingunn.vesteras.klove@nav.no"
+    picture: https://avatars.githubusercontent.com/u/58981203?v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: M133747
+spec:
+  profile:
+    displayName: Waseem Malik
+    email: "waseem.malik@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59052831?v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jinjinsong
+spec:
+  profile:
+    displayName: Jinjin Song
+    email: "jinjin.song@nav.no"
+    picture: https://avatars.githubusercontent.com/u/84022806?v=4
+  memberOf: ["teamarenanais"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: maxguld
+spec:
+  profile:
+    displayName: Max Wiggo Guldberg
+    email: "max.wiggo.guldberg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53042608?v=4
+  memberOf: ["teamccm"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sigvarr
+spec:
+  profile:
+    displayName: Rune Sigvartsen
+    email: "rune.sigvartsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55391930?v=4
+  memberOf: ["teamccm"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Sidskjegg
+spec:
+  profile:
+    displayName: Erik Pettersen
+    email: "erik.pettersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/85163059?v=4
+  memberOf: ["teamccm"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ssaegrov
+spec:
+  profile:
+    displayName: Sindre Sægrov
+    email: "sindre.segrov@nav.no"
+    picture: https://avatars.githubusercontent.com/u/9271099?u=34c7e7e1988e52de1de752945b5088fd93c0c26e&amp;v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kmriise
+spec:
+  profile:
+    displayName: Knut Riise
+    email: "knut.magne.riise@nav.no"
+    picture: https://avatars.githubusercontent.com/u/23333146?u=5290b9759df12619ab74a90d53fa6b0ad2e3904f&amp;v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: espenjohansen
+spec:
+  profile:
+    displayName: Espen Johansen
+    email: "espen.johansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/54356357?v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: rannveigskjerve
+spec:
+  profile:
+    displayName: Rannveig Alette Skjerve
+    email: "rannveig.alette.skjerve@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55136985?u=169eb7783350fe0102b2dc49aa918af036d54831&amp;v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: magnefjeld
+spec:
+  profile:
+    displayName: Magne Fjeld
+    email: "magne.fjeld@nav.no"
+    picture: https://avatars.githubusercontent.com/u/61459197?v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: celinetendam
+spec:
+  profile:
+    displayName: Celine Ten Dam
+    email: "celine.ten.dam@nav.no"
+    picture: https://avatars.githubusercontent.com/u/63904343?v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: martefroyen
+spec:
+  profile:
+    displayName: Marte H Froyen
+    email: "marte.h.froyen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/73522537?u=9c87e7f3877db7f97148e8e7b0dad1d6aa2737e5&amp;v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: amundcx
+spec:
+  profile:
+    displayName: Amund Ogar Meisal
+    email: "amund.ogar.meisal@nav.no"
+    picture: https://avatars.githubusercontent.com/u/78363642?u=157a3618b04a33c8e8323401cf91ca31cef9b50c&amp;v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Elinvethe
+spec:
+  profile:
+    displayName: Elin Vethe
+    email: "elin.vethe@nav.no"
+    picture: https://avatars.githubusercontent.com/u/79975396?v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Eivind833
+spec:
+  profile:
+    displayName: Eivind Røyrvik
+    email: "eivind.havnelid.royrvik@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82581338?v=4
+  memberOf: ["teamdagpenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: shayany
+spec:
+  profile:
+    displayName: Shayan Yazdanmehr
+    email: "shayan.yazdanmehr@nav.no"
+    picture: https://avatars.githubusercontent.com/u/8781163?u=c5cff24579491dfb0826295bcd1ddb18d6d4cdd2&amp;v=4
+  memberOf: ["teamdatajegerne"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jmfurseth
+spec:
+  profile:
+    displayName: John Martin Furseth
+    email: "john.martin.furseth@nav.no"
+    picture: https://avatars.githubusercontent.com/u/11528838?u=3166f09a2e8fda034a1f76ea199e2990f8dea281&amp;v=4
+  memberOf: ["teamdatajegerne"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: PaulMartinKokseter
+spec:
+  profile:
+    displayName: Paul Martin Kokseter
+    email: "paul.martin.kokseter@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59053738?v=4
+  memberOf: ["teamdatajegerne"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mjdioli
+spec:
+  profile:
+    displayName: Marius Johan Franco Dioli
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/47391623?v=4
+  memberOf: ["teamdi"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kristoiv
+spec:
+  profile:
+    displayName: Kristoffer A. Iversen
+    email: "kristoffer.andreas.iversen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/3474409?u=ce40b6e2549c3e67064a4ca1f20d2b9580d2a04a&amp;v=4
+  memberOf: ["teamdigihot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: olesls
+spec:
+  profile:
+    displayName: Ole Steinar Lillestøl Skrede
+    email: "ole.steinar.lillestol.skrede@nav.no"
+    picture: https://avatars.githubusercontent.com/u/3756410?v=4
+  memberOf: ["teamdigihot", "teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: di0nys1us
+spec:
+  profile:
+    displayName: Erik Eiesland
+    email: "erik.eiesland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/7905945?u=c60b5acb017da1b230f586f7b8b3a47d499f5181&amp;v=4
+  memberOf: ["teamdigihot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gustavli
+spec:
+  profile:
+    displayName: Gustav Lillesæter
+    email: "gustav.lillesater@nav.no"
+    picture: https://avatars.githubusercontent.com/u/25185601?u=2d140742c5643bca01620ca6393378f7271e405c&amp;v=4
+  memberOf: ["teamdigihot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: KristinDigiHoT
+spec:
+  profile:
+    displayName: Kristin Egeland
+    email: "kristin.egeland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/66038266?v=4
+  memberOf: ["teamdigihot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: monicamy72
+spec:
+  profile:
+    displayName: Monica Gamlem Myklebust
+    email: "monica.gamlem.myklebust@nav.no"
+    picture: https://avatars.githubusercontent.com/u/73345890?u=f7f520ca240a184d85527515e24aae78e2c7ab09&amp;v=4
+  memberOf: ["teamdigihot"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: martintveter
+spec:
+  profile:
+    displayName: Martin Skjelsvik Tveter
+    email: "martin.skjelsvik.tveter@nav.no"
+    picture: https://avatars.githubusercontent.com/u/41987225?u=c376cdeba65abcfed247e0b8162c4d281aadac09&amp;v=4
+  memberOf: ["teamdigisos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: liepelt089
+spec:
+  profile:
+    displayName: Joachim
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/44815226?u=c3912d8c6bd1c1887234639c32b1e465f0d364f7&amp;v=4
+  memberOf: ["teamdigisos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: perchrnie
+spec:
+  profile:
+    displayName: Per-Christian Nielsen
+    email: "per.christian.nielsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/55442993?u=79a932efcd2af4fd47bffd24bc2d6852a7b2f055&amp;v=4
+  memberOf: ["teamdigisos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: joeldlin
+spec:
+  profile:
+    displayName: Jorgen Elden Lindgren
+    email: "jorgen.elden.lindgren@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59644512?u=c018e3528d78a7968a5a2f624e7bfae19d04e6a6&amp;v=4
+  memberOf: ["teamdigisos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: LovConst
+spec:
+  profile:
+    displayName: Lovise Justad
+    email: "lovise.justad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/68546812?u=6f3d4900918aa4472b978d979424cb94d9335846&amp;v=4
+  memberOf: ["teamdigisos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ElenaDubinina593
+spec:
+  profile:
+    displayName: Elena Dubinina
+    email: "elena.dubinina@nav.no"
+    picture: https://avatars.githubusercontent.com/u/72446542?v=4
+  memberOf: ["teamdigisos"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: dagframstad
+spec:
+  profile:
+    displayName: Dag Framstad
+    email: "dag.framstad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/15799259?u=915dcaae5bc881c9222ae4d654b76db4ed544122&amp;v=4
+  memberOf: ["teameresept"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cpettersen
+spec:
+  profile:
+    displayName: Christian Pettersen
+    email: "christian.pettersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/39791713?v=4
+  memberOf: ["teameresept"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: espenalbertvikskjold
+spec:
+  profile:
+    displayName: Espen Albert Vikskjold
+    email: "espen.albert.vikskjold@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82998858?v=4
+  memberOf: ["teameresept"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oyvindhagen
+spec:
+  profile:
+    displayName: Øyvind Hagen
+    email: "oyvind.hagen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/7702502?u=1a753c6e0011b6c72cbc49a0a92675a01016b215&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MengZhuNAV
+spec:
+  profile:
+    displayName: Meng Zhu
+    email: "meng.zhu@nav.no"
+    picture: https://avatars.githubusercontent.com/u/8537905?u=17e29229b223779f8a2cacdd27cbbae7a4f77ed3&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: daphneleebeek
+spec:
+  profile:
+    displayName: Daphne
+    email: "daphne.leebeek@nav.no"
+    picture: https://avatars.githubusercontent.com/u/8656966?u=b02d9715bc116b6112a8f6818260876b43e35c3f&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: henninghaakonsen
+spec:
+  profile:
+    displayName: Henning Håkonsen
+    email: "henning.hakonsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/11041674?u=1331e4ade91211d28c1fa2a1d439973928fb46fe&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: norakf
+spec:
+  profile:
+    displayName: Nora Futseter
+    email: "nora.futseter@nav.no"
+    picture: https://avatars.githubusercontent.com/u/11887409?u=92017c961cffd82bcb9b5a138883dfa7d8712579&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MarcusGustafson74
+spec:
+  profile:
+    displayName: Marcus Gustafson
+    email: "marcus.gustafson@nav.no"
+    picture: https://avatars.githubusercontent.com/u/17083367?v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: halvorbmundal
+spec:
+  profile:
+    displayName: halvorbmundal
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/17828446?u=2e9a188c87e40f440c2444ab808626dafb9297fe&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eirarset
+spec:
+  profile:
+    displayName: Eirik Emil Neesgaard Årseth
+    email: "eirik.arseth@nav.no"
+    picture: https://avatars.githubusercontent.com/u/21220467?u=b2223728a2fd57e96d9d64f184581e9a690adfdf&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: idaame
+spec:
+  profile:
+    displayName: Ida Merete Enholm
+    email: "ida.merete.enholm@nav.no"
+    picture: https://avatars.githubusercontent.com/u/25459913?u=a27c2ef8852e451bfde943e65a3da59d40f9679b&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ViktorGSolberg
+spec:
+  profile:
+    displayName: Viktor Solberg
+    email: "viktor.grondalen.solberg@nav.no"
+    picture: https://avatars.githubusercontent.com/u/32769446?u=53a55d23d5c8ac36fada27711bfc2b01d0ddd217&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tnarland
+spec:
+  profile:
+    displayName: Tor Nerland
+    email: "tor.nerland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/47184872?u=2c3f5a6e7eb0e95d2319e289474e6fa93a659092&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: EAamli
+spec:
+  profile:
+    displayName: Eivind Aamli
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/47246493?v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ma10s
+spec:
+  profile:
+    displayName: Mattis Janitz
+    email: "mattis.janitz@nav.no"
+    picture: https://avatars.githubusercontent.com/u/53942238?v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bent-lorentzen
+spec:
+  profile:
+    displayName: Bent Lorentzen
+    email: "bent.lorentzen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/54444412?v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: grmoen-nav
+spec:
+  profile:
+    displayName: Geir Roger Moen
+    email: "geir.roger.moen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/58559732?v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bjornsnoen-nav
+spec:
+  profile:
+    displayName: Bjørn Snoen
+    email: "bjorn.magne.snoen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/77009351?u=ab7c2424e2be0604cdd491e9b4534c6b6221ef92&amp;v=4
+  memberOf: ["teamfamilie"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: espenwaaga
+spec:
+  profile:
+    displayName: Espen Waaga
+    email: "espen.waaga@nav.no"
+    picture: https://avatars.githubusercontent.com/u/36693523?v=4
+  memberOf: ["teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tor-nav
+spec:
+  profile:
+    displayName: Tor Røneid
+    email: "tor.roneid@nav.no"
+    picture: https://avatars.githubusercontent.com/u/44753577?v=4
+  memberOf: ["teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: S133875
+spec:
+  profile:
+    displayName: Benedicte B Soby
+    email: "benedicte.b.soby@nav.no"
+    picture: https://avatars.githubusercontent.com/u/49550444?v=4
+  memberOf: ["teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: KristinJacob
+spec:
+  profile:
+    displayName: Kristin Jacobsen2
+    email: "kristin.jacobsen2@nav.no"
+    picture: https://avatars.githubusercontent.com/u/77336467?v=4
+  memberOf: ["teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cecilhoi
+spec:
+  profile:
+    displayName: Cecilie Hoivik
+    email: "cecilie.hoivik@nav.no"
+    picture: https://avatars.githubusercontent.com/u/85998691?v=4
+  memberOf: ["teamforeldrepenger"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: steinarhaug
+spec:
+  profile:
+    displayName: steinarhaug
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/6664566?v=4
+  memberOf: ["teamfrikort"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: asmirbiscevic
+spec:
+  profile:
+    displayName: asmirbiscevic
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/45484374?v=4
+  memberOf: ["teamfrikort"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: n137217
+spec:
+  profile:
+    displayName: My Loan Nguyen
+    email: "my.loan.nguyen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/50955147?v=4
+  memberOf: ["teamfrikort"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Asgeiraan
+spec:
+  profile:
+    displayName: Asgeir Aanonsen
+    email: "asgeir.aanonsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/67095542?v=4
+  memberOf: ["teamfrikort"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jholmse
+spec:
+  profile:
+    displayName: Jørgen Holmsen
+    email: "jorgen.holmsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/52236987?u=629c00ec27fb718f2498a36d32d087014340bdda&amp;v=4
+  memberOf: ["teamgovernance"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Lilyngs
+spec:
+  profile:
+    displayName: Linda Lyngstad
+    email: "linda.lyngstad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/42135148?v=4
+  memberOf: ["teamhelse"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: cbroark
+spec:
+  profile:
+    displayName: Camilla Barnes Roark
+    email: "camilla.barnes.roark@nav.no"
+    picture: https://avatars.githubusercontent.com/u/47599794?v=4
+  memberOf: ["teamhelse", "teamsykmelding"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: g102907
+spec:
+  profile:
+    displayName: Dag Rune Grebstad
+    email: "dag.rune.grebstad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/38041693?v=4
+  memberOf: ["teamkuhr"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kentjo
+spec:
+  profile:
+    displayName: Kent
+    email: "kent.ove.josefsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/65592467?u=9ba1252bafbfda08e2e619383b72188572fac9d2&amp;v=4
+  memberOf: ["teamkuhr"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oleklokkhammer
+spec:
+  profile:
+    displayName: Ole Klokkhammer
+    email: "ole.klokkhammer@nav.no"
+    picture: https://avatars.githubusercontent.com/u/89074162?v=4
+  memberOf: ["teamkuhr"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: bergande
+spec:
+  profile:
+    displayName: Eirik Bergande
+    email: "eirik.bergande@nav.no"
+    picture: https://avatars.githubusercontent.com/u/3225539?u=aa06455612b89b32c3ea3aa53cc314cd4e6a5151&amp;v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Wanghattan
+spec:
+  profile:
+    displayName: Isa Salem Hame
+    email: "isa.salem.hame@nav.no"
+    picture: https://avatars.githubusercontent.com/u/7471428?v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: frans-a
+spec:
+  profile:
+    displayName: Francois
+    email: "francois.allix@nav.no"
+    picture: https://avatars.githubusercontent.com/u/32903762?v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: LarsLoeken
+spec:
+  profile:
+    displayName: Lars Løken Bjørnskau
+    email: "lars.loken.bjornskau@nav.no"
+    picture: https://avatars.githubusercontent.com/u/35578876?v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: JohanSakshaug
+spec:
+  profile:
+    displayName: Johan Sakshauger
+    email: "johan.sakshauger@nav.no"
+    picture: https://avatars.githubusercontent.com/u/46343153?v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: martonSkjevelandNav
+spec:
+  profile:
+    displayName: Marton Skjæveland
+    email: "marton.skjeveland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/56435736?u=2c8db402b16a77468701a4f685d1acbea5356297&amp;v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Jonas-J
+spec:
+  profile:
+    displayName: Jonas Jarem
+    email: "jonas.jarem@nav.no"
+    picture: https://avatars.githubusercontent.com/u/58513442?v=4
+  memberOf: ["teammelosys"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: magnusesp
+spec:
+  profile:
+    displayName: Magnus Skjeggerud Espeland
+    email: "magnus.s.espeland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/7836813?u=5906713e9671dba3a47de16da3a29d9bc375717a&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: EdvardGB
+spec:
+  profile:
+    displayName: Edvard Gjessing Bakken
+    email: "edvard.bakken@nav.no"
+    picture: https://avatars.githubusercontent.com/u/16168014?u=ce7f5ae164f25236cd5a3ee337dd1fe2d82b8c9a&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tengvig
+spec:
+  profile:
+    displayName: Tore Engvig
+    email: "tore.engvig@nav.no"
+    picture: https://avatars.githubusercontent.com/u/16541328?u=48228ea33678d80808bed13b33756a6ca8f81eee&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: otenav
+spec:
+  profile:
+    displayName: Ola Toft-eriksen
+    email: "ola.toft-eriksen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/29566394?v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: gunnskj
+spec:
+  profile:
+    displayName: Gunn Skjølingstad
+    email: "gunn.skjolingstad@nav.no"
+    picture: https://avatars.githubusercontent.com/u/57628812?u=9f8db06cb7cbc3021dfd9910ab91029f7c57271b&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hakonfredrik
+spec:
+  profile:
+    displayName: Håkon Fredrik Melby
+    email: "hakon.fredrik.melby@nav.no"
+    picture: https://avatars.githubusercontent.com/u/59647618?u=0fca8ecf6471d7e4c8820771883f0c527fea5d30&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: oysbak
+spec:
+  profile:
+    displayName: Øystein Bakken
+    email: "oystein.bakken@nav.no"
+    picture: https://avatars.githubusercontent.com/u/64131013?u=c856f64a801cfe34003ce4da81b1095f36a856c6&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: marthehagen
+spec:
+  profile:
+    displayName: Marthe
+    email: "marthe.hagen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/66949692?u=532c2ef9f606af11ad9b9215ff27c0104dd8bec5&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mnhhd
+spec:
+  profile:
+    displayName: Minh-Ha Do
+    email: "minh.ha.do@nav.no"
+    picture: https://avatars.githubusercontent.com/u/69243990?u=ab2c6476abb3113aaf69d5328605e97d0ab70b36&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: larseirikhansen
+spec:
+  profile:
+    displayName: Lars Eirik Korsgaard Hansen
+    email: "lars.eirik.korsgaard.hansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/71271458?u=f7057d2df73b4844ec9b7edbffa26790383e0cb3&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ahandeland-nav
+spec:
+  profile:
+    displayName: Alexander Hadeland
+    email: "alexander.hadeland@nav.no"
+    picture: https://avatars.githubusercontent.com/u/81163686?u=4fc3296520c8ed1e043b5babeb6371d4496a9e2a&amp;v=4
+  memberOf: ["teampam"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eziztm
+spec:
+  profile:
+    displayName: Eziz Annagurban
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/4163762?u=d9cd3d5e54dd779928bd33cbe911112e56011a04&amp;v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: erikathaug
+spec:
+  profile:
+    displayName: Erik Haug
+    email: "erik.haug@nav.no"
+    picture: https://avatars.githubusercontent.com/u/33649249?u=936ad9b573fbece83078e8d9e34e7f28dcf5cab6&amp;v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: monikaspko
+spec:
+  profile:
+    displayName: Monika Sperstad Køller
+    email: "monika.koller@nav.no"
+    picture: https://avatars.githubusercontent.com/u/44394008?v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kristoffernaver
+spec:
+  profile:
+    displayName: Kristoffer Mjelva
+    email: "kristoffer.mjelva@nav.no"
+    picture: https://avatars.githubusercontent.com/u/47450056?v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: JoakimEJacobsen
+spec:
+  profile:
+    displayName: Joakim Jacobsen
+    email: "joakim.jacobsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/62988882?u=e152b4df84ddc1d3fb8f9e6afdee173830b8da9d&amp;v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: KimAndreassen
+spec:
+  profile:
+    displayName: Kim Andreassen
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/63858547?v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MagneNordas
+spec:
+  profile:
+    displayName: Magne Nordås
+    email: "magne.nordas@nav.no"
+    picture: https://avatars.githubusercontent.com/u/64209897?u=1d84787a8eba7706ea1256d7f39862f6b4c4f19e&amp;v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nilsee-nav
+spec:
+  profile:
+    displayName: Nils Einar Eide
+    email: "nils.einar.eide@nav.no"
+    picture: https://avatars.githubusercontent.com/u/70581567?v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ogranheim
+spec:
+  profile:
+    displayName: Ove Granheim
+    email: "ove.granheim@nav.no"
+    picture: https://avatars.githubusercontent.com/u/77830299?v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: eirikstadheim
+spec:
+  profile:
+    displayName: Eirik Stadheim
+    email: "eirik.stadheim@nav.no"
+    picture: https://avatars.githubusercontent.com/u/82815956?v=4
+  memberOf: ["teampensjon"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: karl-run
+spec:
+  profile:
+    displayName: Karl O
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/1507032?u=7171e95064367cf6d0e3a1d9f13bbcd3e784c627&amp;v=4
+  memberOf: ["teamsykmelding"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nuranes
+spec:
+  profile:
+    displayName: Natalie Uranes
+    email: "natalie.uranes@nav.no"
+    picture: https://avatars.githubusercontent.com/u/10920892?u=2f4e09523dd465c8f2ef00f426991c778e39cefd&amp;v=4
+  memberOf: ["teamsykmelding"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: erlingre
+spec:
+  profile:
+    displayName: erlingre
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/9033323?v=4
+  memberOf: ["traktor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hfltten
+spec:
+  profile:
+    displayName: hfltten
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/44776540?v=4
+  memberOf: ["traktor"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kariandersen
+spec:
+  profile:
+    displayName: Kari Anne R. Andersen
+    email: "kari.anne.reitan.andersen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/40289910?u=43d5d3009a2dac5b0d4ca20dccc231c582b7c295&amp;v=4
+  memberOf: ["uu-teamet"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: MBegnum
+spec:
+  profile:
+    displayName: Miriam Begnum
+    email: "miriam.begnum@nav.no"
+    picture: https://avatars.githubusercontent.com/u/70373962?v=4
+  memberOf: ["uu-teamet"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mortentollefsen
+spec:
+  profile:
+    displayName: Morten Tollefsen
+    email: "morten.tollefsen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/92307398?v=4
+  memberOf: ["uu-teamet"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tovare
+spec:
+  profile:
+    displayName: Tov Are Jacobsen
+    email: ""
+    picture: https://avatars.githubusercontent.com/u/3688001?v=4
+  memberOf: ["webanalytics"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jarandb
+spec:
+  profile:
+    displayName: Jarand B
+    email: "jarand.bjerkhaug@nav.no"
+    picture: https://avatars.githubusercontent.com/u/10864047?u=1969ffc7a0dce2c12d06056f1b416f08af699802&amp;v=4
+  memberOf: ["yrkesskade"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: erlendkri
+spec:
+  profile:
+    displayName: Erlend Kristiansen
+    email: "erlend.kristiansen@nav.no"
+    picture: https://avatars.githubusercontent.com/u/26135039?u=76e6a6123ccdcf06ef3121f74349d5f7836432a1&amp;v=4
+  memberOf: ["yrkesskade"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mirnamah
+spec:
+  profile:
+    displayName: Mirna Mahmutcehajic
+    email: "mirna.mahmutcehajic@nav.no"
+    picture: https://avatars.githubusercontent.com/u/58594337?v=4
+  memberOf: ["yrkesskade"]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: olsnerik
+spec:
+  profile:
+    displayName: Erik Prøis Olsnes
+    email: "erik.prois.olsnes@nav.no"
+    picture: https://avatars.githubusercontent.com/u/90706895?v=4
+  memberOf: ["yrkesskade"]
