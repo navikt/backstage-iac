@@ -667,7 +667,7 @@ spec:
   profile:
     displayName: drage
     picture: https://avatars.githubusercontent.com/t/2952454?s=400&amp;v=4
-  parent: "#&lt;#&lt;Module:0x00007fca6619dd58&gt;::Team:0x00007fca661356e0&gt;"
+  parent: "pesys"
   children: []
   members: ["mammut89", "mortennormann"]
 ---
@@ -737,7 +737,7 @@ spec:
   profile:
     displayName: dusseldorf
     picture: https://avatars.githubusercontent.com/t/3191673?s=400&amp;v=4
-  parent: "#&lt;#&lt;Module:0x00007fca6619dd58&gt;::Team:0x00007fca66124ca0&gt;"
+  parent: "sykdom-i-familien"
   children: []
   members: ["frodehansen2", "fraadsbrandth", "erlendev", "ramrock93", "SanderOpperud", "poroshinaleksei"]
 ---
@@ -1213,7 +1213,7 @@ spec:
   profile:
     displayName: k9saksbehandling
     picture: https://avatars.githubusercontent.com/t/3489620?s=400&amp;v=4
-  parent: "#&lt;#&lt;Module:0x00007fca6619dd58&gt;::Team:0x00007fca639f4630&gt;"
+  parent: "sykdom-i-familien"
   children: []
   members: ["frodeli", "olejri", "fraadsbrandth", "ekun", "erlendev", "qtips", "espenjv", "stiangre", "boerta", "vebnor", "baskevold", "pekern", "tendestad", "helganyrud", "christofferlohne", "haldersaikat", "alexraknesnav", "hallvardastark", "albrektsson", "espennav", "eras-dev"]
 ---
