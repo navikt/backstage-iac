@@ -60,7 +60,7 @@ metadata:
 spec:
   profile:
     displayName: Michael Johansen
-    email: "michael.johansen@nav.no"
+    email: "michael.johansen@gmail.com"
     picture: https://avatars.githubusercontent.com/u/589907?u=1ad4b874936134d61e5646e864639b4016af8e73&amp;v=4
   memberOf: ["academy", "developers", "helseopplysninger", "jfb2019", "nav-developers"]
 ---
@@ -71,7 +71,7 @@ metadata:
 spec:
   profile:
     displayName: Einar Bjerve
-    email: "einar.bjerve@nav.no"
+    email: "einar.bjerve@gmail.com"
     picture: https://avatars.githubusercontent.com/u/6613535?u=f8c98b7d7899f371bdc3784646ed64530a0223e8&amp;v=4
   memberOf: ["academy", "amt", "komet", "pto", "teampam", "teknologiredaksjonen"]
 ---
@@ -82,7 +82,7 @@ metadata:
 spec:
   profile:
     displayName: linemos
-    email: "line.moseng@nav.no"
+    email: "linemos@gmail.com"
     picture: https://avatars.githubusercontent.com/u/12271331?u=22490f6d90a814c96f2316990fd18b9fb0ba6ac5&amp;v=4
   memberOf: ["academy", "baseimage", "developers", "plattform", "teamdigisos"]
 ---
@@ -104,7 +104,7 @@ metadata:
 spec:
   profile:
     displayName: Sondre Halvorsen
-    email: "sondre.halvorsen@nav.no"
+    email: "sondre@sonhal.no"
     picture: https://avatars.githubusercontent.com/u/17001956?u=093bc56a6726e9175d876729f5f994dc55ffa3db&amp;v=4
   memberOf: ["academy", "anonymisering", "babylon", "fp-faggruppe", "opendata", "pig-aiven", "security-champion-admin", "tbd"]
 ---
@@ -310,7 +310,7 @@ metadata:
 spec:
   profile:
     displayName: Izis Frøyhov
-    email: "izis.froyhov@nav.no"
+    email: "izisfroyhov@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1025788?v=4
   memberOf: ["amt", "developers", "forenklet-oppfolging", "komet", "nav-developers", "oppfolging", "pto", "team-oppfolging-fo"]
 ---
@@ -321,7 +321,7 @@ metadata:
 spec:
   profile:
     displayName: Steffen Lien
-    email: "steffen.lien@nav.no"
+    email: "steffen.lien@mimedi.no"
     picture: https://avatars.githubusercontent.com/u/4164608?u=817ccf750ce64217f5340b425f813d1d95db69fb&amp;v=4
   memberOf: ["amt", "pto", "team-valp"]
 ---
@@ -343,7 +343,7 @@ metadata:
 spec:
   profile:
     displayName: Tania Holst
-    email: "tania.holst@nav.no"
+    email: "holst.tania@gmail.com"
     picture: https://avatars.githubusercontent.com/u/21334782?u=ac7909540f212fa16c0d21c1027a07b8c78a678b&amp;v=4
   memberOf: ["amt", "pto", "team-valp"]
 ---
@@ -387,7 +387,7 @@ metadata:
 spec:
   profile:
     displayName: David Steinsland
-    email: "david.steinsland@nav.no"
+    email: "david@steinsland.email"
     picture: https://avatars.githubusercontent.com/u/125661?u=2b7c3789115e81e30a38061bcc7b3528a1b2db5e&amp;v=4
   memberOf: ["apen-kildekode", "baseimage", "developers", "kafkaadmins", "linuximage", "nav-developers", "tbd", "teamhelse"]
 ---
@@ -409,7 +409,7 @@ metadata:
 spec:
   profile:
     displayName: Audun Fauchald Strand
-    email: "audun.fauchald.strand@nav.no"
+    email: "audunstrand@gmail.com"
     picture: https://avatars.githubusercontent.com/u/3470775?u=a741151d9e83e4861fa08488d5ccfc67ced8bfbb&amp;v=4
   memberOf: ["apen-kildekode", "aura", "core", "developers", "didep", "nada", "nais", "nais-analyse", "nais-billing", "opendata", "plattform", "tbd", "teknologiredaksjonen"]
 ---
@@ -615,7 +615,7 @@ metadata:
 spec:
   profile:
     displayName: Ken Gullaksen
-    email: "ken.gullaksen@nav.no"
+    email: "ken@glxn.net"
     picture: https://avatars.githubusercontent.com/u/189395?u=e66e45a448452e0275e119eefd914d005a99c236&amp;v=4
   memberOf: ["arbeidsgiver", "fager", "nav-developers"]
 ---
@@ -670,7 +670,7 @@ metadata:
 spec:
   profile:
     displayName: Bendik Ibenholt
-    email: "bendik.segrov.ibenholt@nav.no"
+    email: "benibe88@gmail.com"
     picture: https://avatars.githubusercontent.com/u/4111628?u=d56abdb5043b52d618ca51f9b6307eb7b250a925&amp;v=4
   memberOf: ["arbeidsgiver", "fager"]
 ---
@@ -776,7 +776,7 @@ metadata:
 spec:
   profile:
     displayName: Are Husby
-    email: "are.husby@nav.no"
+    email: "ahusby@gmail.com"
     picture: https://avatars.githubusercontent.com/u/12073037?u=ef36243252b0cbf9bc37f88f608903dd02f9d770&amp;v=4
   memberOf: ["arbeidsgiver", "arbeidsgiver-inkludering", "fp-faggruppe"]
 ---
@@ -798,7 +798,7 @@ metadata:
 spec:
   profile:
     displayName: Runar Skagestad
-    email: "runar.skagestad@nav.no"
+    email: "runska@gmail.com"
     picture: https://avatars.githubusercontent.com/u/17157469?u=2990335d9c279671600270530f3b6e1ed9de67cf&amp;v=4
   memberOf: ["arbeidsgiver", "teamia"]
 ---
@@ -1071,7 +1071,7 @@ metadata:
 spec:
   profile:
     displayName: Christer Edvartsen
-    email: "christer.edvartsen@nav.no"
+    email: "cogo@starzinger.net"
     picture: https://avatars.githubusercontent.com/u/25402?u=9d4bf9ce5991502239bbb75ad613ae14cb8fbd88&amp;v=4
   memberOf: ["aura", "engineering-productivity", "github-owners", "nais", "nais-mac-mgmt", "naisdevice", "nav-developers", "pig-aiven", "pig-utvikleropplevelse", "plattform", "teknologiredaksjonen", "utvikleropplevelse"]
 ---
@@ -1093,7 +1093,7 @@ metadata:
 spec:
   profile:
     displayName: Morten Lied Johansen
-    email: "morten.lied.johansen@nav.no"
+    email: "mortenjo@ifi.uio.no"
     picture: https://avatars.githubusercontent.com/u/746078?v=4
   memberOf: ["aura", "nais", "nav-developers", "pig-aiven", "pig-deployment", "pig-utvikleropplevelse"]
 ---
@@ -1126,7 +1126,7 @@ metadata:
 spec:
   profile:
     displayName: Vegar Sechmann Molvig
-    email: "vegar.sechmann.molvig@nav.no"
+    email: "vegar.molvig@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1035788?u=dc8d5079d70d13d5c3492ea86c4d6cb76dfe5a2b&amp;v=4
   memberOf: ["aura", "nais", "naisdevice", "nav-developers", "pig-aiven", "plattform"]
 ---
@@ -1137,7 +1137,7 @@ metadata:
 spec:
   profile:
     displayName: Tore Sinding Bekkedal
-    email: "tore.sinding.bekkedal@nav.no"
+    email: "toresbe@protonmail.com"
     picture: https://avatars.githubusercontent.com/u/1761606?u=c229be27de1b285f05afe132c5fa417a2b9dd5b5&amp;v=4
   memberOf: ["aura", "dataplattform", "nada", "nais", "nav-developers", "pig-aiven"]
 ---
@@ -1159,7 +1159,7 @@ metadata:
 spec:
   profile:
     displayName: Kyrre Havik
-    email: "kyrre.havik@nav.no"
+    email: "Kyrremann@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1830501?u=bac30801909456b0935a801574089ef7e20ce8f1&amp;v=4
   memberOf: ["aura", "dataplattform", "developers", "dig-dakan", "knada", "linuximage", "nada", "nais", "nav-developers", "pig-aiven", "plattform", "traktor", "utvikleropplevelse"]
 ---
@@ -1302,7 +1302,7 @@ metadata:
 spec:
   profile:
     displayName: Mats Estensen
-    email: "mats.estensen@nav.no"
+    email: "mats.est@gmail.com"
     picture: https://avatars.githubusercontent.com/u/10927304?u=b3a0c05a5fbceec9be1a88a7879f77aa5d6e81f4&amp;v=4
   memberOf: ["azure-platform"]
 ---
@@ -1454,7 +1454,7 @@ metadata:
 spec:
   profile:
     displayName: Sneha
-    email: "sneha.desai@nav.no"
+    email: "desaisneha.2011@gmail.com"
     picture: https://avatars.githubusercontent.com/u/24415564?u=d6e6416082af521e3fb345cef31572cb222595f7&amp;v=4
   memberOf: ["biff", "developers", "oppfolging", "pto", "team-oppfolging-fo", "tpts", "vibe"]
 ---
@@ -1509,7 +1509,7 @@ metadata:
 spec:
   profile:
     displayName: Carl Huseby Fosli
-    email: "carl.huseby.fosli@nav.no"
+    email: "carl@fosli.net"
     picture: https://avatars.githubusercontent.com/u/1109965?u=39d6718dbc41b787a9dc7a8b3476ad1b4c4b808f&amp;v=4
   memberOf: ["crm", "crm-admin", "nav-developers", "team-tolketjeneste", "teamcrm"]
 ---
@@ -1520,7 +1520,7 @@ metadata:
 spec:
   profile:
     displayName: eirikfladby
-    email: "eirik.fladby@nav.no"
+    email: "eirik.fladby@gmail.com"
     picture: https://avatars.githubusercontent.com/u/8616157?u=03063a3305616c095fbf4dfc7a4ec5b8a88fb0fa&amp;v=4
   memberOf: ["crm", "team-tolketjeneste"]
 ---
@@ -1687,7 +1687,7 @@ metadata:
 spec:
   profile:
     displayName: Hans Petter Simonsen
-    email: "hans.petter.simonsen@nav.no"
+    email: "hans.petter.simonsen@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1381607?v=4
   memberOf: ["dab", "nav-developers", "pto"]
 ---
@@ -1851,7 +1851,7 @@ metadata:
 spec:
   profile:
     displayName: Eirik Lillebo
-    email: "eirik.robech.lillebo@nav.no"
+    email: "erlillebo@gmail.com"
     picture: https://avatars.githubusercontent.com/u/74510?u=2f6dc31369bf4725f3e4200166d46a538ab9bb4c&amp;v=4
   memberOf: ["designsystemet", "developers", "nav-developers", "nav-frontend-admins", "uu-teamet"]
 ---
@@ -1904,7 +1904,7 @@ metadata:
 spec:
   profile:
     displayName: Stig Øwre
-    email: "stig.owre@nav.no"
+    email: "stig.owre@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1792026?v=4
   memberOf: ["detsombetyrnoe", "nav-developers", "security-champion-admin", "utvikling-ledelse"]
 ---
@@ -1915,7 +1915,7 @@ metadata:
 spec:
   profile:
     displayName: Geir Gåsodden
-    email: "geir.gasodden@nav.no"
+    email: "geir.gasodden@pythonia.no"
     picture: https://avatars.githubusercontent.com/u/2197936?u=16ed3175706dd9bca32dbacfd41dd05425e074d9&amp;v=4
   memberOf: ["detsombetyrnoe", "developers", "nav-developers", "paw"]
 ---
@@ -1937,7 +1937,7 @@ metadata:
 spec:
   profile:
     displayName: Halvor Bjørn
-    email: "halvor.bjorn@nav.no"
+    email: "mrbjoern92@gmail.com"
     picture: https://avatars.githubusercontent.com/u/7832273?u=ab1b15fb4e8b3c9740b9ac95ba369a5b05db27da&amp;v=4
   memberOf: ["detsombetyrnoe", "teamdigisos", "teamdigisos-sommer"]
 ---
@@ -2025,6 +2025,7 @@ metadata:
 spec:
   profile:
     displayName: Nicklas Utgaard
+    email: "nutgaard@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1413417?v=4
   memberOf: ["developers", "nav-developers", "nav-frontend-admins", "oppfolging", "oppfolging-person", "personoversikt", "pus", "team-innsending"]
 ---
@@ -2068,7 +2069,7 @@ metadata:
 spec:
   profile:
     displayName: Robert Larsen
-    email: "robert.larsen@nav.no"
+    email: "robert@robert-larsen.net"
     picture: https://avatars.githubusercontent.com/u/1632722?u=7b839e3e81f9fe79ef31117eba01aa41b228f0a7&amp;v=4
   memberOf: ["developers", "dittnav", "informasjon-og-veiledning", "min-side", "nav-developers", "personbruker"]
 ---
@@ -2090,7 +2091,7 @@ metadata:
 spec:
   profile:
     displayName: Øyvind Stegard
-    email: "oyvind.stegard@nav.no"
+    email: "oyvind@stegard.net"
     picture: https://avatars.githubusercontent.com/u/4008448?u=96abaf109e8ad1d8abf80336c854097ae7a3dc20&amp;v=4
   memberOf: ["developers", "teampam"]
 ---
@@ -2101,7 +2102,7 @@ metadata:
 spec:
   profile:
     displayName: Aasmund Nordstoga
-    email: "aasmund.nordstoga@nav.no"
+    email: "anostoga@gmail.com"
     picture: https://avatars.githubusercontent.com/u/4167977?u=6a49b7ed7028f384cfda8d620f7d5e317da8d93b&amp;v=4
   memberOf: ["developers", "teamdigihot"]
 ---
@@ -2112,7 +2113,7 @@ metadata:
 spec:
   profile:
     displayName: Stephen Ramthun
-    email: "stephen.ramthun@nav.no"
+    email: "stephenramthun@gmail.com"
     picture: https://avatars.githubusercontent.com/u/4243438?u=2d4e900fde2db8c14daa9fbd08891b476d4ed4fc&amp;v=4
   memberOf: ["developers", "tbd"]
 ---
@@ -2420,7 +2421,7 @@ metadata:
 spec:
   profile:
     displayName: Mathias Hellevang
-    email: "mathias.hellevang@nav.no"
+    email: "mathias.hellevang@gmail.com"
     picture: https://avatars.githubusercontent.com/u/594710?v=4
   memberOf: ["digisyfo", "nav-developers", "teamsykmelding"]
 ---
@@ -2431,7 +2432,7 @@ metadata:
 spec:
   profile:
     displayName: Andreas Nilsen
-    email: "andreas.nilsen@nav.no"
+    email: "danduras@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1237399?v=4
   memberOf: ["digisyfo", "nav-developers", "teamsykmelding"]
 ---
@@ -2607,7 +2608,7 @@ metadata:
 spec:
   profile:
     displayName: Stig Magne Henriksen
-    email: "stig.magne.henriksen@nav.no"
+    email: "stig.m.henriksen@gmail.com"
     picture: https://avatars.githubusercontent.com/u/16836107?v=4
   memberOf: ["disykefravar"]
 ---
@@ -2618,7 +2619,7 @@ metadata:
 spec:
   profile:
     displayName: Patrick Pedersen
-    email: "patrick.pedersen@nav.no"
+    email: "patrick@pedersen.biz"
     picture: https://avatars.githubusercontent.com/u/21368535?v=4
   memberOf: ["disykefravar", "dv-familie"]
 ---
@@ -2738,7 +2739,7 @@ metadata:
 spec:
   profile:
     displayName: Tsigab Gebremedhin
-    email: "tsigab.angosom.gebremedhin@nav.no"
+    email: "tsigab.angosom@gmail.com"
     picture: https://avatars.githubusercontent.com/u/22769168?v=4
   memberOf: ["dokumenthandtering", "teamdokumenthandtering"]
 ---
@@ -2881,7 +2882,7 @@ metadata:
 spec:
   profile:
     displayName: Dag Raaum
-    email: "dag.raaum@nav.no"
+    email: "dag.raaum@gmail.com"
     picture: https://avatars.githubusercontent.com/u/5316327?u=b19010646e463ef0dd24e4fb77e92b12d3566b7d&amp;v=4
   memberOf: ["dsopkontroll", "helsearbeidsgiver", "integrasjon", "pais"]
 ---
@@ -2914,6 +2915,7 @@ metadata:
 spec:
   profile:
     displayName: Ole Jørgen Rishoff
+    email: "olejri@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1122765?v=4
   memberOf: ["duplodevs", "k9saksbehandling", "nav-developers", "sykdom-i-familien"]
 ---
@@ -2979,7 +2981,7 @@ metadata:
 spec:
   profile:
     displayName: Ramin Esfandiari
-    email: "ramin.esfandiari@nav.no"
+    email: "ramin_esfandiari_93@hotmail.com"
     picture: https://avatars.githubusercontent.com/u/7078876?u=851232476ce3c020c71a6f5c555ca349d3d0169c&amp;v=4
   memberOf: ["dusseldorf", "sykdom-i-familien"]
 ---
@@ -3361,7 +3363,7 @@ metadata:
 spec:
   profile:
     displayName: Nuno Cardoso
-    email: "Nuno.Cardoso@nav.no"
+    email: "nuno.cardoso@gmail.com"
     picture: https://avatars.githubusercontent.com/u/525528?v=4
   memberOf: ["eessipensjon", "eux", "nav-developers", "teampensjon"]
 ---
@@ -3438,7 +3440,7 @@ metadata:
 spec:
   profile:
     displayName: Espen Schei
-    email: "espen.schei@nav.no"
+    email: "espen.schei@outlook.com"
     picture: https://avatars.githubusercontent.com/u/1083866?u=c97f70dc1667b4bc0ee46bb0c3019a1b3975d82c&amp;v=4
   memberOf: ["etterlatte", "nav-developers"]
 ---
@@ -3635,7 +3637,7 @@ metadata:
 spec:
   profile:
     displayName: Trond Anders Sorvoja
-    email: "trond.anders.sorvoja@nav.no"
+    email: "sorvoja@gmail.com"
     picture: https://avatars.githubusercontent.com/u/22521807?u=357833617e4adfc102727cfb8af1514d71df9ea3&amp;v=4
   memberOf: ["helsearbeidsgiver"]
 ---
@@ -3733,6 +3735,7 @@ metadata:
 spec:
   profile:
     displayName: Terje Karlsen
+    email: "terjeofnorway@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1443997?u=004755738fc728d2994680d1e097ebcac024e326&amp;v=4
   memberOf: ["informasjon-og-veiledning", "nav-developers", "personbruker"]
 ---
@@ -3831,7 +3834,7 @@ metadata:
 spec:
   profile:
     displayName: Key
-    email: "key.wong@nav.no"
+    email: "keylung94@gmail.com"
     picture: https://avatars.githubusercontent.com/u/23191069?u=22c8588d371b60a7d1fff6ea395621bfb9d141d8&amp;v=4
   memberOf: ["isa"]
 ---
@@ -3906,7 +3909,7 @@ metadata:
 spec:
   profile:
     displayName: Jakob Havstein Eriksen
-    email: "jakob.havstein.eriksen@nav.no"
+    email: "jhavstein@gmail.com"
     picture: https://avatars.githubusercontent.com/u/136872?v=4
   memberOf: ["jfb2019", "nav-developers", "risk", "supstonadx", "tbd"]
 ---
@@ -3938,7 +3941,7 @@ metadata:
 spec:
   profile:
     displayName: Peter Holme Obrestad
-    email: "peter.holme.obrestad@nav.no"
+    email: "pho@me.com"
     picture: https://avatars.githubusercontent.com/u/1475800?v=4
   memberOf: ["jsd", "nav-developers", "navet"]
 ---
@@ -3960,7 +3963,7 @@ metadata:
 spec:
   profile:
     displayName: Øyvind Buer
-    email: "oyvind.buer@nav.no"
+    email: "oyvindbuer@gmail.com"
     picture: https://avatars.githubusercontent.com/u/39733337?v=4
   memberOf: ["jsd", "pensjondeployer", "pensjonopptjening", "pensjonsamhandling", "teampensjon"]
 ---
@@ -4419,6 +4422,7 @@ metadata:
 spec:
   profile:
     displayName: Charlie Midtlyng
+    email: "charlie.midtlyng@bekk.no"
     picture: https://avatars.githubusercontent.com/u/402915?v=4
   memberOf: ["nav-developers", "teamfamilie"]
 ---
@@ -4527,7 +4531,7 @@ metadata:
 spec:
   profile:
     displayName: André Rakvåg
-    email: "andre.rakvag@nav.no"
+    email: "andre@rakvag.org"
     picture: https://avatars.githubusercontent.com/u/1047996?v=4
   memberOf: ["nav-developers", "teamfrikort"]
 ---
@@ -4538,7 +4542,7 @@ metadata:
 spec:
   profile:
     displayName: John Andre Hestad
-    email: "john.andre.hestad@nav.no"
+    email: "jahestad@gmail.com"
     picture: https://avatars.githubusercontent.com/u/1081740?u=916e49588414a8e69917bbba1f5bec09ff3c3c7a&amp;v=4
   memberOf: ["nav-developers", "supstonad", "teampensjon"]
 ---
@@ -4604,7 +4608,7 @@ metadata:
 spec:
   profile:
     displayName: Asbjørn Ottesen Steinskog
-    email: "asbjorn.ottesen.steinskog@nav.no"
+    email: "asbjorn@steinskog.me"
     picture: https://avatars.githubusercontent.com/u/1413265?u=c106ec3624d5aeb5dd2ee5a85509c45c8dbee19b&amp;v=4
   memberOf: ["nav-developers", "teamfamilie"]
 ---
@@ -4885,7 +4889,7 @@ metadata:
 spec:
   profile:
     displayName: Anders Flaten
-    email: "anders.flaten@nav.no"
+    email: "anders.flaten@gmail.com"
     picture: https://avatars.githubusercontent.com/u/16606982?u=5a818d1f816ed4499cd435b9a6e88ce339467bcc&amp;v=4
   memberOf: ["okonomi"]
 ---
@@ -4896,7 +4900,7 @@ metadata:
 spec:
   profile:
     displayName: Vidhya Rini
-    email: "vidhya.rini@nav.no"
+    email: "rini.vidhya88@gmail.com"
     picture: https://avatars.githubusercontent.com/u/25911895?u=1c078ae2dd2378d32e5ae2550db17e40e4571e19&amp;v=4
   memberOf: ["okonomi"]
 ---
@@ -5116,7 +5120,7 @@ metadata:
 spec:
   profile:
     displayName: Sondre Wittek
-    email: "sondre.wittek@nav.no"
+    email: "sondrewittek@gmail.com"
     picture: https://avatars.githubusercontent.com/u/2978840?u=47834c565e9ebcf4b72e2e112e794d016d123072&amp;v=4
   memberOf: ["paw"]
 ---
@@ -5499,7 +5503,7 @@ metadata:
 spec:
   profile:
     displayName: Mathias Sand Jahren
-    email: "mathias.sand.jahren@nav.no"
+    email: "the.mather1@gmail.com"
     picture: https://avatars.githubusercontent.com/u/31667042?u=593ba589fe66f53e80c9f62e90c032c319a394ba&amp;v=4
   memberOf: ["pensjonsamhandling", "teampensjon", "teampeon"]
 ---
@@ -5946,7 +5950,7 @@ metadata:
 spec:
   profile:
     displayName: André Wolden
-    email: "andre.wolden@nav.no"
+    email: "wolden.andre@gmail.com"
     picture: https://avatars.githubusercontent.com/u/17552002?u=c1bf21546a402ed42b7781505b9c490c53ad4009&amp;v=4
   memberOf: ["sosialtjenester", "teamfamilie"]
 ---
@@ -5979,7 +5983,7 @@ metadata:
 spec:
   profile:
     displayName: Aryan Iranzamini
-    email: "aryan.iranzamini@nav.no"
+    email: "aryaniranzamini@gmail.com"
     picture: https://avatars.githubusercontent.com/u/26689337?u=31625485d1556cacef5ef60b558802be658c7ec0&amp;v=4
   memberOf: ["supstonad", "teampensjon"]
 ---
@@ -6034,7 +6038,7 @@ metadata:
 spec:
   profile:
     displayName: Oscar Vladau-Husevold
-    email: "oscar.vladau-husevold@nav.no"
+    email: "Oscarnvh@gmail.com"
     picture: https://avatars.githubusercontent.com/u/22072181?u=af9ef742a39b21a49c17e82095a740410213ba50&amp;v=4
   memberOf: ["tbd"]
 ---
@@ -6100,7 +6104,7 @@ metadata:
 spec:
   profile:
     displayName: Christian Bülow Skovborg
-    email: "christian.bulow.skovborg@nav.no"
+    email: "christianskovborg@gmail.com"
     picture: https://avatars.githubusercontent.com/u/59872984?u=32673fe6044de6b12d357cd57dc7847572b8467e&amp;v=4
   memberOf: ["tbd"]
 ---
@@ -6263,6 +6267,7 @@ metadata:
 spec:
   profile:
     displayName: Alexander Petrov
+    email: "alexander.petrov@nav.no"
     picture: https://avatars.githubusercontent.com/u/3206343?u=e380f17bfec3eac3039d0d330d0b0ca9038069fc&amp;v=4
   memberOf: ["team-innsending", "team-soknad"]
 ---
@@ -6919,7 +6924,7 @@ metadata:
 spec:
   profile:
     displayName: Henning Håkonsen
-    email: "henning.hakonsen@nav.no"
+    email: "henninghaakonsen@gmail.com"
     picture: https://avatars.githubusercontent.com/u/11041674?u=1331e4ade91211d28c1fa2a1d439973928fb46fe&amp;v=4
   memberOf: ["teamfamilie"]
 ---
@@ -6941,7 +6946,7 @@ metadata:
 spec:
   profile:
     displayName: Marcus Gustafson
-    email: "marcus.gustafson@nav.no"
+    email: "marcus.gustafson@computas.com"
     picture: https://avatars.githubusercontent.com/u/17083367?v=4
   memberOf: ["teamfamilie"]
 ---
@@ -6973,7 +6978,7 @@ metadata:
 spec:
   profile:
     displayName: Ida Merete Enholm
-    email: "ida.merete.enholm@nav.no"
+    email: "ida.enholm@me.com"
     picture: https://avatars.githubusercontent.com/u/25459913?u=a27c2ef8852e451bfde943e65a3da59d40f9679b&amp;v=4
   memberOf: ["teamfamilie"]
 ---
@@ -6984,7 +6989,7 @@ metadata:
 spec:
   profile:
     displayName: Viktor Solberg
-    email: "viktor.grondalen.solberg@nav.no"
+    email: "viktorgsolberg@gmail.com"
     picture: https://avatars.githubusercontent.com/u/32769446?u=53a55d23d5c8ac36fada27711bfc2b01d0ddd217&amp;v=4
   memberOf: ["teamfamilie"]
 ---
@@ -7256,7 +7261,7 @@ metadata:
 spec:
   profile:
     displayName: Lars Løken Bjørnskau
-    email: "lars.loken.bjornskau@nav.no"
+    email: "larsbjornskau@gmail.com"
     picture: https://avatars.githubusercontent.com/u/35578876?v=4
   memberOf: ["teammelosys"]
 ---
@@ -7311,7 +7316,7 @@ metadata:
 spec:
   profile:
     displayName: Edvard Gjessing Bakken
-    email: "edvard.bakken@nav.no"
+    email: "edvard_bakken@live.no"
     picture: https://avatars.githubusercontent.com/u/16168014?u=ce7f5ae164f25236cd5a3ee337dd1fe2d82b8c9a&amp;v=4
   memberOf: ["teampam"]
 ---
@@ -7529,6 +7534,7 @@ metadata:
 spec:
   profile:
     displayName: Karl O
+    email: "k@rl.run"
     picture: https://avatars.githubusercontent.com/u/1507032?u=7171e95064367cf6d0e3a1d9f13bbcd3e784c627&amp;v=4
   memberOf: ["teamsykmelding"]
 ---
@@ -7539,7 +7545,7 @@ metadata:
 spec:
   profile:
     displayName: Natalie Uranes
-    email: "natalie.uranes@nav.no"
+    email: "natalie.uranes@gmail.com"
     picture: https://avatars.githubusercontent.com/u/10920892?u=2f4e09523dd465c8f2ef00f426991c778e39cefd&amp;v=4
   memberOf: ["teamsykmelding"]
 ---
@@ -7603,6 +7609,7 @@ metadata:
 spec:
   profile:
     displayName: Tov Are Jacobsen
+    email: "mail@tovare.com"
     picture: https://avatars.githubusercontent.com/u/3688001?v=4
   memberOf: ["webanalytics"]
 ---
