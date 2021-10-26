@@ -9,7 +9,6 @@ spec:
   profile:
     displayName: aap
     picture: https://avatars.githubusercontent.com/t/5086493?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["andersostby", "richardborge", "jan-olaveide", "tidnav"]
 ---
@@ -23,7 +22,6 @@ spec:
   profile:
     displayName: academy
     picture: https://avatars.githubusercontent.com/t/3013043?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["geiralund", "mijohansen", "einarbj", "linemos", "erlingjd", "sonhal", "arshadkamran", "rinnan17", "Mort12Lander", "toresletten", "Stefuzi"]
 ---
@@ -37,7 +35,6 @@ spec:
   profile:
     displayName: ailabben
     picture: https://avatars.githubusercontent.com/t/2801344?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "jonvegards", "poke53280", "larsksut", "robindraprabhu", "erikvatt", "beatesi", "cathrinepl", "lljorgeluis", "mariacabrol"]
 ---
@@ -51,7 +48,6 @@ spec:
   profile:
     displayName: alf
     picture: https://avatars.githubusercontent.com/t/2802185?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["richos7", "harunde", "monaelis"]
 ---
@@ -65,7 +61,6 @@ spec:
   profile:
     displayName: amt
     picture: https://avatars.githubusercontent.com/t/5071425?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["izisfro", "steffeli", "einarbj", "AlexGaard", "taniaholst", "magnusevnav"]
 ---
@@ -79,7 +74,6 @@ spec:
   profile:
     displayName: anonymisering
     picture: https://avatars.githubusercontent.com/t/3299290?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["sonhal", "andregroseth", "JeremiahUy"]
 ---
@@ -93,7 +87,6 @@ spec:
   profile:
     displayName: Åpen kildekode
     picture: https://avatars.githubusercontent.com/t/2702249?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["davidsteinsland", "trulsjor", "audunstrand", "jksolbakken"]
 ---
@@ -107,7 +100,6 @@ spec:
   profile:
     displayName: Arbeidsflate
     picture: https://avatars.githubusercontent.com/t/3448285?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["geirbraten", "mariusostby", "olaholtberget"]
 ---
@@ -121,7 +113,6 @@ spec:
   profile:
     displayName: arbeidsforhold
     picture: https://avatars.githubusercontent.com/t/3709614?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["cteig", "Oddsor", "ivoiv", "henrikkol", "erikvatt", "reidarkjoslien", "nicolaetecusan", "KnutArildSlaatsve", "faleri72", "h153755", "abryhni", "joelchristianlorum", "Gvester", "AlemBasic-Nav"]
 ---
@@ -135,7 +126,6 @@ spec:
   profile:
     displayName: arbeidsgiver
     picture: https://avatars.githubusercontent.com/t/3677605?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["hholmste", "kenglxn", "thomasdufourd", "peterbb", "mbolstad", "fredrikpe", "bendiksi", "andrmos", "sindredl", "mattiaslundmark", "johnforeland", "Majjki", "kjesvale", "suddal", "hbleness", "frodank", "ahusby", "joarau", "Brunarspunar", "catriont", "ulrikah", "Havardmj", "erlend-axelsson", "bjornhagglund", "StefanEngelien-Nav", "robindraprabhu", "d142796", "nimajimale", "hildeheggstad", "MalazAlkoj", "KristinaAsberg", "hannahogberg", "Oleste", "MagnusRom", "fridtjofalestrom", "audisaudisaudis", "KarlEvaldNav", "torbjornmartinsen", "EmilGronnbeck", "madsleegiil", "AlexanderamiriNAV"]
 ---
@@ -149,7 +139,6 @@ spec:
   profile:
     displayName: arbeidsgiver-inkludering
     picture: https://avatars.githubusercontent.com/t/4801263?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["andrmos", "kjesvale", "frodank", "ahusby", "joarau", "madsleegiil"]
 ---
@@ -163,7 +152,6 @@ spec:
   profile:
     displayName: arbeidsretta-tiltak
     picture: https://avatars.githubusercontent.com/t/4626922?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["robindraprabhu", "krithika14051989"]
 ---
@@ -177,7 +165,6 @@ spec:
   profile:
     displayName: atom
     picture: https://avatars.githubusercontent.com/t/2807240?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["sindrerh2", "errordodge"]
 ---
@@ -191,7 +178,6 @@ spec:
   profile:
     displayName: aura
     picture: https://avatars.githubusercontent.com/t/2590128?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "mortenlj", "jhrv", "ambientsound", "Sechmann", "cteig", "toresbe", "toby1knby", "Kyrremann", "rbjornstad", "audunstrand", "chinatsu", "Muni10", "tronghn", "gorzan", "frodesundby", "terjesannum", "tommytroen", "ybelMekk", "sindrerh2", "andersbye", "thokra-nav"]
 ---
@@ -205,7 +191,6 @@ spec:
   profile:
     displayName: azure-platform
     picture: https://avatars.githubusercontent.com/t/5059750?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["ttnesby", "matsest", "errordodge", "leifljastad2", "JonSverre", "mariusostby", "Brochs"]
 ---
@@ -219,7 +204,6 @@ spec:
   profile:
     displayName: babylon
     picture: https://avatars.githubusercontent.com/t/4928186?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["chinatsu", "sonhal"]
 ---
@@ -233,7 +217,6 @@ spec:
   profile:
     displayName: baseimage
     picture: https://avatars.githubusercontent.com/t/2974178?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["davidsteinsland", "joakibj", "Muni10", "linemos"]
 ---
@@ -247,7 +230,6 @@ spec:
   profile:
     displayName: Begrepskatalogen
     picture: https://avatars.githubusercontent.com/t/3295379?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["arshadkamran", "Stefuzi"]
 ---
@@ -261,7 +243,6 @@ spec:
   profile:
     displayName: Beregningsmodul
     picture: https://avatars.githubusercontent.com/t/3383310?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["laukvik"]
 ---
@@ -275,7 +256,6 @@ spec:
   profile:
     displayName: bidrag
     picture: https://avatars.githubusercontent.com/t/2925410?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["ugur93", "jactor-rises", "s148719", "morher", "tatjanaand", "rinnan17", "LarsOttoHaugen", "bragejahren"]
 ---
@@ -289,7 +269,6 @@ spec:
   profile:
     displayName: biff
     picture: https://avatars.githubusercontent.com/t/3115623?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matiasvinjevoll", "AlexGaard", "sneha-d-desai", "nav-jorn-ola-birkeland"]
 ---
@@ -303,7 +282,6 @@ spec:
   profile:
     displayName: bikers
     picture: https://avatars.githubusercontent.com/t/3587752?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["rogermi"]
 ---
@@ -317,7 +295,6 @@ spec:
   profile:
     displayName: Core
     picture: https://avatars.githubusercontent.com/t/1422826?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["trulsjor", "matsbyfl", "jhrv", "audunstrand", "mrsladek", "frodesundby", "terjesannum"]
 ---
@@ -331,7 +308,6 @@ spec:
   profile:
     displayName: cosmosdb-datakatalog
     picture: https://avatars.githubusercontent.com/t/3918866?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "andregroseth", "JeremiahUy", "erikvatt", "lljorgeluis"]
 ---
@@ -345,7 +321,6 @@ spec:
   profile:
     displayName: crm
     picture: https://avatars.githubusercontent.com/t/4560732?s=400&amp;v=4
-  parent: ""
   children: ["team_dialog"]
   members: ["chfosli", "johnforeland", "EirikFladby", "magnushamrin", "suddal", "EdvardBrekke", "frodehoen", "piszosta", "mamikals", "torhakon", "gstenseng", "celinetomren", "raac09", "vmjelde", "larspetterjohnsen", "SRS-Dxtreme", "saramoh2309", "ebelegu", "ibhagupta8nav"]
 ---
@@ -359,7 +334,6 @@ spec:
   profile:
     displayName: crm-admin
     picture: https://avatars.githubusercontent.com/t/5138120?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["chfosli", "frodehoen"]
 ---
@@ -373,7 +347,6 @@ spec:
   profile:
     displayName: dab
     picture: https://avatars.githubusercontent.com/t/3379339?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["holymaloney", "theahj", "marcjas", "hakonph"]
 ---
@@ -387,7 +360,6 @@ spec:
   profile:
     displayName: database
     picture: https://avatars.githubusercontent.com/t/3097286?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["karlheinz1"]
 ---
@@ -401,7 +373,6 @@ spec:
   profile:
     displayName: dataplattform
     picture: https://avatars.githubusercontent.com/t/3244072?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jhrv", "cteig", "toresbe", "Kyrremann", "gorzan", "frodesundby", "andregroseth", "JeremiahUy", "erikvatt", "bentelbusch", "vebjorre", "thokra-nav"]
 ---
@@ -415,7 +386,6 @@ spec:
   profile:
     displayName: Design
     picture: https://avatars.githubusercontent.com/t/3252958?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["rrsslnd"]
 ---
@@ -429,7 +399,6 @@ spec:
   profile:
     displayName: designsystem
     picture: https://avatars.githubusercontent.com/t/4026729?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["andnorda", "KenAJoh", "Miaag", "Sjur-NAV", "JorgenMaristuen", "Magnusbhell", "Trent-NAV"]
 ---
@@ -443,7 +412,6 @@ spec:
   profile:
     displayName: Designsystemet
     picture: https://avatars.githubusercontent.com/t/3428787?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Lillebo", "KenAJoh", "karinaldw"]
 ---
@@ -457,7 +425,6 @@ spec:
   profile:
     displayName: detsombetyrnoe
     picture: https://avatars.githubusercontent.com/t/3858768?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["atleno", "dervism", "kmork", "stowre", "zrrrzzt", "nonfiction83", "mrbjoern", "e117355"]
 ---
@@ -471,7 +438,6 @@ spec:
   profile:
     displayName: Developers
     picture: https://avatars.githubusercontent.com/t/1425758?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Lillebo", "davidsteinsland", "LarsErikDahl", "trulsjor", "frodehansen2", "matsbyfl", "mijohansen", "jhrv", "ambientsound", "juneih", "izisfro", "haagenhasle", "dervism", "TheUnnamedDude", "urenhale", "nutgaard", "kjarbr", "erlendev", "tlheen", "Robert-Larsen", "Kyrremann", "zrrrzzt", "ttnesby", "pbencze", "gtcno", "audunstrand", "andersostby", "Muni10", "oyvindstegard", "anostoga", "stephenramthun", "hensol", "tronghn", "jksolbakken", "greger-nl", "rfc3092", "AlexGaard", "frodank", "linemos", "joarau", "frodesundby", "tiafiring", "terjesannum", "warild", "sneha-d-desai", "idaons", "hakonph", "999JackFlash", "sturleh", "sjoblomjsqueed", "Y130311-NAV", "bjornarne", "tuantrannav", "PerOlavM", "MariamPervez", "tonjemjovik", "Lars-Andreas", "VanessaKjK", "martheharsvik", "tgravvold", "EivindSkifjeld", "Janne-Nav"]
 ---
@@ -485,7 +451,6 @@ spec:
   profile:
     displayName: di-prototyping
     picture: https://avatars.githubusercontent.com/t/3551756?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["throndi"]
 ---
@@ -499,7 +464,6 @@ spec:
   profile:
     displayName: di-techlab
     picture: https://avatars.githubusercontent.com/t/3544528?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["dmykarp", "SveinOpsahl", "Laroha", "stigbergaust", "gs-cheema"]
 ---
@@ -513,7 +477,6 @@ spec:
   profile:
     displayName: didep
     picture: https://avatars.githubusercontent.com/t/3228024?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["audunstrand"]
 ---
@@ -527,7 +490,6 @@ spec:
   profile:
     displayName: dig-dakan
     picture: https://avatars.githubusercontent.com/t/4758738?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["cteig", "Kyrremann", "pbencze", "andregroseth", "JeremiahUy", "erikvatt"]
 ---
@@ -541,7 +503,6 @@ spec:
   profile:
     displayName: Digisyfo
     picture: https://avatars.githubusercontent.com/t/2688548?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mhellevang", "juneih", "andreasDev", "kjarbr", "cyanboy", "chinatsu", "janzh", "Vitenok", "luantr", "heyvard", "tiafiring", "kulsveen", "JMLindseth", "torchr89", "torhrise", "solveiggrieg", "Falchn", "kaja-nav", "andersrognstad", "geir-waagboe", "AudunSorheim"]
 ---
@@ -555,7 +516,6 @@ spec:
   profile:
     displayName: disykefravar
     picture: https://avatars.githubusercontent.com/t/3431856?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["stigmhenriksen", "patped", "Y130311-NAV", "elisnes", "torunnd", "JorgenG-nav"]
 ---
@@ -569,7 +529,6 @@ spec:
   profile:
     displayName: DittNAV
     picture: https://avatars.githubusercontent.com/t/3126629?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["trulsjor", "Robert-Larsen", "greger-nl", "sasoria", "ToneEriksen", "VanessaKjK", "eivinne", "chris-santa", "Amirhlotfi"]
 ---
@@ -583,7 +542,6 @@ spec:
   profile:
     displayName: doccano
     picture: https://avatars.githubusercontent.com/t/3956010?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "erikvatt", "lljorgeluis"]
 ---
@@ -597,7 +555,6 @@ spec:
   profile:
     displayName: dokumenteformidling
     picture: https://avatars.githubusercontent.com/t/3294381?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["joakibj", "alexander-haugli"]
 ---
@@ -611,7 +568,6 @@ spec:
   profile:
     displayName: dokumenteformidlingsertifikat
     picture: https://avatars.githubusercontent.com/t/3587657?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["alexander-haugli"]
 ---
@@ -625,7 +581,6 @@ spec:
   profile:
     displayName: Dokumenthåndtering
     picture: https://avatars.githubusercontent.com/t/3297413?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["joakibj", "avoldsund", "tsigab", "alexander-haugli", "TimAa-nav-dev", "Oslo333", "JoakimBor", "L145025", "hakonsnotun"]
 ---
@@ -639,7 +594,6 @@ spec:
   profile:
     displayName: dolly
     picture: https://avatars.githubusercontent.com/t/2712731?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["langvatn", "krharum", "betsytraran", "H153910", "stigus"]
 ---
@@ -653,7 +607,6 @@ spec:
   profile:
     displayName: dpo-eformidling-altinn
     picture: https://avatars.githubusercontent.com/t/3587729?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["alexander-haugli"]
 ---
@@ -681,7 +634,6 @@ spec:
   profile:
     displayName: Drops
     picture: https://avatars.githubusercontent.com/t/3175929?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -695,7 +647,6 @@ spec:
   profile:
     displayName: dsbn
     picture: https://avatars.githubusercontent.com/t/3921214?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -709,7 +660,6 @@ spec:
   profile:
     displayName: dsopkontroll
     picture: https://avatars.githubusercontent.com/t/3171261?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["tronghn", "muladraa", "my-repo"]
 ---
@@ -723,7 +673,6 @@ spec:
   profile:
     displayName: DuploDevs
     picture: https://avatars.githubusercontent.com/t/3544714?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["frode-carlsen", "olejri", "ekun", "mrsladek", "espenjv", "pekern", "jolarsen"]
 ---
@@ -751,7 +700,6 @@ spec:
   profile:
     displayName: dv-a-team
     picture: https://avatars.githubusercontent.com/t/4635832?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["SimenRafdal", "JonXCQiu", "A139505", "eivho", "RandiMH", "Aynalem-baraki", "caroliwi", "G163771"]
 ---
@@ -765,7 +713,6 @@ spec:
   profile:
     displayName: dv-familie
     picture: https://avatars.githubusercontent.com/t/4018321?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["giosohaib", "patped", "E102190", "hvalhan", "helenrong"]
 ---
@@ -779,7 +726,6 @@ spec:
   profile:
     displayName: dv-team-pensjon
     picture: https://avatars.githubusercontent.com/t/4639159?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jordetr", "lfekete", "kjelltjNAV"]
 ---
@@ -793,7 +739,6 @@ spec:
   profile:
     displayName: dvh-analytisk-plattform
     picture: https://avatars.githubusercontent.com/t/4531467?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["dmykarp", "KnuSle", "SveinOpsahl", "l105669", "Laroha", "H151866", "stigbergaust", "JoTiNAV", "KaKiNAV", "t152335", "gs-cheema", "itsAftab"]
 ---
@@ -807,7 +752,6 @@ spec:
   profile:
     displayName: dvh-arbeid
     picture: https://avatars.githubusercontent.com/t/3587634?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["espenhoh", "SimenRafdal", "JonXCQiu", "A139505", "eivho", "RandiMH", "OivindAxelsen", "Aynalem-baraki", "DanielEgelandsdalOsen", "caroliwi", "MEGunnerud", "J143716", "G163771"]
 ---
@@ -821,7 +765,6 @@ spec:
   profile:
     displayName: easymoneysnipers
     picture: https://avatars.githubusercontent.com/t/3921283?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["atleno", "catriont", "yongbinkwon", "jjtg-nav"]
 ---
@@ -835,7 +778,6 @@ spec:
   profile:
     displayName: eessibasis
     picture: https://avatars.githubusercontent.com/t/3155253?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["walberg", "torstenk", "warild", "kristoffersen"]
 ---
@@ -849,7 +791,6 @@ spec:
   profile:
     displayName: eessipensjon
     picture: https://avatars.githubusercontent.com/t/2872124?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["NunoCardoso", "mammut89", "dskarpas", "MariamPervez", "kjetiljd", "JensNav"]
 ---
@@ -863,7 +804,6 @@ spec:
   profile:
     displayName: Engineering Productivity
     picture: https://avatars.githubusercontent.com/t/2971779?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen"]
 ---
@@ -877,7 +817,6 @@ spec:
   profile:
     displayName: esb
     picture: https://avatars.githubusercontent.com/t/4015304?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jon-disen", "ashish190471"]
 ---
@@ -891,7 +830,6 @@ spec:
   profile:
     displayName: etterlatte
     picture: https://avatars.githubusercontent.com/t/4489285?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["LarsErikDahl", "glennwedin", "EspenSchei", "Watercolours", "kcs85", "jorgesti", "HelgeJanbu"]
 ---
@@ -905,7 +843,6 @@ spec:
   profile:
     displayName: Europeisk Helsekort
     picture: https://avatars.githubusercontent.com/t/2863193?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -919,7 +856,6 @@ spec:
   profile:
     displayName: eux
     picture: https://avatars.githubusercontent.com/t/3001667?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["walberg", "NunoCardoso", "torstenk", "warild", "kristoffersen", "MagnusRom"]
 ---
@@ -933,7 +869,6 @@ spec:
   profile:
     displayName: fager
     picture: https://avatars.githubusercontent.com/t/4763938?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["kenglxn", "peterbb", "bendiksi", "hannahogberg"]
 ---
@@ -947,7 +882,6 @@ spec:
   profile:
     displayName: farskapsportal
     picture: https://avatars.githubusercontent.com/t/4037726?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["s148719", "tatjanaand", "odinnaver"]
 ---
@@ -961,7 +895,6 @@ spec:
   profile:
     displayName: fist
     picture: https://avatars.githubusercontent.com/t/5209399?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "henrikpaulsen", "iwframne", "stigbergaust"]
 ---
@@ -975,7 +908,6 @@ spec:
   profile:
     displayName: flex
     picture: https://avatars.githubusercontent.com/t/3444300?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["kjarbr", "heyvard", "kulsveen", "golshidb93", "Bordevich", "nilsjorgen"]
 ---
@@ -989,7 +921,6 @@ spec:
   profile:
     displayName: forenklet oppfølging
     picture: https://avatars.githubusercontent.com/t/2576563?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["izisfro", "dervism", "hakonph", "Lars-Andreas"]
 ---
@@ -1003,7 +934,6 @@ spec:
   profile:
     displayName: fp-faggruppe
     picture: https://avatars.githubusercontent.com/t/3247378?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["peterbb", "dervism", "urenhale", "ahusby", "sonhal", "rituvesh", "RoyGrini", "OyvindRoth", "LarsOttoHaugen"]
 ---
@@ -1017,7 +947,6 @@ spec:
   profile:
     displayName: GitHub owners
     picture: https://avatars.githubusercontent.com/t/3346384?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen"]
 ---
@@ -1031,7 +960,6 @@ spec:
   profile:
     displayName: GitHub Service User Approver
     picture: https://avatars.githubusercontent.com/t/3583781?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["sindrerh2", "leifljastad2", "JonSverre", "mariusostby"]
 ---
@@ -1045,7 +973,6 @@ spec:
   profile:
     displayName: gjenlevende
     picture: https://avatars.githubusercontent.com/t/2611965?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mammut89", "frodank", "paalfb", "999JackFlash"]
 ---
@@ -1059,7 +986,6 @@ spec:
   profile:
     displayName: helsearbeidsgiver
     picture: https://avatars.githubusercontent.com/t/3371609?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["tuxbear", "maccyber", "laukvik", "muladraa", "MrFjellstad", "sorvoja", "b162214"]
 ---
@@ -1073,7 +999,6 @@ spec:
   profile:
     displayName: helseopplysninger
     picture: https://avatars.githubusercontent.com/t/4034524?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mijohansen", "rtc11", "emyklebost", "mburgosh", "999JackFlash", "torchr89", "oyvindkar"]
 ---
@@ -1087,7 +1012,6 @@ spec:
   profile:
     displayName: historisk
     picture: https://avatars.githubusercontent.com/t/5106905?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["999JackFlash", "alexraknesnav"]
 ---
@@ -1101,7 +1025,6 @@ spec:
   profile:
     displayName: idm
     picture: https://avatars.githubusercontent.com/t/2903790?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["EivindStaff", "BjornarAarnes"]
 ---
@@ -1115,7 +1038,6 @@ spec:
   profile:
     displayName: Informasjon og veiledning
     picture: https://avatars.githubusercontent.com/t/2613830?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["terjeofnorway", "Robert-Larsen", "tobiasmcvey", "anders-nom", "PerOlavM", "EivindSkifjeld", "AudunSBerget"]
 ---
@@ -1129,7 +1051,6 @@ spec:
   profile:
     displayName: infotrygd
     picture: https://avatars.githubusercontent.com/t/2807278?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["richardmartinsen", "Janne-Nav", "tehekne", "alexraknesnav"]
 ---
@@ -1143,7 +1064,6 @@ spec:
   profile:
     displayName: integrasjon
     picture: https://avatars.githubusercontent.com/t/2677158?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["tronghn", "muladraa", "my-repo", "jon-disen", "ybelMekk", "muhammadrizwanakhtar", "andersbye", "sigbjornberntzen", "ashish190471"]
 ---
@@ -1157,7 +1077,6 @@ spec:
   profile:
     displayName: isa
     picture: https://avatars.githubusercontent.com/t/2903733?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["torerei", "keylw", "brox27", "SoreboNav", "jonuls"]
 ---
@@ -1171,7 +1090,6 @@ spec:
   profile:
     displayName: isoc-secops
     picture: https://avatars.githubusercontent.com/t/4341434?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["g129051", "RafalHolter", "harald-nav"]
 ---
@@ -1185,7 +1103,6 @@ spec:
   profile:
     displayName: JFB2019
     picture: https://avatars.githubusercontent.com/t/3240422?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["havstein", "mijohansen", "erlingjd", "arshadkamran", "Janne-Nav", "rinnan17", "Mort12Lander", "tehekne", "Stefuzi", "AnjaAalerud"]
 ---
@@ -1199,7 +1116,6 @@ spec:
   profile:
     displayName: JSD
     picture: https://avatars.githubusercontent.com/t/3542394?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["torgeirarnoy", "phoob", "KnuSle", "StaleKjone", "oyvindbuer", "jorgesti", "sigeve", "iftikharmahmood", "sigbjornberntzen", "Christian-Haslund", "sigrunr", "Stefuzi", "KristinaAsberg", "pba1979", "Oleste", "monaelis", "JorgenG-nav", "itsAftab", "TomHarald", "Corsinia", "BjornarAarnes", "oleheggdal"]
 ---
@@ -1227,7 +1143,6 @@ spec:
   profile:
     displayName: kafkaadmins
     picture: https://avatars.githubusercontent.com/t/2988149?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["davidsteinsland", "TheUnnamedDude", "ttnesby", "tronghn"]
 ---
@@ -1241,7 +1156,6 @@ spec:
   profile:
     displayName: klage
     picture: https://avatars.githubusercontent.com/t/3737703?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["flexable777", "haagenhasle", "cskrov", "oyvind-wedoe", "eriksson-daniel", "mahval", "richardborge"]
 ---
@@ -1255,7 +1169,6 @@ spec:
   profile:
     displayName: knada
     picture: https://avatars.githubusercontent.com/t/4094041?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["cteig", "Kyrremann", "pbencze", "Muni10", "erikvatt"]
 ---
@@ -1269,7 +1182,6 @@ spec:
   profile:
     displayName: komet
     picture: https://avatars.githubusercontent.com/t/5071457?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["izisfro", "einarbj", "AlexGaard", "magnusevnav"]
 ---
@@ -1283,7 +1195,6 @@ spec:
   profile:
     displayName: kuhr-helse
     picture: https://avatars.githubusercontent.com/t/2711509?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["SapoPer", "nicolaifriis-nav"]
 ---
@@ -1297,7 +1208,6 @@ spec:
   profile:
     displayName: linuximage
     picture: https://avatars.githubusercontent.com/t/2807305?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["davidsteinsland", "Kyrremann", "jksolbakken"]
 ---
@@ -1311,7 +1221,6 @@ spec:
   profile:
     displayName: medlemskap
     picture: https://avatars.githubusercontent.com/t/3548291?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["olekvernberg", "StianSDouzette", "hjmNav"]
 ---
@@ -1325,7 +1234,6 @@ spec:
   profile:
     displayName: meldekort
     picture: https://avatars.githubusercontent.com/t/2771734?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["audun-persson", "gskjeretNAV", "h139688", "l128633", "igorshuliakov"]
 ---
@@ -1339,7 +1247,6 @@ spec:
   profile:
     displayName: min-side
     picture: https://avatars.githubusercontent.com/t/4777186?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["erlendev", "Robert-Larsen", "greger-nl", "sasoria", "VanessaKjK", "eivinne", "chris-santa", "Amirhlotfi"]
 ---
@@ -1353,7 +1260,6 @@ spec:
   profile:
     displayName: mnemosyne
     picture: https://avatars.githubusercontent.com/t/3315395?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["joakibj", "JoakimBor"]
 ---
@@ -1367,7 +1273,6 @@ spec:
   profile:
     displayName: MobilArbeidsplass
     picture: https://avatars.githubusercontent.com/t/2614482?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -1381,7 +1286,6 @@ spec:
   profile:
     displayName: nada
     picture: https://avatars.githubusercontent.com/t/5202720?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jhrv", "cteig", "toresbe", "Kyrremann", "audunstrand", "gorzan", "frodesundby", "andregroseth", "JeremiahUy", "erikvatt", "bentelbusch", "vebjorre", "thokra-nav"]
 ---
@@ -1395,7 +1299,6 @@ spec:
   profile:
     displayName: nais
     picture: https://avatars.githubusercontent.com/t/4494555?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "mortenlj", "jhrv", "ambientsound", "Sechmann", "cteig", "toresbe", "toby1knby", "Kyrremann", "rbjornstad", "audunstrand", "chinatsu", "Muni10", "tronghn", "gorzan", "frodesundby", "terjesannum", "tommytroen", "ybelMekk", "sindrerh2", "andersbye", "thokra-nav"]
 ---
@@ -1409,7 +1312,6 @@ spec:
   profile:
     displayName: nais-analyse
     picture: https://avatars.githubusercontent.com/t/4454038?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["trulsjor", "ambientsound", "audunstrand", "gorzan"]
 ---
@@ -1423,7 +1325,6 @@ spec:
   profile:
     displayName: nais-billing
     picture: https://avatars.githubusercontent.com/t/4040237?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["audunstrand", "gorzan", "bentelbusch"]
 ---
@@ -1437,7 +1338,6 @@ spec:
   profile:
     displayName: nais-mac-mgmt
     picture: https://avatars.githubusercontent.com/t/4295197?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "toby1knby"]
 ---
@@ -1451,7 +1351,6 @@ spec:
   profile:
     displayName: naisdevice
     picture: https://avatars.githubusercontent.com/t/3918296?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "jhrv", "Sechmann", "toby1knby"]
 ---
@@ -1465,7 +1364,6 @@ spec:
   profile:
     displayName: NAV Developers
     picture: https://avatars.githubusercontent.com/t/3399161?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "jhsveli", "christianmosveen", "Lillebo", "hholmste", "davidsteinsland", "havstein", "LarsErikDahl", "kenglxn", "trulsjor", "geiralund", "frode-carlsen", "frodeli", "thomasdufourd", "walberg", "tuxbear", "RuneLind", "janeirik", "charliemidtlyng", "frodehansen2", "flexable777", "matsbyfl", "NunoCardoso", "androa", "mijohansen", "mhellevang", "glennwedin", "atleno", "miceiken", "Jocumsen", "maccyber", "x10an14", "laukvik", "mortenlj", "jhrv", "peterbb", "ambientsound", "pstensby", "mtarnes", "torgeirarnoy", "akgagnat", "jonalu", "blommish", "juneih", "izisfro", "dijjal", "Sechmann", "rtc11", "arakvaag", "hestad", "EspenSchei", "chfosli", "cteig", "haagenhasle", "stigebil", "olejri", "dervism", "TheUnnamedDude", "Watercolours", "hakhag", "andreasDev", "mbolstad", "fraadsbrandth", "pjwalstrom", "jejohnsen", "urenhale", "palfi", "holymaloney", "langvatn", "Assios", "nutgaard", "giosohaib", "terjeofnorway", "kjarbr", "knutnyg", "phoob", "ekun", "erlendev", "ingara", "tlheen", "ChristofferKarlsson", "Robert-Larsen", "torstenk", "kmork", "toresbe", "cyanboy", "toby1knby", "stowre", "Kyrremann", "matiasvinjevoll", "andnorda", "thawi", "kgunnerud", "emyklebost", "zrrrzzt", "espenbago", "AndreasDybdahl", "lundepm", "theasteen", "ttnesby"]
 ---
@@ -1479,7 +1377,6 @@ spec:
   profile:
     displayName: nav-frontend-admins
     picture: https://avatars.githubusercontent.com/t/2366691?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Lillebo", "nutgaard", "erlendev", "andnorda", "KenAJoh"]
 ---
@@ -1493,7 +1390,6 @@ spec:
   profile:
     displayName: NAV-labs
     picture: https://avatars.githubusercontent.com/t/1813551?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -1507,7 +1403,6 @@ spec:
   profile:
     displayName: navdig
     picture: https://avatars.githubusercontent.com/t/4788987?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Christian-Haugland", "larsLotNav", "bjorg-vigdal", "OrleneMitchell"]
 ---
@@ -1521,7 +1416,6 @@ spec:
   profile:
     displayName: Navet
     picture: https://avatars.githubusercontent.com/t/4029781?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["phoob"]
 ---
@@ -1535,7 +1429,6 @@ spec:
   profile:
     displayName: nom
     picture: https://avatars.githubusercontent.com/t/3603267?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["RoyGrini", "MugunthanD", "benthold94", "MenuaArmen", "danishnav", "erik-a-e", "aharnes-nav"]
 ---
@@ -1549,7 +1442,6 @@ spec:
   profile:
     displayName: obo
     picture: https://avatars.githubusercontent.com/t/5076255?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matiasvinjevoll", "stianStensli", "emildohlenhansen", "karihamnes", "dragutin-nav", "Mathiamu"]
 ---
@@ -1563,7 +1455,6 @@ spec:
   profile:
     displayName: okonomi
     picture: https://avatars.githubusercontent.com/t/3027320?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Helge90", "aflaten", "vidhyarini", "mbrandsd", "KenDahle", "SteinarHansen71", "SpennendeBingo", "PalRokke", "navperbirg", "jeeveshmishranav", "gadnanes64", "JannekeNess"]
 ---
@@ -1577,7 +1468,6 @@ spec:
   profile:
     displayName: omrade-arbeid
     picture: https://avatars.githubusercontent.com/t/4061202?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["gtcno"]
 ---
@@ -1591,7 +1481,6 @@ spec:
   profile:
     displayName: omsorgspenger
     picture: https://avatars.githubusercontent.com/t/3895315?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["fraadsbrandth", "qtips", "stiangre", "helganyrud", "alexraknesnav", "albrektsson", "espennav", "eras-dev"]
 ---
@@ -1605,7 +1494,6 @@ spec:
   profile:
     displayName: opendata
     picture: https://avatars.githubusercontent.com/t/2813705?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "audunstrand", "gorzan", "sonhal", "erikvatt", "lljorgeluis", "Anne-Marthe", "mariacabrol"]
 ---
@@ -1619,7 +1507,6 @@ spec:
   profile:
     displayName: Oppfølging
     picture: https://avatars.githubusercontent.com/t/2823932?s=400&amp;v=4
-  parent: ""
   children: ["oppfolging-person"]
   members: ["janeirik", "izisfro", "nutgaard", "AlexGaard", "sneha-d-desai", "hakonph", "richardborge"]
 ---
@@ -1647,7 +1534,6 @@ spec:
   profile:
     displayName: oppgavehandtering
     picture: https://avatars.githubusercontent.com/t/2802292?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["torerei", "OyvindRoth", "geirerlandsen", "sondreberdal"]
 ---
@@ -1661,7 +1547,6 @@ spec:
   profile:
     displayName: org
     picture: https://avatars.githubusercontent.com/t/3892391?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["RoyGrini", "benthold94", "MenuaArmen", "erik-a-e", "aharnes-nav"]
 ---
@@ -1675,7 +1560,6 @@ spec:
   profile:
     displayName: orkestrator
     picture: https://avatars.githubusercontent.com/t/3310147?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["langvatn", "krharum", "H153910", "stigus"]
 ---
@@ -1689,7 +1573,6 @@ spec:
   profile:
     displayName: Ortok
     picture: https://avatars.githubusercontent.com/t/3377560?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -1703,7 +1586,6 @@ spec:
   profile:
     displayName: OstViken
     picture: https://avatars.githubusercontent.com/t/4129257?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["EspenRosenquist"]
 ---
@@ -1717,7 +1599,6 @@ spec:
   profile:
     displayName: pais
     picture: https://avatars.githubusercontent.com/t/3524456?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["muladraa", "ybelMekk"]
 ---
@@ -1731,7 +1612,6 @@ spec:
   profile:
     displayName: paranoia
     picture: https://avatars.githubusercontent.com/t/3073752?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["frodank", "paalfb", "999JackFlash", "espengjostol", "r154508", "Hallaraker", "AgneHesten", "YunHuang-Nav", "TimAa-nav-dev", "rittikdey"]
 ---
@@ -1745,7 +1625,6 @@ spec:
   profile:
     displayName: paw
     picture: https://avatars.githubusercontent.com/t/3359912?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jhsveli", "zrrrzzt", "sonwit", "tormodbergum", "jrtm", "theagilepadawan", "beatesi", "Livelulu"]
 ---
@@ -1759,7 +1638,6 @@ spec:
   profile:
     displayName: pdl
     picture: https://avatars.githubusercontent.com/t/3547811?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["rituvesh", "ODDminus1", "72656e65", "janemariefjaereide", "odinnaver", "HanneFSivle", "annearvola", "l139533", "RandiAasen", "hakon-underdal", "dipeshpradhan"]
 ---
@@ -1773,7 +1651,6 @@ spec:
   profile:
     displayName: pdlfullmakt
     picture: https://avatars.githubusercontent.com/t/3354634?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["rituvesh", "72656e65", "janemariefjaereide", "l139533", "RandiAasen", "espenness"]
 ---
@@ -1787,7 +1664,6 @@ spec:
   profile:
     displayName: pdlprod
     picture: https://avatars.githubusercontent.com/t/3587827?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["rituvesh", "ODDminus1", "72656e65", "janemariefjaereide", "odinnaver", "l139533"]
 ---
@@ -1801,7 +1677,6 @@ spec:
   profile:
     displayName: penregler
     picture: https://avatars.githubusercontent.com/t/4324724?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["paomoo", "Scolev", "ehellerslien", "magnnord", "jSchiefloe"]
 ---
@@ -1815,7 +1690,6 @@ spec:
   profile:
     displayName: pensjon-person
     picture: https://avatars.githubusercontent.com/t/5160051?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pcmoen", "henrikolsvik", "magnuvau", "Phelcl", "PetterLowzow"]
 ---
@@ -1829,7 +1703,6 @@ spec:
   profile:
     displayName: pensjondeployer
     picture: https://avatars.githubusercontent.com/t/3588304?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["urenhale", "pcmoen", "MariusEriksen", "dainiusfigoras", "magnuvau", "oyvindbuer", "jorgesti", "mortennormann", "ehellerslien", "AskestadEivind", "espengjostol", "eirikmol", "ArturPiatkowski-NAVIKT"]
 ---
@@ -1843,7 +1716,6 @@ spec:
   profile:
     displayName: pensjonopptjening
     picture: https://avatars.githubusercontent.com/t/4526407?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["urenhale", "oyvindbuer", "AskestadEivind"]
 ---
@@ -1857,7 +1729,6 @@ spec:
   profile:
     displayName: pensjonpersondialog
     picture: https://avatars.githubusercontent.com/t/3717047?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["espengjostol", "r154508"]
 ---
@@ -1871,7 +1742,6 @@ spec:
   profile:
     displayName: pensjonsaksbehandling
     picture: https://avatars.githubusercontent.com/t/3524484?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["LarsErikDahl", "MariusEriksen", "andrewass", "emil323", "ehellerslien", "steinshe", "KimandrenaessNAV"]
 ---
@@ -1885,7 +1755,6 @@ spec:
   profile:
     displayName: pensjonsamhandling
     picture: https://avatars.githubusercontent.com/t/3588308?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["urenhale", "mammut89", "pcmoen", "MariusEriksen", "frodank", "dainiusfigoras", "randijust", "paalfb", "TheMather1", "MartinVKN", "magnuvau", "oyvindbuer", "AskestadEivind", "eirikmol"]
 ---
@@ -1899,7 +1768,6 @@ spec:
   profile:
     displayName: pensjonsbrev
     picture: https://avatars.githubusercontent.com/t/3885353?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["hconhegg", "AgneHesten", "routsi", "e136581"]
 ---
@@ -1913,7 +1781,6 @@ spec:
   profile:
     displayName: pensjonselvbetjening
     picture: https://avatars.githubusercontent.com/t/3885322?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["espengjostol", "r154508", "rittikdey", "sebassonav"]
 ---
@@ -1927,7 +1794,6 @@ spec:
   profile:
     displayName: pensjontestdata
     picture: https://avatars.githubusercontent.com/t/3704723?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["antonfofanov", "HelgeJanbu", "eirikmol"]
 ---
@@ -1941,7 +1807,6 @@ spec:
   profile:
     displayName: pentest
     picture: https://avatars.githubusercontent.com/t/3261511?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -1955,7 +1820,6 @@ spec:
   profile:
     displayName: permittering-og-nedbemanning
     picture: https://avatars.githubusercontent.com/t/4796892?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["andrmos", "mattiaslundmark", "hildeheggstad"]
 ---
@@ -1969,7 +1833,6 @@ spec:
   profile:
     displayName: personbruker
     picture: https://avatars.githubusercontent.com/t/2687185?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["trulsjor", "terjeofnorway", "erlendev", "Robert-Larsen", "greger-nl", "sasoria", "tobiasmcvey", "bjornhun", "anders-nom", "PerOlavM", "ToneEriksen", "jannebye", "Olavrusten", "VanessaKjK", "EivindSkifjeld", "eivinne", "ojnybo", "chrisarnesen", "chris-santa", "Laier68", "TuvaSverdstad", "ingridhaland", "AudunSBerget", "Amirhlotfi"]
 ---
@@ -1983,7 +1846,6 @@ spec:
   profile:
     displayName: Personopplysninger
     picture: https://avatars.githubusercontent.com/t/3099777?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -1997,7 +1859,6 @@ spec:
   profile:
     displayName: personoversikt
     picture: https://avatars.githubusercontent.com/t/3191683?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["janeirik", "nutgaard", "olofab", "vildestefferud", "eirikdahlen", "runeandersennav"]
 ---
@@ -2011,7 +1872,6 @@ spec:
   profile:
     displayName: pesys
     picture: https://avatars.githubusercontent.com/t/2952453?s=400&amp;v=4
-  parent: ""
   children: ["drage"]
   members: ["mammut89", "mortennormann"]
 ---
@@ -2025,7 +1885,6 @@ spec:
   profile:
     displayName: petra-hr-chatbot
     picture: https://avatars.githubusercontent.com/t/4324601?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["henrikpaulsen", "aharnes-nav"]
 ---
@@ -2039,7 +1898,6 @@ spec:
   profile:
     displayName: pig-aiven
     picture: https://avatars.githubusercontent.com/t/4014772?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "mortenlj", "jhrv", "ambientsound", "Sechmann", "toresbe", "Kyrremann", "tronghn", "terjesannum", "sonhal", "ybelMekk"]
 ---
@@ -2053,7 +1911,6 @@ spec:
   profile:
     displayName: pig-deployment
     picture: https://avatars.githubusercontent.com/t/4527883?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mortenlj", "jhrv", "ambientsound"]
 ---
@@ -2067,7 +1924,6 @@ spec:
   profile:
     displayName: pig-kubeops
     picture: https://avatars.githubusercontent.com/t/4527931?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jhrv", "frodesundby"]
 ---
@@ -2081,7 +1937,6 @@ spec:
   profile:
     displayName: pig-sikkerhet
     picture: https://avatars.githubusercontent.com/t/4527899?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["x10an14", "tronghn", "jksolbakken", "tommytroen", "ybelMekk", "sindrerh2", "andersbye"]
 ---
@@ -2095,7 +1950,6 @@ spec:
   profile:
     displayName: pig-utvikleropplevelse
     picture: https://avatars.githubusercontent.com/t/4527942?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "mortenlj", "toby1knby"]
 ---
@@ -2109,7 +1963,6 @@ spec:
   profile:
     displayName: pim
     picture: https://avatars.githubusercontent.com/t/2801123?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mjeh", "jon-disen"]
 ---
@@ -2123,7 +1976,6 @@ spec:
   profile:
     displayName: plattform
     picture: https://avatars.githubusercontent.com/t/3295304?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "matsbyfl", "jhrv", "ambientsound", "Sechmann", "TheUnnamedDude", "toby1knby", "Kyrremann", "ttnesby", "rbjornstad", "gtcno", "audunstrand", "Muni10", "tronghn", "gorzan", "jorgen75", "linemos", "frodesundby", "terjesannum", "tommytroen", "sindrerh2", "hjendal", "royag-nav", "RafalHolter", "andersbye"]
 ---
@@ -2137,7 +1989,6 @@ spec:
   profile:
     displayName: plattformsikkerhet
     picture: https://avatars.githubusercontent.com/t/3112919?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["tronghn", "jksolbakken", "tommytroen", "ybelMekk", "sindrerh2", "EivindStaff", "andersbye"]
 ---
@@ -2151,7 +2002,6 @@ spec:
   profile:
     displayName: pleiepenger
     picture: https://avatars.githubusercontent.com/t/4153401?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["frodeli", "fraadsbrandth", "ekun", "erlendev", "stiangre", "boerta", "vebnor", "baskevold", "christofferlohne", "hallvardastark", "espennav"]
 ---
@@ -2165,7 +2015,6 @@ spec:
   profile:
     displayName: plzremove-testing
     picture: https://avatars.githubusercontent.com/t/4863369?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["frodesundby"]
 ---
@@ -2179,7 +2028,6 @@ spec:
   profile:
     displayName: pto
     picture: https://avatars.githubusercontent.com/t/3377335?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["izisfro", "holymaloney", "matiasvinjevoll", "steffeli", "theahj", "rfc3092", "einarbj", "marcjas", "AlexGaard", "stianStensli", "emildohlenhansen", "taniaholst", "sneha-d-desai", "hakonph", "klaramargrethehelgemo", "SolviAndersen", "ElinNav", "bredeingar", "karihamnes", "dragutin-nav", "magnusevnav", "Mathiamu"]
 ---
@@ -2193,7 +2041,6 @@ spec:
   profile:
     displayName: ptsak
     picture: https://avatars.githubusercontent.com/t/2960505?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["iwframne", "stineot", "RigmorLindberg", "akinavit", "lfekete", "kr1570ff3r"]
 ---
@@ -2207,7 +2054,6 @@ spec:
   profile:
     displayName: pus
     picture: https://avatars.githubusercontent.com/t/2561284?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["nutgaard", "matiasvinjevoll", "AlexGaard", "hakonph"]
 ---
@@ -2221,7 +2067,6 @@ spec:
   profile:
     displayName: redaktører
     picture: https://avatars.githubusercontent.com/t/2681640?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jannebye", "Olavrusten"]
 ---
@@ -2235,7 +2080,6 @@ spec:
   profile:
     displayName: registre
     picture: https://avatars.githubusercontent.com/t/2906151?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["langvatn", "kgunnerud", "Oddsor", "ThomasKasene", "krharum", "jonvegards", "rituvesh", "RoyGrini", "henrikkol", "ODDminus1", "72656e65", "janemariefjaereide", "reidarkjoslien", "odinnaver", "benthold94", "B152472", "nicolaetecusan", "KnutArildSlaatsve", "MenuaArmen", "FredrikLygreBergesen", "sarah-rayfuse", "faleri72", "h153755", "l139533", "janitamarielle", "erik-a-e", "stigus"]
 ---
@@ -2249,7 +2093,6 @@ spec:
   profile:
     displayName: risk
     picture: https://avatars.githubusercontent.com/t/3619618?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["havstein", "andersostby", "jonvegards", "royag-nav", "JorgenSJ", "wilhelmstoren"]
 ---
@@ -2263,7 +2106,6 @@ spec:
   profile:
     displayName: RPA
     picture: https://avatars.githubusercontent.com/t/3314083?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -2277,7 +2119,6 @@ spec:
   profile:
     displayName: samordning
     picture: https://avatars.githubusercontent.com/t/2675137?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["LarsErikDahl", "mammut89", "frodank"]
 ---
@@ -2291,7 +2132,6 @@ spec:
   profile:
     displayName: security-champion-admin
     picture: https://avatars.githubusercontent.com/t/4878845?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["trulsjor", "stowre", "jksolbakken", "nonfiction83", "jrtm", "sonhal"]
 ---
@@ -2305,7 +2145,6 @@ spec:
   profile:
     displayName: selvbetjening-core
     picture: https://avatars.githubusercontent.com/t/2576971?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["trulsjor", "jksolbakken"]
 ---
@@ -2319,7 +2158,6 @@ spec:
   profile:
     displayName: skjemadigitalisering
     picture: https://avatars.githubusercontent.com/t/3664081?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["akgagnat", "rrsslnd", "it-vegard", "Christian-Haslund", "magnurh-cx", "wen7i"]
 ---
@@ -2333,7 +2171,6 @@ spec:
   profile:
     displayName: Sosialtjenester
     picture: https://avatars.githubusercontent.com/t/3005089?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["tiafiring", "woldena", "sturleh"]
 ---
@@ -2347,7 +2184,6 @@ spec:
   profile:
     displayName: supstonad
     picture: https://avatars.githubusercontent.com/t/3666646?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christianmosveen", "hestad", "ingara", "jacob-meidell", "simejo", "richardmartinsen", "aryani1", "RamziAbuQassim"]
 ---
@@ -2361,7 +2197,6 @@ spec:
   profile:
     displayName: supstonadx
     picture: https://avatars.githubusercontent.com/t/3547894?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["hholmste", "havstein", "jksolbakken", "jacob-meidell", "StefanEngelien-Nav", "RamziAbuQassim"]
 ---
@@ -2375,7 +2210,6 @@ spec:
   profile:
     displayName: syfoveden
     picture: https://avatars.githubusercontent.com/t/3439413?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -2389,7 +2223,6 @@ spec:
   profile:
     displayName: sykdom-i-familien
     picture: https://avatars.githubusercontent.com/t/3465362?s=400&amp;v=4
-  parent: ""
   children: ["dusseldorf"]
   members: ["frodeli", "frodehansen2", "olejri", "fraadsbrandth", "ekun", "erlendev", "qtips", "espenjv", "stiangre", "ramrock93", "boerta", "vebnor", "baskevold", "pekern", "tendestad", "helganyrud", "christofferlohne", "haldersaikat", "alexraknesnav", "hallvardastark", "SanderOpperud", "albrektsson", "espennav", "poroshinaleksei", "eras-dev"]
 ---
@@ -2403,7 +2236,6 @@ spec:
   profile:
     displayName: synt
     picture: https://avatars.githubusercontent.com/t/3112847?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["H153910"]
 ---
@@ -2417,7 +2249,6 @@ spec:
   profile:
     displayName: tbd
     picture: https://avatars.githubusercontent.com/t/3191640?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["hholmste", "davidsteinsland", "havstein", "trulsjor", "pstensby", "mtarnes", "TheUnnamedDude", "fraadsbrandth", "knutnyg", "audunstrand", "fredinge", "andersostby", "stephenramthun", "jksolbakken", "jonashas", "sindrebroch", "sonhal", "V1adau", "steinsho", "Simenullern", "ejgal", "hegehaav", "Mort12Lander", "mariacabrol", "ninabakken", "chsko"]
 ---
@@ -2459,7 +2290,6 @@ spec:
   profile:
     displayName: Team Service Manamgenet
     picture: https://avatars.githubusercontent.com/t/3597314?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pba1979"]
 ---
@@ -2487,7 +2317,6 @@ spec:
   profile:
     displayName: team-ai
     picture: https://avatars.githubusercontent.com/t/5060107?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Majjki", "nimajimale", "fridtjofalestrom", "AlexanderamiriNAV"]
 ---
@@ -2501,7 +2330,6 @@ spec:
   profile:
     displayName: team-atom
     picture: https://avatars.githubusercontent.com/t/4234214?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Christergabba", "twincarlin", "errordodge", "mariusse", "havtro", "arwear", "Jonas-Juvet"]
 ---
@@ -2515,7 +2343,6 @@ spec:
   profile:
     displayName: team-database
     picture: https://avatars.githubusercontent.com/t/4367275?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["karlheinz1", "navhcl"]
 ---
@@ -2529,7 +2356,6 @@ spec:
   profile:
     displayName: team-dialog
     picture: https://avatars.githubusercontent.com/t/4513889?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["johnforeland", "suddal", "frodehoen", "bjornhagglund"]
 ---
@@ -2543,7 +2369,6 @@ spec:
   profile:
     displayName: team-diskriminering
     picture: https://avatars.githubusercontent.com/t/4882214?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jonvegards", "lljorgeluis", "AlexanderamiriNAV", "krithika14051989", "magnusborsting", "jorgennavjord"]
 ---
@@ -2557,7 +2382,6 @@ spec:
   profile:
     displayName: team-emottak
     picture: https://avatars.githubusercontent.com/t/4723659?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["herrepeder", "my-repo", "thburnett", "sigbjornberntzen", "mzielins72", "h103822", "RettIProd"]
 ---
@@ -2571,7 +2395,6 @@ spec:
   profile:
     displayName: team-esyfo
     picture: https://avatars.githubusercontent.com/t/4531825?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["janzh", "Vitenok", "luantr", "torchr89", "Falchn", "kaja-nav", "AudunSorheim"]
 ---
@@ -2585,7 +2408,6 @@ spec:
   profile:
     displayName: team-finansiell-styringsinfo
     picture: https://avatars.githubusercontent.com/t/4301446?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["henrikpaulsen", "iwframne"]
 ---
@@ -2599,7 +2421,6 @@ spec:
   profile:
     displayName: team-innhold
     picture: https://avatars.githubusercontent.com/t/4853738?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["miceiken"]
 ---
@@ -2613,7 +2434,6 @@ spec:
   profile:
     displayName: team-innsending
     picture: https://avatars.githubusercontent.com/t/4337642?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["nutgaard", "alpet", "sturleh", "sjoblomjsqueed", "Thomas-CT", "oivindkulsrud", "nils-arne", "runeandersennav"]
 ---
@@ -2627,7 +2447,6 @@ spec:
   profile:
     displayName: team-inntekt
     picture: https://avatars.githubusercontent.com/t/4446905?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["B152472", "FredrikLygreBergesen"]
 ---
@@ -2641,7 +2460,6 @@ spec:
   profile:
     displayName: team-krigspensjon
     picture: https://avatars.githubusercontent.com/t/4908021?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["antonfofanov", "pcmoen", "eirikmol"]
 ---
@@ -2655,7 +2473,6 @@ spec:
   profile:
     displayName: team-match
     picture: https://avatars.githubusercontent.com/t/4882217?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jonvegards", "miclindb", "erikvatt", "lljorgeluis", "wilhelmstoren", "AlexanderamiriNAV", "magnusborsting", "helenerandiNav"]
 ---
@@ -2669,7 +2486,6 @@ spec:
   profile:
     displayName: team-oebs
     picture: https://avatars.githubusercontent.com/t/4491281?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["bougrNAV"]
 ---
@@ -2683,7 +2499,6 @@ spec:
   profile:
     displayName: team-ohana
     picture: https://avatars.githubusercontent.com/t/4872368?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["andrewass", "emil323", "KimandrenaessNAV", "arefsahl", "hakonrd"]
 ---
@@ -2697,7 +2512,6 @@ spec:
   profile:
     displayName: team-registerforvaltning-rpa
     picture: https://avatars.githubusercontent.com/t/5278762?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["LarsRT", "TomHarald"]
 ---
@@ -2711,7 +2525,6 @@ spec:
   profile:
     displayName: team-rocket
     picture: https://avatars.githubusercontent.com/t/4153902?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["ThomasKasene", "oldriv", "B152472"]
 ---
@@ -2725,7 +2538,6 @@ spec:
   profile:
     displayName: team-rpa
     picture: https://avatars.githubusercontent.com/t/4959095?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["SindreOhm", "Raheelakh"]
 ---
@@ -2739,7 +2551,6 @@ spec:
   profile:
     displayName: team-service-management
     picture: https://avatars.githubusercontent.com/t/4825993?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Stefuzi", "pba1979"]
 ---
@@ -2753,7 +2564,6 @@ spec:
   profile:
     displayName: team-sifinntektsmelding
     picture: https://avatars.githubusercontent.com/t/4927969?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["fraadsbrandth", "albrektsson"]
 ---
@@ -2767,7 +2577,6 @@ spec:
   profile:
     displayName: team-sigma
     picture: https://avatars.githubusercontent.com/t/4301445?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["henrikpaulsen", "stfolkvo", "fredrik-knoph-kvamme", "lfekete", "erik-a-e", "jornatlehusbyn"]
 ---
@@ -2781,7 +2590,6 @@ spec:
   profile:
     displayName: team-soknad
     picture: https://avatars.githubusercontent.com/t/2726691?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["alpet", "sturleh", "sjoblomjsqueed", "Thomas-CT", "oivindkulsrud", "nils-arne", "runeandersennav"]
 ---
@@ -2795,7 +2603,6 @@ spec:
   profile:
     displayName: team-tillit
     picture: https://avatars.githubusercontent.com/t/5285003?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["LeifTore", "Line-Langlo-Spongsveen"]
 ---
@@ -2809,7 +2616,6 @@ spec:
   profile:
     displayName: team-valp
     picture: https://avatars.githubusercontent.com/t/4921608?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["steffeli", "taniaholst"]
 ---
@@ -2823,7 +2629,6 @@ spec:
   profile:
     displayName: teamabac
     picture: https://avatars.githubusercontent.com/t/4485675?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jhrv", "tronghn", "jksolbakken", "frodesundby", "tommytroen", "ybelMekk", "andersbye", "ashish190471"]
 ---
@@ -2837,7 +2642,6 @@ spec:
   profile:
     displayName: teamarenanais
     picture: https://avatars.githubusercontent.com/t/2797402?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["n127598", "audun-persson", "mkjeldsr", "gskjeretNAV", "SteinAndersenNAV", "h139688", "R144167", "v109877", "M133747", "l128633", "jinjinsong"]
 ---
@@ -2851,7 +2655,6 @@ spec:
   profile:
     displayName: teamccm
     picture: https://avatars.githubusercontent.com/t/4875710?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["maxguld", "sigvarr", "Corsinia", "Sidskjegg"]
 ---
@@ -2865,7 +2668,6 @@ spec:
   profile:
     displayName: teamcoronapenger
     picture: https://avatars.githubusercontent.com/t/3718979?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["audisaudisaudis", "torbjornmartinsen"]
 ---
@@ -2879,7 +2681,6 @@ spec:
   profile:
     displayName: teamcrm
     picture: https://avatars.githubusercontent.com/t/3543111?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["chfosli", "frodehoen", "bjornhagglund"]
 ---
@@ -2893,7 +2694,6 @@ spec:
   profile:
     displayName: teamdagpenger
     picture: https://avatars.githubusercontent.com/t/2639665?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["geiralund", "androa", "atleno", "gtcno", "MariusEriksen", "ssaegrov", "kmriise", "tonjemjovik", "mariacabrol", "espenjohansen", "rannveigskjerve", "magnefjeld", "celinetendam", "martefroyen", "ingridhaland", "amundcx", "Elinvethe", "Eivind833"]
 ---
@@ -2907,7 +2707,6 @@ spec:
   profile:
     displayName: teamdatajegerne
     picture: https://avatars.githubusercontent.com/t/3320218?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["shayany", "jmfurseth", "andregroseth", "JeremiahUy", "MugunthanD", "danishnav", "PaulMartinKokseter"]
 ---
@@ -2921,7 +2720,6 @@ spec:
   profile:
     displayName: teamdi
     picture: https://avatars.githubusercontent.com/t/4256605?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "erikvatt", "SimenRafdal", "mjdioli", "lljorgeluis"]
 ---
@@ -2935,7 +2733,6 @@ spec:
   profile:
     displayName: teamdigihot
     picture: https://avatars.githubusercontent.com/t/3520664?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matsbyfl", "hakhag", "kristoiv", "olesls", "anostoga", "di0nys1us", "erlingjd", "gustavli", "arshadkamran", "KristinDigiHoT", "monicamy72"]
 ---
@@ -2949,7 +2746,6 @@ spec:
   profile:
     displayName: teamdigisos
     picture: https://avatars.githubusercontent.com/t/2442344?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mrbjoern", "linemos", "idaons", "martintveter", "liepelt089", "perchrnie", "joeldlin", "LovConst", "ElenaDubinina593"]
 ---
@@ -2963,7 +2759,6 @@ spec:
   profile:
     displayName: teamdigisos-sommer
     picture: https://avatars.githubusercontent.com/t/3909508?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mrbjoern"]
 ---
@@ -2977,7 +2772,6 @@ spec:
   profile:
     displayName: teamdokumenthandtering
     picture: https://avatars.githubusercontent.com/t/3588236?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["joakibj", "avoldsund", "tsigab", "alexander-haugli", "TimAa-nav-dev", "Oslo333", "JoakimBor", "L145025", "hakonsnotun"]
 ---
@@ -2991,7 +2785,6 @@ spec:
   profile:
     displayName: teameresept
     picture: https://avatars.githubusercontent.com/t/3588242?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["dagframstad", "cpettersen", "espenalbertvikskjold"]
 ---
@@ -3005,7 +2798,6 @@ spec:
   profile:
     displayName: teamfamilie
     picture: https://avatars.githubusercontent.com/t/3194825?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["charliemidtlyng", "blommish", "stigebil", "Assios", "hensol", "oyvindhagen", "MengZhuNAV", "daphneleebeek", "henninghaakonsen", "norakf", "MarcusGustafson74", "woldena", "halvorbmundal", "eirarset", "idaame", "ViktorGSolberg", "olekvernberg", "haldersaikat", "tnarland", "EAamli", "nav-jorn-ola-birkeland", "toresletten", "ma10s", "bent-lorentzen", "throndi", "grmoen-nav", "bjornsnoen-nav"]
 ---
@@ -3019,7 +2811,6 @@ spec:
   profile:
     displayName: Teamforeldrepenger
     picture: https://avatars.githubusercontent.com/t/3309960?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["dijjal", "jejohnsen", "palfi", "ekun", "AndreasDybdahl", "mrsladek", "espenjv", "espenwaaga", "pekern", "tor-nav", "tendestad", "jolarsen", "S133875", "sigrunr", "AnjaAalerud", "espennav", "KristinJacob", "jan-olaveide", "cecilhoi"]
 ---
@@ -3033,7 +2824,6 @@ spec:
   profile:
     displayName: teamfrikort
     picture: https://avatars.githubusercontent.com/t/3588248?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["arakvaag", "steinarhaug", "asmirbiscevic", "n137217", "Asgeiraan"]
 ---
@@ -3047,7 +2837,6 @@ spec:
   profile:
     displayName: teamgjertsen
     picture: https://avatars.githubusercontent.com/t/3588252?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -3061,7 +2850,6 @@ spec:
   profile:
     displayName: teamgovernance
     picture: https://avatars.githubusercontent.com/t/4024216?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jholmse"]
 ---
@@ -3075,7 +2863,6 @@ spec:
   profile:
     displayName: teamhelse
     picture: https://avatars.githubusercontent.com/t/2936891?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["davidsteinsland", "andersostby", "Lilyngs", "Mort12Lander", "cbroark", "ninabakken"]
 ---
@@ -3089,7 +2876,6 @@ spec:
   profile:
     displayName: teamia
     picture: https://avatars.githubusercontent.com/t/4775582?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["thomasdufourd", "Brunarspunar", "erlend-axelsson", "MalazAlkoj"]
 ---
@@ -3103,7 +2889,6 @@ spec:
   profile:
     displayName: teamkuhr
     picture: https://avatars.githubusercontent.com/t/3485127?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["SapoPer", "nicolaifriis-nav", "g102907", "kentjo", "oleklokkhammer"]
 ---
@@ -3117,7 +2902,6 @@ spec:
   profile:
     displayName: teamloennskomp
     picture: https://avatars.githubusercontent.com/t/4706221?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["fredrikpe", "hbleness", "catriont", "ulrikah", "StefanEngelien-Nav", "KarlEvaldNav", "EmilGronnbeck"]
 ---
@@ -3131,7 +2915,6 @@ spec:
   profile:
     displayName: teammarvel
     picture: https://avatars.githubusercontent.com/t/3739458?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["KnuSle", "SveinOpsahl", "l105669", "H151866", "JoTiNAV", "KaKiNAV", "t152335", "itsAftab"]
 ---
@@ -3145,7 +2928,6 @@ spec:
   profile:
     displayName: teammelosys
     picture: https://avatars.githubusercontent.com/t/2501729?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["RuneLind", "lundepm", "bergande", "Wanghattan", "frans-a", "LarsLoeken", "JohanSakshaug", "janitamarielle", "martonSkjevelandNav", "Jonas-J"]
 ---
@@ -3159,7 +2941,6 @@ spec:
   profile:
     displayName: teamnks
     picture: https://avatars.githubusercontent.com/t/4128493?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["bjornhagglund"]
 ---
@@ -3173,7 +2954,6 @@ spec:
   profile:
     displayName: teampam
     picture: https://avatars.githubusercontent.com/t/3497149?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jonalu", "ChristofferKarlsson", "pbencze", "oyvindstegard", "einarbj", "magnusesp", "EdvardGB", "tengvig", "yongbinkwon", "otenav", "bjornarne", "tuantrannav", "SimenRafdal", "lljorgeluis", "jjtg-nav", "gunnskj", "hakonfredrik", "oysbak", "marthehagen", "mnhhd", "larseirikhansen", "ahandeland-nav"]
 ---
@@ -3187,7 +2967,6 @@ spec:
   profile:
     displayName: teampensjon
     picture: https://avatars.githubusercontent.com/t/3373596?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christianmosveen", "LarsErikDahl", "NunoCardoso", "hestad", "Watercolours", "pjwalstrom", "urenhale", "ingara", "mammut89", "olesls", "antonfofanov", "eziztm", "pcmoen", "jacob-meidell", "dskarpas", "MariusEriksen", "richardmartinsen", "andrewass", "frodank", "dainiusfigoras", "henrikolsvik", "randijust", "emil323", "aryani1", "paalfb", "TheMather1", "hconhegg", "erikathaug", "MariamPervez", "MartinVKN", "magnuvau", "oyvindbuer", "jorgesti", "JensNav", "mortennormann", "monikaspko", "ehellerslien", "PetterLowzow", "kristoffernaver", "HelgeJanbu", "AskestadEivind", "espengjostol", "r154508", "Hallaraker", "AgneHesten", "YunHuang-Nav", "SpennendeBingo", "eirikmol", "steinshe", "TimAa-nav-dev", "rittikdey", "KimandrenaessNAV", "RamziAbuQassim", "JoakimEJacobsen", "arefsahl", "hakonrd", "KimAndreassen", "MagneNordas", "nilsee-nav", "jSchiefloe", "ArturPiatkowski-NAVIKT", "ogranheim", "sebassonav", "routsi", "eirikstadheim"]
 ---
@@ -3201,7 +2980,6 @@ spec:
   profile:
     displayName: teampensjondatavarehus
     picture: https://avatars.githubusercontent.com/t/4635559?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jordetr"]
 ---
@@ -3215,7 +2993,6 @@ spec:
   profile:
     displayName: teampeon
     picture: https://avatars.githubusercontent.com/t/2605627?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["LarsErikDahl", "urenhale", "jacob-meidell", "MariusEriksen", "randijust", "paalfb", "TheMather1", "MartinVKN", "magnuvau", "AskestadEivind", "espengjostol", "KimandrenaessNAV"]
 ---
@@ -3229,7 +3006,6 @@ spec:
   profile:
     displayName: teamregistrering
     picture: https://avatars.githubusercontent.com/t/3588577?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matiasvinjevoll"]
 ---
@@ -3243,7 +3019,6 @@ spec:
   profile:
     displayName: teamsamtykkedigitalisering
     picture: https://avatars.githubusercontent.com/t/4932130?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -3257,7 +3032,6 @@ spec:
   profile:
     displayName: teamserviceklage
     picture: https://avatars.githubusercontent.com/t/3588580?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["sturleh", "sjoblomjsqueed", "Thomas-CT", "oivindkulsrud", "nils-arne"]
 ---
@@ -3271,7 +3045,6 @@ spec:
   profile:
     displayName: teamsykefravr
     picture: https://avatars.githubusercontent.com/t/3205615?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["juneih", "cyanboy", "janzh", "Vitenok", "luantr", "heyvard", "tiafiring", "poke53280", "JMLindseth", "torchr89", "larsksut", "torhrise", "kaja-nav", "andersrognstad", "geir-waagboe", "AudunSorheim"]
 ---
@@ -3285,7 +3058,6 @@ spec:
   profile:
     displayName: teamsykmelding
     picture: https://avatars.githubusercontent.com/t/3818561?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["mhellevang", "andreasDev", "karl-run", "nuranes", "tiafiring", "cbroark", "Anne-Marthe"]
 ---
@@ -3299,7 +3071,6 @@ spec:
   profile:
     displayName: teamukeloenn
     picture: https://avatars.githubusercontent.com/t/4053218?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["tendestad"]
 ---
@@ -3327,7 +3098,6 @@ spec:
   profile:
     displayName: teknologiredaksjonen
     picture: https://avatars.githubusercontent.com/t/3885396?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "trulsjor", "erlendev", "audunstrand", "einarbj", "espenhoh", "tiafiring", "kjetiljd"]
 ---
@@ -3341,7 +3111,6 @@ spec:
   profile:
     displayName: Test_Test
     picture: https://avatars.githubusercontent.com/t/3009839?s=400&amp;v=4
-  parent: ""
   children: []
   members: []
 ---
@@ -3355,7 +3124,6 @@ spec:
   profile:
     displayName: tpts
     picture: https://avatars.githubusercontent.com/t/5039931?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pjwalstrom", "rfc3092", "sneha-d-desai", "klaramargrethehelgemo", "SolviAndersen", "ElinNav"]
 ---
@@ -3369,7 +3137,6 @@ spec:
   profile:
     displayName: traktor
     picture: https://avatars.githubusercontent.com/t/3062897?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matsbyfl", "Kyrremann", "rbjornstad", "erlingre", "Christergabba", "twincarlin", "sindrerh2", "mariusse", "hfltten", "havtro"]
 ---
@@ -3383,7 +3150,6 @@ spec:
   profile:
     displayName: utvikleropplevelse
     picture: https://avatars.githubusercontent.com/t/4084146?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["christeredvartsen", "x10an14", "toby1knby", "Kyrremann"]
 ---
@@ -3397,7 +3163,6 @@ spec:
   profile:
     displayName: utvikling-ledelse
     picture: https://avatars.githubusercontent.com/t/3838658?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["dervism", "stowre", "nonfiction83", "e117355"]
 ---
@@ -3411,7 +3176,6 @@ spec:
   profile:
     displayName: UU-teamet
     picture: https://avatars.githubusercontent.com/t/3668897?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["Lillebo", "karinaldw", "StaleKjone", "kariandersen", "MBegnum", "mortentollefsen"]
 ---
@@ -3425,7 +3189,6 @@ spec:
   profile:
     displayName: vedensyfo
     picture: https://avatars.githubusercontent.com/t/3568774?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["juneih", "cyanboy", "janzh", "JMLindseth", "torchr89", "torhrise"]
 ---
@@ -3439,7 +3202,6 @@ spec:
   profile:
     displayName: verktøykasse
     picture: https://avatars.githubusercontent.com/t/3518142?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["erlendev", "hallvardastark"]
 ---
@@ -3453,7 +3215,6 @@ spec:
   profile:
     displayName: vibe
     picture: https://avatars.githubusercontent.com/t/3369478?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matiasvinjevoll", "AlexGaard", "sneha-d-desai", "klaramargrethehelgemo", "jeeveshmishranav"]
 ---
@@ -3467,7 +3228,6 @@ spec:
   profile:
     displayName: voff
     picture: https://avatars.githubusercontent.com/t/3304800?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["matiasvinjevoll", "stianStensli", "emildohlenhansen", "klaramargrethehelgemo", "SolviAndersen", "karihamnes", "dragutin-nav", "Mathiamu"]
 ---
@@ -3481,7 +3241,6 @@ spec:
   profile:
     displayName: webanalytics
     picture: https://avatars.githubusercontent.com/t/3909479?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["pbencze", "tovare", "tobiasmcvey", "lljorgeluis"]
 ---
@@ -3495,7 +3254,6 @@ spec:
   profile:
     displayName: WVD
     picture: https://avatars.githubusercontent.com/t/3959874?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["olaholtberget"]
 ---
@@ -3509,6 +3267,5 @@ spec:
   profile:
     displayName: yrkesskade
     picture: https://avatars.githubusercontent.com/t/5122541?s=400&amp;v=4
-  parent: ""
   children: []
   members: ["jarandb", "erlendkri", "hjendal", "mirnamah", "olsnerik"]
